@@ -1,4 +1,4 @@
-# 机会雷达（2026-10-08）
+# 机会雷达（2026-10-09）
 
 ## 竞赛赛事（10）
 - 🆕2026 | 清华“科创杯”创业大赛专题（时间待核实·76｜入口 https://aistudio.baidu.com/competition/detail/1329）
@@ -22,15 +22,9 @@
 - 内蒙古自治区气象局关于举办（时间待核实·35｜⚠入口待找）
   报道 http://nm.cma.gov.cn/zfxxgk/fdzdgknr/wjgk/qtwj/202105/P020210510344365140438.html
 
-## 申报征集（11）
-- 🆕媒体报道 | 中国气象局：正积极推进地球系统数据国际交换中心建设，进一步提升数据安全防护能力-国家数据局（时间待核实·50｜⚠入口待找）
-  报道 https://www.nda.gov.cn/sjj/swdt/mtsy/0613/20260613131557065652281_pc.html
-- 🆕北京市密云区科学技术委员会关于印发《北京市密云区“十五五”时期科技创新发展规划》的通知_政策文件_首都之窗_北京市人民政府门户网站（融资情报·45｜⚠入口待找）
-  报道 https://www.beijing.gov.cn/zhengce/zhengcefagui/202607/t20260701_4742246.html
+## 申报征集（6）
 - 🆕奖项申报 | CNS-CST Outstanding Neuroscientist Award申请通知（时间待核实·7｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s/TSL8ExaNTDmB1MmDvxJbKg
-- 浦东发布“AI+政务”高价值场景（报名中·81｜入口 https://aistudio.baidu.com/competition/detail/1425）
-  报道 https://www.shanghai.gov.cn/nw4411/20260924/792afdb34ac04e0ab5359c29f75baf9e.html
 - 山东省科学技术厅 通知公告 关于组织开展2026年度山东省自然科学基金创新发展联合基金项目申报的通知（时间待核实·60｜⚠入口待找）
   报道 http://kjt.shandong.gov.cn/art/2026/4/21/art_13360_10324852.html
 - 关于发布2026年度国家自然科学基金气象联合基金<br>“量子技术气象应用”领域申请指南的通告（时间待核实·57｜入口 https://www.heywhale.com/home/competition/68416265d91d75eb531077d6）
@@ -41,10 +35,6 @@
   报道 http://kjt.jiangxi.gov.cn/jxskxjst/col/col27029/content/content_2085292279476854784.html
 - 关于2026年海南省自然科学基金联合项目申报通知-科学技术发展院（科技处、乡村振兴办公室）（时间待核实·50｜⚠入口待找）
   报道 https://scitech.hainanu.edu.cn/info/1069/14673.htm
-- 城市院9个项目获得国家自然科学基金项目资助（报名中·50｜⚠入口待找）
-  报道 https://www.ium.cn/index.php/home/news/view/id/3206.html
-- 检索结果-信息公告栏（时间待核实·41｜⚠入口待找）
-  报道 https://bulletin.nuist.edu.cn/ssjgy.jsp?totalpage=365&PAGENUM=19&urltype=tree.TreeTempUrl&wbtreeid=1047&showkeycode=
 
 ## 招标采购（19）
 - 🆕能见度仪求购_求购能见度仪|采购|购置信息 - 八方资源网仪器仪表频道求购频道（招标中·61｜⚠入口待找）
@@ -124,11 +114,15 @@
 - 我国首个金融气象AI模型“熵机”发布（融资情报·52｜⚠入口待找）
   报道 https://www.stdaily.com/web/gdxw/2026-01/12/content_460534.html
 
-## 其他（31）
+## 其他（36）
 - 🆕Jeff Dean创业BP曝光，杨植麟也在上面，硅谷VC抢破头送钱_投资界（融资情报·58｜⚠入口待找）
   报道 https://news.pedaily.cn/202608/567438.shtml
 - 🆕气象爱好者协会 | 投票 | 谁懂!气象科普被AI玩明白了（时间待核实·53｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s?__biz=MjM5MDQyODI5NA==&mid=2652183221&idx=1&sn=01cc9609e3821ed02d0ae5226f5c3847&chksm=bc6813d20d323bbbe83ab850e4a84a42368035690b816424a5ae6d82b0367129de543cf0c9a3&scene=27
+- 🆕媒体报道 | 中国气象局：正积极推进地球系统数据国际交换中心建设，进一步提升数据安全防护能力-国家数据局（时间待核实·50｜⚠入口待找）
+  报道 https://www.nda.gov.cn/sjj/swdt/mtsy/0613/20260613131557065652281_pc.html
+- 🆕北京市密云区科学技术委员会关于印发《北京市密云区“十五五”时期科技创新发展规划》的通知_政策文件_首都之窗_北京市人民政府门户网站（融资情报·45｜⚠入口待找）
+  报道 https://www.beijing.gov.cn/zhengce/zhengcefagui/202607/t20260701_4742246.html
 - 🆕AIGC人工影响天气（报名中·34｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV12vYP66Ezk
 - 🆕科技赋能特色农业 精准气象护航振兴（时间待核实·18｜⚠入口待找）
@@ -151,6 +145,8 @@
   报道 https://www.bilibili.com/video/BV1drhB62Emp
 - 天池新赛预告，即将上线的大赛你想参加哪个？(有奖回复)_天池技术圈-阿里云天池（线索汇总·94｜⚠入口待找）
   报道 https://tianchi.aliyun.com/forum/post/3013
+- 浦东发布“AI+政务”高价值场景（报名中·81｜入口 https://aistudio.baidu.com/competition/detail/1425）
+  报道 https://www.shanghai.gov.cn/nw4411/20260924/792afdb34ac04e0ab5359c29f75baf9e.html
 - 承接粤港澳一分钟《气象小主播》视频制作学生天气预报视频制作气象预报视频制作#气象小主播 #气象小主播演讲 #气象小主播大赛 #气象小主播参赛视频（时间待核实·76｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1ohMZ61E3G
 - 原创AIGC动画《梅雨气象组》。 当你用职场的方式打开天气，太阳也不过是个46亿年的打工仔。清凉一夏，爆笑职场。 #抖音ai创作大赛 #开放赛道 #搞笑 #原创（时间待核实·76｜⚠入口待找）
@@ -169,8 +165,12 @@
   报道 https://www.bilibili.com/video/BV1o7ht6pEZi
 - 🌤️扎根天府，智启未来✨ 成都信息工程大学，气象特色名校，信息工科硬核出众 学科强劲，就业深造双优 成于大气，信达天下 欢迎踊跃报名，共赴璀璨青春🚀 #2026（时间待核实·52｜⚠入口待找）
   报道 https://www.douyin.com/video/7657470041327929465
+- 城市院9个项目获得国家自然科学基金项目资助（报名中·50｜⚠入口待找）
+  报道 https://www.ium.cn/index.php/home/news/view/id/3206.html
 - 林骑士再度受邀到宁夏青铜峡，担任第16届亚洲葡萄酒质量大赛评委。时隔一年，发现鸽子山产区又有了新气象，有的酒庄去年还是一片工地，今年已经变得美轮美奂了。在…（时间待核实·47｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1YeKn6wEPU
+- 检索结果-信息公告栏（时间待核实·41｜⚠入口待找）
+  报道 https://bulletin.nuist.edu.cn/ssjgy.jsp?totalpage=365&PAGENUM=19&urltype=tree.TreeTempUrl&wbtreeid=1047&showkeycode=
 - 大J将担任氪对高达基地挑战赛解说，天气太热，牢银人就不去了。敢达争锋对决 来自银人的分享：氪对高达基地限定挑战赛广州站解说公开。（时间待核实·41｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1qUgA6YERu
 - 4天气山河挑战赛42阶段娱乐。（时间待核实·41｜⚠入口待找）

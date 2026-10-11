@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T13:51:33.896011",
+  "generated": "2026-10-11T14:06:37.809987",
   "active": [
     {
       "event_key": "investment:ai气象模型weathermesh6发布，预报精度超欧洲政府机构...",
@@ -60,22 +60,6 @@
       "status_label": "时间待核实",
       "platform": "weixin",
       "score": 65.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "other:竞赛单元",
-      "title": "竞赛单元",
-      "report_url": "https://ccf.org.cn/Computility2026/news_d_2112",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 62.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -171,6 +155,22 @@
       "status": "unknown",
       "status_label": "时间待核实",
       "platform": "web",
+      "score": 60.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:s创上海2026路演大赛报名开启｜初创企业xs创=改变世界！",
+      "title": "S创上海2026路演大赛报名开启｜初创企业 x S创 = 改变世界！",
+      "report_url": "https://mp.weixin.qq.com/s/Z5MfSzN_2XbpK2SLvHiWWA",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "weixin",
       "score": 60.0,
       "deadline": null,
       "published_at": null,
@@ -994,6 +994,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:竞赛单元",
+      "title": "竞赛单元",
+      "report_url": "https://ccf.org.cn/Computility2026/news_d_2112",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 62.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:能见度仪器批发价格优质货源百度爱采购",
       "title": "能见度仪器-批发价格-优质货源 - 百度爱采购",
       "report_url": "https://b2b.baidu.com/s?q=%E8%83%BD%E8%A7%81%E5%BA%A6%E4%BB%AA%E5%99%A8",
@@ -1522,22 +1538,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:内蒙古自治区气象局关于举办",
-      "title": "内蒙古自治区气象局关于举办",
-      "report_url": "http://nm.cma.gov.cn/zfxxgk/fdzdgknr/wjgk/qtwj/202105/P020210510344365140438.html",
-      "official_url": null,
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 35.0,
-      "deadline": "2026-11-15",
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "other:气象数值预报中心工业存储与ai算力硬件配套怎么选",
       "title": "气象数值预报中心工业存储与AI算力硬件配套怎么选",
       "report_url": "https://www.bilibili.com/read/cv53144023",
@@ -1586,5 +1586,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 108
+  "ended_count": 109
 }

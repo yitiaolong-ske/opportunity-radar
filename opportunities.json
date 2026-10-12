@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-11T14:06:37.809987",
+  "generated": "2026-10-12T20:41:14.403202",
   "active": [
     {
       "event_key": "investment:ai气象模型weathermesh6发布，预报精度超欧洲政府机构...",
@@ -28,6 +28,54 @@
       "status_label": "时间待核实",
       "platform": "web",
       "score": 76.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:云遥宇航",
+      "title": "云遥宇航完成5亿元B+轮融资，聚焦多载荷卫星领域_投资界",
+      "report_url": "https://news.pedaily.cn/202604/562390.shtml",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 72.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:wmo为保障预测支柱推出新融资伙伴倡议|世界气象组织",
+      "title": "WMO为保障预测支柱推出新融资伙伴倡议 | 世界气象组织",
+      "report_url": "https://wmo.int/zh-hans/news/media-centre/wmoweibaozhangyucezhizhutuichuxinrongzihuobanchangyi",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other://xmoagentstore：ai应用商店，想要什么功能自己选",
+      "title": "//XMO-AgentStore：AI应用商店，想要什么功能自己选",
+      "report_url": "https://mp.weixin.qq.com/s/7-pL8EMzXrfBgkeagKzxeQ",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "weixin",
+      "score": 66.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -194,9 +242,41 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:看天",
+      "title": "2000亿的气象经济，却养不活1万家“看天”企业-虎嗅网",
+      "report_url": "https://www.huxiu.com/article/4877315.html",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 58.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "investment:天津星",
       "title": "从47颗星到全链自主，“天津星”闪耀商业航天新赛道",
       "report_url": "https://www.sohu.com/a/1019048140_121443915",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 55.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:气象融资的最新相关消息",
+      "title": "气象 融资的最新相关消息",
+      "report_url": "http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e8%9e%8d%e8%b5%84&src=onebox",
       "official_url": null,
       "category": "investment",
       "category_label": "投融资",
@@ -448,22 +528,6 @@
       "published_at": null,
       "is_new": true,
       "report_count": 1
-    },
-    {
-      "event_key": "competition:人工智能+气象",
-      "title": "2026 年 AI 赋能千行百业超级联赛 “人工智能 + 气象” 创新应用大赛正式启动 _光明网",
-      "report_url": "https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm",
-      "official_url": "https://www.kaggle.com/competitions/forecasting-the-future-the-helios-corn-climate-challenge",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 97.0,
-      "deadline": null,
-      "published_at": "2026-06-24",
-      "is_new": false,
-      "report_count": 10
     },
     {
       "event_key": "other:基于机器学习与大模型的气象电力数据分析平台",
@@ -896,6 +960,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "competition:人工智能+气象",
+      "title": "关于举办2026年AI赋能千行百业超级联赛“人工智能+气象”创新应用...",
+      "report_url": "https://www.cma.gov.cn/2011zwxx/2011ztzgg/202606/t20260625_7882673.html",
+      "official_url": "https://www.kaggle.com/competitions/forecasting-the-future-the-helios-corn-climate-challenge",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 66.0,
+      "deadline": null,
+      "published_at": "2026-06-25",
+      "is_new": false,
+      "report_count": 10
     },
     {
       "event_key": "other:简拉维",
@@ -1586,5 +1666,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 109
+  "ended_count": 111
 }

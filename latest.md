@@ -1,4 +1,4 @@
-# 机会雷达（2026-10-11）
+# 机会雷达（2026-10-12）
 
 ## 竞赛赛事（10）
 - 🆕2026 | 清华“科创杯”创业大赛专题（时间待核实·76｜入口 https://aistudio.baidu.com/competition/detail/1329）
@@ -7,12 +7,12 @@
   报道 https://mp.weixin.qq.com/s?__biz=MjM5ODIzMjQwMg==&mid=2650630889&idx=1&sn=d86671e18e2ae61f465fb9277d95f2ea&chksm=bf46154d6a30ff6483a10dbe190d203aeeb44dc3256bc8e6e7ddb27aa99efa96e2611ca02441&scene=27
 - 🆕海内外顶尖机构联合举办 NeurIPS 2026 竞赛，全球招募 AI for Physical Systems 顶尖团队!（时间待核实·15｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s?src=11&timestamp=1784772311&ver=6859&signature=Ay11Jq%2A-m8HfTDG6XiZJIUkR8pcXzbJKn1fd8HEixt1TWGcwDnDsJedQyplYjWKLXqiTaa2ldoLzTeFB6o-HvPjra6UkKe%2A-jS25zg3l0Q4VmA-emony1rtYT5Mdsffe&new=1
-- 2026 年 AI 赋能千行百业超级联赛 “人工智能 + 气象” 创新应用大赛正式启动 _光明网（时间待核实·97｜入口 https://www.kaggle.com/competitions/forecasting-the-future-the-helios-corn-climate-challenge）
-  报道 https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm
 - 联通气象杯：气象数据要素赋能广东重点行业模型算法优选赛 - 琶洲算法大赛（报名中·75｜截止2026-10-23｜入口 https://www.aicompetition-pz.com/topic_registration）
   报道 https://www.aicompetition-pz.com/topic_detail/36
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
+- 关于举办2026年AI赋能千行百业超级联赛“人工智能+气象”创新应用...（时间待核实·66｜入口 https://www.kaggle.com/competitions/forecasting-the-future-the-helios-corn-climate-challenge）
+  报道 https://www.cma.gov.cn/2011zwxx/2011ztzgg/202606/t20260625_7882673.html
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
   报道 https://www.douyin.com/video/7662564938002599187
 - 速递 | 关于申报武汉大学2027年大学生创新训练计划项目的通知_指导_选题_高等研究院（时间待核实·55｜⚠入口待找）
@@ -80,17 +80,25 @@
 - 北京市科学技术委员会、中关村科技园区管理委员会关于征集2026年重点应用场景储备项目及科技新场景供需对接储备活动的通知（招标动态·37｜⚠入口待找）
   报道 https://www.ncsti.gov.cn/kjdt/tzgg/202607/t20260702_250686.html
 
-## 投融资（18）
+## 投融资（22）
 - 🆕AI 气象模型WeatherMesh-6 发布，预报精度超欧洲政府机构 ...（融资情报·77｜⚠入口待找）
   报道 https://www.ithome.com/0/958/489.htm
+- 🆕云遥宇航完成5亿元B+轮融资，聚焦多载荷卫星领域_投资界（融资情报·72｜⚠入口待找）
+  报道 https://news.pedaily.cn/202604/562390.shtml
+- 🆕WMO为保障预测支柱推出新融资伙伴倡议 | 世界气象组织（融资情报·70｜⚠入口待找）
+  报道 https://wmo.int/zh-hans/news/media-centre/wmoweibaozhangyucezhizhutuichuxinrongzihuobanchangyi
 - 🆕20亿美元豪赌与林俊旸的下半场-36氪（融资情报·65｜⚠入口待找）
   报道 https://m.36kr.com/p/3863983975044354
 - 🆕央行公示福建第7批金融科技创新应用，关注涉农（融资情报·60｜⚠入口待找）
   报道 https://m.mpaypass.com.cn/news/202609/02181941.html
 - 🆕银河通用完成超3亿美元新融资，创人形机器人行业融资最高纪录; MiniMax通过港交所聆讯，计划2026年1月挂牌上市丨AI周报（融资情报·60｜⚠入口待找）
   报道 https://m.cyzone.cn/article/819404.html
+- 🆕2000亿的气象经济，却养不活1万家“看天”企业-虎嗅网（融资情报·58｜⚠入口待找）
+  报道 https://www.huxiu.com/article/4877315.html
 - 🆕从47颗星到全链自主，“天津星”闪耀商业航天新赛道（融资情报·55｜⚠入口待找）
   报道 https://www.sohu.com/a/1019048140_121443915
+- 🆕气象 融资的最新相关消息（融资情报·55｜⚠入口待找）
+  报道 http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e8%9e%8d%e8%b5%84&src=onebox
 - 物理AI气象大模型企业「天序智能」完成由云泽资本独家投资的数千万元Pre-A轮融资- 极新（融资情报·95｜⚠入口待找）
   报道 https://www.jixin.tech/mobile/show.php?classid=1&id=7366&style=0&cpage=&cid=1&bclassid=0
 - 星睿云智获戈壁创投战略投资　加速人工智能驱动卫星气象解决方案商业化-公司新闻-星睿雲智（融资情报·94｜⚠入口待找）
@@ -118,7 +126,9 @@
 - 我国首个金融气象AI模型“熵机”发布（融资情报·52｜⚠入口待找）
   报道 https://www.stdaily.com/web/gdxw/2026-01/12/content_460534.html
 
-## 其他（44）
+## 其他（45）
+- 🆕//XMO-AgentStore：AI应用商店，想要什么功能自己选（时间待核实·66｜⚠入口待找）
+  报道 https://mp.weixin.qq.com/s/7-pL8EMzXrfBgkeagKzxeQ
 - 🆕北京城市气象研究院（时间待核实·60｜⚠入口待找）
   报道 https://www.ium.cn/index.php/home/news/view/id/3206.html
 - 🆕S创上海2026路演大赛报名开启｜初创企业 x S创 = 改变世界！（时间待核实·60｜⚠入口待找）

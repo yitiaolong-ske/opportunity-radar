@@ -11,14 +11,14 @@
   报道 https://www.aicompetition-pz.com/topic_detail/36
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
-- 关于举办2026年AI赋能千行百业超级联赛“人工智能+气象”创新应用...（时间待核实·66｜入口 https://www.kaggle.com/competitions/forecasting-the-future-the-helios-corn-climate-challenge）
-  报道 https://www.cma.gov.cn/2011zwxx/2011ztzgg/202606/t20260625_7882673.html
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
   报道 https://www.douyin.com/video/7662564938002599187
 - 速递 | 关于申报武汉大学2027年大学生创新训练计划项目的通知_指导_选题_高等研究院（时间待核实·55｜⚠入口待找）
   报道 https://www.sohu.com/a/1050762344_121123739
 - 创新创业中心学创杯竞赛技术服务项目直接确认供应商公示-中国民用航空飞行学院（时间待核实·50｜入口 https://aistudio.baidu.com/competition/detail/1105/0/introduction）
   报道 https://www.cafuc.edu.cn/info/1065/56115.htm
+- 国家气象信息中心-中国气象数据网（时间待核实·50｜⚠入口待找）
+  报道 http://data.cma.cn/site/article/id/42960.html
 - 香港都会大学队伍在第十二届香港大学生创新及创业大赛中获得嘉许（时间待核实·48｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.hkmu.edu.hk/st/sc/achievements-sc/%E9%A6%99%E6%B8%AF%E9%83%BD%E4%BC%9A%E5%A4%A7%E5%AD%A6%E9%98%9F%E4%BC%8D%E5%9C%A8%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E6%96%B0%E5%8F%8A%E5%88%9B
 
@@ -126,15 +126,15 @@
 - 我国首个金融气象AI模型“熵机”发布（融资情报·52｜⚠入口待找）
   报道 https://www.stdaily.com/web/gdxw/2026-01/12/content_460534.html
 
-## 其他（45）
-- 🆕//XMO-AgentStore：AI应用商店，想要什么功能自己选（时间待核实·66｜⚠入口待找）
-  报道 https://mp.weixin.qq.com/s/7-pL8EMzXrfBgkeagKzxeQ
+## 其他（46）
 - 🆕北京城市气象研究院（时间待核实·60｜⚠入口待找）
   报道 https://www.ium.cn/index.php/home/news/view/id/3206.html
 - 🆕S创上海2026路演大赛报名开启｜初创企业 x S创 = 改变世界！（时间待核实·60｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s/Z5MfSzN_2XbpK2SLvHiWWA
 - 🆕Jeff Dean创业BP曝光，杨植麟也在上面，硅谷VC抢破头送钱_投资界（融资情报·58｜⚠入口待找）
   报道 https://news.pedaily.cn/202608/567438.shtml
+- 🆕阿干户外:美人鱼挑战赛第21天 新位置新气象！（报名中·57｜⚠入口待找）
+  报道 https://www.bilibili.com/video/BV1USpD6nEav
 - 🆕气象爱好者协会 | 投票 | 谁懂!气象科普被AI玩明白了（时间待核实·53｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s?__biz=MjM5MDQyODI5NA==&mid=2652183221&idx=1&sn=01cc9609e3821ed02d0ae5226f5c3847&chksm=bc6813d20d323bbbe83ab850e4a84a42368035690b816424a5ae6d82b0367129de543cf0c9a3&scene=27
 - 🆕媒体报道 | 中国气象局：正积极推进地球系统数据国际交换中心建设，进一步提升数据安全防护能力-国家数据局（时间待核实·50｜⚠入口待找）
@@ -179,6 +179,8 @@
   报道 https://www.bilibili.com/video/BV1xWGw6UEgt
 - 三台共舞？！台气象署不认台风“简拉维” 这周“沙德尔”恐登陆？！│传台部长洪申翰拟赴上海世界技能大赛 劳动部：仍在整体评估中（时间待核实·66｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV17Thg6TEeA
+- //XMO-AgentStore：AI应用商店，想要什么功能自己选（时间待核实·66｜⚠入口待找）
+  报道 https://mp.weixin.qq.com/s/7-pL8EMzXrfBgkeagKzxeQ
 - 竞赛单元（时间待核实·62｜⚠入口待找）
   报道 https://ccf.org.cn/Computility2026/news_d_2112
 - 山海关不住，东北超级酷！这场比赛，整个东北都赢了！ #东北超 #东北超有范儿 #万千气象看辽宁 #东北超燃AI看大连 #东北振兴（报名中·61｜⚠入口待找）

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T20:41:14.403202",
+  "generated": "2026-10-12T20:46:11.949587",
   "active": [
     {
       "event_key": "investment:ai气象模型weathermesh6发布，预报精度超欧洲政府机构...",
@@ -60,22 +60,6 @@
       "status_label": "融资情报",
       "platform": "web",
       "score": 70.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "other://xmoagentstore：ai应用商店，想要什么功能自己选",
-      "title": "//XMO-AgentStore：AI应用商店，想要什么功能自己选",
-      "report_url": "https://mp.weixin.qq.com/s/7-pL8EMzXrfBgkeagKzxeQ",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "weixin",
-      "score": 66.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -254,6 +238,22 @@
       "score": 58.0,
       "deadline": null,
       "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:阿干户外:美人鱼挑战赛第21天新位置新气象！",
+      "title": "阿干户外:美人鱼挑战赛第21天 新位置新气象！",
+      "report_url": "https://www.bilibili.com/video/BV1USpD6nEav",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 57.0,
+      "deadline": null,
+      "published_at": "2026-10-12",
       "is_new": true,
       "report_count": 1
     },
@@ -962,22 +962,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:人工智能+气象",
-      "title": "关于举办2026年AI赋能千行百业超级联赛“人工智能+气象”创新应用...",
-      "report_url": "https://www.cma.gov.cn/2011zwxx/2011ztzgg/202606/t20260625_7882673.html",
-      "official_url": "https://www.kaggle.com/competitions/forecasting-the-future-the-helios-corn-climate-challenge",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 66.0,
-      "deadline": null,
-      "published_at": "2026-06-25",
-      "is_new": false,
-      "report_count": 10
-    },
-    {
       "event_key": "other:简拉维",
       "title": "三台共舞？！台气象署不认台风“简拉维” 这周“沙德尔”恐登陆？！│传台部长洪申翰拟赴上海世界技能大赛 劳动部：仍在整体评估中",
       "report_url": "https://www.bilibili.com/video/BV17Thg6TEeA",
@@ -1003,6 +987,22 @@
       "status": "investment",
       "status_label": "融资情报",
       "platform": "web",
+      "score": 66.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "other://xmoagentstore：ai应用商店，想要什么功能自己选",
+      "title": "//XMO-AgentStore：AI应用商店，想要什么功能自己选",
+      "report_url": "https://mp.weixin.qq.com/s/7-pL8EMzXrfBgkeagKzxeQ",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "weixin",
       "score": 66.0,
       "deadline": null,
       "published_at": null,
@@ -1474,6 +1474,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:国家气象信息中心中国气象数据网",
+      "title": "国家气象信息中心-中国气象数据网",
+      "report_url": "http://data.cma.cn/site/article/id/42960.html",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:香港都会大学队伍在第十二届香港大学生创新及创业大赛",
       "title": "香港都会大学队伍在第十二届香港大学生创新及创业大赛中获得嘉许",
       "report_url": "https://www.hkmu.edu.hk/st/sc/achievements-sc/%E9%A6%99%E6%B8%AF%E9%83%BD%E4%BC%9A%E5%A4%A7%E5%AD%A6%E9%98%9F%E4%BC%8D%E5%9C%A8%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E6%96%B0%E5%8F%8A%E5%88%9B",
@@ -1666,5 +1682,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 111
+  "ended_count": 112
 }

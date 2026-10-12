@@ -1,6 +1,22 @@
 {
-  "generated": "2026-10-12T20:46:11.949587",
+  "generated": "2026-10-12T20:48:31.421121",
   "active": [
+    {
+      "event_key": "grant:人工智能+气象",
+      "title": "2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...",
+      "report_url": "https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 97.0,
+      "deadline": null,
+      "published_at": "2026-06-24",
+      "is_new": true,
+      "report_count": 4
+    },
     {
       "event_key": "investment:ai气象模型weathermesh6发布，预报精度超欧洲政府机构...",
       "title": "AI 气象模型WeatherMesh-6 发布，预报精度超欧洲政府机构 ...",
@@ -242,22 +258,6 @@
       "report_count": 1
     },
     {
-      "event_key": "other:阿干户外:美人鱼挑战赛第21天新位置新气象！",
-      "title": "阿干户外:美人鱼挑战赛第21天 新位置新气象！",
-      "report_url": "https://www.bilibili.com/video/BV1USpD6nEav",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 57.0,
-      "deadline": null,
-      "published_at": "2026-10-12",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "investment:天津星",
       "title": "从47颗星到全链自主，“天津星”闪耀商业航天新赛道",
       "report_url": "https://www.sohu.com/a/1019048140_121443915",
@@ -332,22 +332,6 @@
       "status_label": "已中标",
       "platform": "web",
       "score": 50.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "investment:十五五",
-      "title": "北京市密云区科学技术委员会关于印发《北京市密云区“十五五”时期科技创新发展规划》的通知_政策文件_首都之窗_北京市人民政府门户网站",
-      "report_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202607/t20260701_4742246.html",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 45.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -594,6 +578,38 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:数据要素×",
+      "title": "2026年“数据要素×”大赛赛题指南",
+      "report_url": "https://sjj.hubei.gov.cn/bmdt/esyw/202606/t20260605_5953162.shtml",
+      "official_url": "https://www.datafountain.cn/competitions/1098",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 85.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 3
+    },
+    {
       "event_key": "investment:洞察天机",
       "title": "AI气象大模型的下半场：当天气开始进入现金流-钛媒体官方网站",
       "report_url": "https://www.tmtpost.com/7871105.html",
@@ -640,6 +656,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "competition:人工智能+气象",
+      "title": "广西 人工智能+气象 创新应用大赛正式启动-新华网",
+      "report_url": "https://www.so.com/link?m=ejvkQqjKlVXXa54ILA9YUFiO%2BDgpvIZAEF133AyVomBcSgiF97kQA%2FtPNdFJYraTYfzZU9P8IxItANganA6Ksvr1qgUkqBzAtDQ9GI5SoXLqQQ0Alzys3NydCnP6ALPTOO5l6j7YqtNCFPrCHcKPlLP3a3XAvGP3UddPzL6Z84KvrMpi9WYm8ntYmwiqOOjahQPcHtLiQdHRukvwbHDC16u9Olzduh8JSbYPKOY9zze5K55RBi7CiMSmBJbSa8FPta3gSZQZxtA2AbjPZ",
+      "official_url": "https://www.kaggle.com/competitions/forecasting-the-future-the-helios-corn-climate-challenge",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 81.0,
+      "deadline": null,
+      "published_at": "2026-06-25",
+      "is_new": false,
+      "report_count": 10
     },
     {
       "event_key": "grant:ai+政务",
@@ -818,22 +850,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:揭榜挂帅",
-      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
-      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 73.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "other:coherent需求能见度高，但股价已反映ai预期？",
       "title": "Coherent需求能见度高，但股价已反映AI预期？",
       "report_url": "https://www.bilibili.com/video/BV1EuE16zEMj",
@@ -956,6 +972,22 @@
       "status_label": "时间待核实",
       "platform": "web",
       "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:十五五",
+      "title": "【其他政策】关于印发江苏省“十五五”气象发展规划的通知",
+      "report_url": "http://www.chuangxin360.com/guest/policy/policyinfo_263986a5-6731-43c9-a434-6d2c8eaef40e/seo.html",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 69.0,
       "deadline": null,
       "published_at": null,
       "is_new": false,
@@ -1216,6 +1248,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 2
+    },
+    {
+      "event_key": "other:阿干户外:美人鱼挑战赛第21天新位置新气象！",
+      "title": "阿干户外:美人鱼挑战赛第21天 新位置新气象！",
+      "report_url": "https://www.bilibili.com/video/BV1USpD6nEav",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 57.0,
+      "deadline": null,
+      "published_at": "2026-10-12",
+      "is_new": false,
+      "report_count": 1
     },
     {
       "event_key": "other:气象小主播",
@@ -1682,5 +1730,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 112
+  "ended_count": 113
 }

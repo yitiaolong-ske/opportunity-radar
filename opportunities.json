@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T19:30:16.707970",
+  "generated": "2026-10-13T22:21:29.351016",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -50,22 +50,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:兰州大学选拔赛",
-      "title": "关于举办第三届甘肃省大学生数据挖掘与智慧气象人工智能编程挑战赛(智慧气象人工智能编程赛道)兰州大学选拔赛的通知",
-      "report_url": "https://atmos.lzu.edu.cn/html/dqxy/lddqxy/shouye/tongzhigg/2109928961789255682.html",
-      "official_url": null,
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 89.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "tender:气象能见度仪器招标采购商品批发价格百度爱采购",
       "title": "气象 能见度 仪器 招标 采购 - 商品批发价格 - 百度爱采购",
       "report_url": "https://b2b.baidu.com/ss?q=%E6%B0%94%E8%B1%A1%20%E8%83%BD%E8%A7%81%E5%BA%A6%20%E4%BB%AA%E5%99%A8%20%E6%8B%9B%E6%A0%87%20%E9%87%87%E8%B4%AD&from_restype=product&pi=baidu.b2b_straight.title...f2d2aed6000ade6b&from=b2b_straight&srcid=5103",
@@ -96,6 +80,22 @@
       "published_at": null,
       "is_new": true,
       "report_count": 2
+    },
+    {
+      "event_key": "grant:气象服务守护美丽山水（深度观察）",
+      "title": "气象服务守护美丽山水（深度观察）",
+      "report_url": "http://he.people.com.cn/n2/2026/1012/c192235-41719053.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 77.0,
+      "deadline": null,
+      "published_at": "2026-10-12",
+      "is_new": true,
+      "report_count": 1
     },
     {
       "event_key": "competition:科创杯",
@@ -354,6 +354,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:2026外滩大会储能ai创新论坛报名倒计时",
+      "title": "2026外滩大会储能AI创新论坛报名倒计时",
+      "report_url": "https://wappass.baidu.com/static/captcha/tuxing.html?ak=572be823e2f50ea759a616c060d6b9f1&backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fid%3D1875357726486928857%26wfr%3Dspider%26for%3Dpc%26third%3Dbaijiahao%26baijiahao_id%3D1875357726486928857%26c_source%3Dkunlun%26c_score%3D0.999100&timestamp=1791900445&signature=5b4360593a88e1b31a1adb1a19e44962",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 59.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "investment:jeffdean创业bp曝光，杨植麟也在上面，硅谷vc抢破头送钱投资界",
       "title": "Jeff Dean创业BP曝光，杨植麟也在上面，硅谷VC抢破头送钱_投资界",
       "report_url": "https://news.pedaily.cn/202608/567438.shtml",
@@ -362,6 +378,22 @@
       "category_label": "其他",
       "status": "investment",
       "status_label": "融资情报",
+      "platform": "web",
+      "score": 58.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:2026年上海师范大学本科学科竞赛目录",
+      "title": "2026年上海师范大学本科学科竞赛目录",
+      "report_url": "https://ec.shnu.edu.cn/_upload/article/files/c7/93/b10d3bad4ee586608fb571e944d7/c3dd2c7c-988c-461b-b0b1-76d198a1709d.pdf",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "web",
       "score": 58.0,
       "deadline": null,
@@ -482,22 +514,6 @@
       "report_count": 1
     },
     {
-      "event_key": "other:第十一届天津市科普微视频大赛获奖作品：烟火津沽，气象其中",
-      "title": "第十一届天津市科普微视频大赛获奖作品：烟火津沽，气象其中",
-      "report_url": "https://www.bilibili.com/video/BV1W1WA6kEPS",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 53.0,
-      "deadline": null,
-      "published_at": "2026-10-13",
-      "is_new": true,
-      "report_count": 2
-    },
-    {
       "event_key": "grant:媒体报道|中国气象局：正积极推进地球系统数据国际交换中心建设，进一步提升数据安全",
       "title": "媒体报道 | 中国气象局：正积极推进地球系统数据国际交换中心建设，进一步提升数据安全防护能力-国家数据局",
       "report_url": "https://www.nda.gov.cn/sjj/swdt/mtsy/0613/20260613131557065652281_pc.html",
@@ -556,22 +572,6 @@
       "status_label": "时间待核实",
       "platform": "web",
       "score": 50.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "grant:河南省气象局",
-      "title": "河南省气象局",
-      "report_url": "http://ha.cma.gov.cn/nanyang/nyxinxigk/index.html",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 37.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -866,22 +866,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:我校在江苏大学生创新大赛",
-      "title": "一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网",
-      "report_url": "https://news.nuist.edu.cn/info/1003/131382.htm",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 80.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "competition:广西气温实况图天气产品图广西壮族自治区气象局",
       "title": "广西气温实况图_天气产品图_广西壮族自治区气象局",
       "report_url": "http://gx.cma.gov.cn/qxfw/tqcpt/201812/t20181206_80120.html",
@@ -1106,22 +1090,6 @@
       "report_count": 1
     },
     {
-      "event_key": "investment:十五五",
-      "title": "【其他政策】关于印发江苏省“十五五”气象发展规划的通知",
-      "report_url": "http://www.chuangxin360.com/guest/policy/policyinfo_263986a5-6731-43c9-a434-6d2c8eaef40e/seo.html",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 73.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "investment:墨迹天气携前沿气象科技亮相2026服贸会依托精准气象能力，赋能绿色能源韧性发展潮",
       "title": "墨迹天气携前沿气象科技亮相2026服贸会 依托精准气象能力，赋能绿色能源韧性发展 - 潮起网",
       "report_url": "https://www.ichaoqi.com/caijing/2026/0911/86999.html",
@@ -1260,6 +1228,22 @@
       "status_label": "时间待核实",
       "platform": "web",
       "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:十五五",
+      "title": "【其他政策】关于印发江苏省“十五五”气象发展规划的通知",
+      "report_url": "http://www.chuangxin360.com/guest/policy/policyinfo_263986a5-6731-43c9-a434-6d2c8eaef40e/seo.html",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 69.0,
       "deadline": null,
       "published_at": null,
       "is_new": false,
@@ -1600,6 +1584,22 @@
       "published_at": "2026-09-23",
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "other:第十一届天津市科普微视频大赛获奖作品：烟火津沽，气象其中",
+      "title": "第十一届天津市科普微视频大赛获奖作品：烟火津沽，气象其中",
+      "report_url": "https://www.bilibili.com/video/BV1W1WA6kEPS",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 53.0,
+      "deadline": null,
+      "published_at": "2026-10-13",
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "grant:关于征集气象科技服务需求与合作意向的通知江西省蓝天科创有限公司",
@@ -2018,5 +2018,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 123
+  "ended_count": 127
 }

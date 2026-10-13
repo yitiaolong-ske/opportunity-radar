@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T18:01:28.901020",
+  "generated": "2026-10-13T19:30:16.707970",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -338,6 +338,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:2026亚洲青年学生气候变化与健康创新大赛",
+      "title": "关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛 ...",
+      "report_url": "https://bulletin.nuist.edu.cn/info/1016/56216.htm",
+      "official_url": "https://www.heywhale.com/home/competition/697ad5a9e782130e4c66f3cc",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 60.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "investment:jeffdean创业bp曝光，杨植麟也在上面，硅谷vc抢破头送钱投资界",
       "title": "Jeff Dean创业BP曝光，杨植麟也在上面，硅谷VC抢破头送钱_投资界",
       "report_url": "https://news.pedaily.cn/202608/567438.shtml",
@@ -466,6 +482,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:第十一届天津市科普微视频大赛获奖作品：烟火津沽，气象其中",
+      "title": "第十一届天津市科普微视频大赛获奖作品：烟火津沽，气象其中",
+      "report_url": "https://www.bilibili.com/video/BV1W1WA6kEPS",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 53.0,
+      "deadline": null,
+      "published_at": "2026-10-13",
+      "is_new": true,
+      "report_count": 2
+    },
+    {
       "event_key": "grant:媒体报道|中国气象局：正积极推进地球系统数据国际交换中心建设，进一步提升数据安全",
       "title": "媒体报道 | 中国气象局：正积极推进地球系统数据国际交换中心建设，进一步提升数据安全防护能力-国家数据局",
       "report_url": "https://www.nda.gov.cn/sjj/swdt/mtsy/0613/20260613131557065652281_pc.html",
@@ -504,6 +536,22 @@
       "official_url": null,
       "category": "grant",
       "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:检索结果信息公告栏",
+      "title": "检索结果-信息公告栏",
+      "report_url": "https://bulletin.nuist.edu.cn/ssjgy.jsp?totalpage=361&PAGENUM=11&urltype=tree.TreeTempUrl&wbtreeid=1047&showkeycode=",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
       "status": "unknown",
       "status_label": "时间待核实",
       "platform": "web",
@@ -754,22 +802,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:国家气象信息中心中国气象数据网",
-      "title": "国家气象信息中心-中国气象数据网",
-      "report_url": "http://data.cma.cn/site/article/id/43004.html",
-      "official_url": null,
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 85.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "investment:洞察天机",
       "title": "AI气象大模型的下半场：当天气开始进入现金流-钛媒体官方网站",
       "report_url": "https://www.tmtpost.com/7871105.html",
@@ -830,6 +862,22 @@
       "score": 81.0,
       "deadline": null,
       "published_at": "2026-09-24",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:我校在江苏大学生创新大赛",
+      "title": "一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网",
+      "report_url": "https://news.nuist.edu.cn/info/1003/131382.htm",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 80.0,
+      "deadline": null,
+      "published_at": null,
       "is_new": false,
       "report_count": 1
     },
@@ -1970,5 +2018,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 122
+  "ended_count": 123
 }

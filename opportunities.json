@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T22:21:29.351016",
+  "generated": "2026-10-14T11:57:14.135486",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -16,38 +16,6 @@
       "published_at": "2026-06-24",
       "is_new": true,
       "report_count": 4
-    },
-    {
-      "event_key": "tender:ai气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发36氪",
-      "title": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发-36氪",
-      "report_url": "https://m.36kr.com/p/4023671039070081",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_other",
-      "status_label": "招标动态",
-      "platform": "web",
-      "score": 95.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 2
-    },
-    {
-      "event_key": "competition:8月17日ai众创气象服务赛",
-      "title": "群英汇聚启新程 8月17日AI众创气象服务赛道即将迎来初赛",
-      "report_url": "https://mp.weixin.qq.com/s?__biz=MjM5MTA5ODQ0Ng==&mid=2651073150&idx=1&sn=f4728a4cc102303c5ade258fbeddf20c&chksm=bcf265fcad0a2e4d30011251472d4f43e5b12a79f2b328a399aacf52b62971b4575fe217e856&scene=27",
-      "official_url": null,
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "weixin",
-      "score": 90.0,
-      "deadline": "2026-10-13",
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
     },
     {
       "event_key": "tender:气象能见度仪器招标采购商品批发价格百度爱采购",
@@ -146,22 +114,6 @@
       "report_count": 1
     },
     {
-      "event_key": "tender:货物中国通用招标网",
-      "title": "货 物-中国通用招标网",
-      "report_url": "https://www.china-tender.com.cn/jghw/101367.jhtml",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_result",
-      "status_label": "已中标",
-      "platform": "web",
-      "score": 70.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "investment:20亿美元豪赌与林俊旸的下半场36氪",
       "title": "20亿美元豪赌与林俊旸的下半场-36氪",
       "report_url": "https://m.36kr.com/p/3863983975044354",
@@ -188,38 +140,6 @@
       "status_label": "时间待核实",
       "platform": "weixin",
       "score": 65.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "tender:能见度仪求购求购能见度仪|采购|购置信息八方资源网仪器仪表频道求购频道",
-      "title": "能见度仪求购_求购能见度仪|采购|购置信息 - 八方资源网仪器仪表频道求购频道",
-      "report_url": "http://b.b2b168.com/yiqiyibiao/qixiangyiqi/nengjianduyi",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
-      "platform": "web",
-      "score": 61.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "tender:气象站求购求购气象站|采购|购置信息八方资源网仪器仪表频道求购频道",
-      "title": "气象站求购_求购气象站|采购|购置信息 - 八方资源网仪器仪表频道求购频道",
-      "report_url": "http://b.b2b168.com/yiqiyibiao/qixiangyiqi/qixiangzhan",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
-      "platform": "web",
-      "score": 61.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -354,22 +274,6 @@
       "report_count": 1
     },
     {
-      "event_key": "other:2026外滩大会储能ai创新论坛报名倒计时",
-      "title": "2026外滩大会储能AI创新论坛报名倒计时",
-      "report_url": "https://wappass.baidu.com/static/captcha/tuxing.html?ak=572be823e2f50ea759a616c060d6b9f1&backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fid%3D1875357726486928857%26wfr%3Dspider%26for%3Dpc%26third%3Dbaijiahao%26baijiahao_id%3D1875357726486928857%26c_source%3Dkunlun%26c_score%3D0.999100&timestamp=1791900445&signature=5b4360593a88e1b31a1adb1a19e44962",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 59.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "investment:jeffdean创业bp曝光，杨植麟也在上面，硅谷vc抢破头送钱投资界",
       "title": "Jeff Dean创业BP曝光，杨植麟也在上面，硅谷VC抢破头送钱_投资界",
       "report_url": "https://news.pedaily.cn/202608/567438.shtml",
@@ -434,22 +338,6 @@
       "report_count": 1
     },
     {
-      "event_key": "investment:天津星",
-      "title": "从47颗星到全链自主，“天津星”闪耀商业航天新赛道",
-      "report_url": "https://www.sohu.com/a/1019048140_121443915",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 55.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "investment:专家学者共商金融气象发展五大议题探索行业新路径",
       "title": "专家学者共商金融气象发展 五大议题探索行业新路径",
       "report_url": "http://www.qxkp.net/shfw/jr/202602/t20260213_7608878.html",
@@ -482,22 +370,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:关于2026年海南省行业职业技能竞赛",
-      "title": "关于2026年海南省行业职业技能竞赛——第八届气象行业技能竞赛参赛公告",
-      "report_url": "https://hi.cma.gov.cn/tzgg/202609/t20260907_8027873.html",
-      "official_url": null,
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 54.0,
-      "deadline": null,
-      "published_at": "2026-09-07",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "competition:气象爱好者协会|投票|谁懂!气象科普被ai玩明白了",
       "title": "气象爱好者协会 | 投票 | 谁懂!气象科普被AI玩明白了",
       "report_url": "https://mp.weixin.qq.com/s?__biz=MjM5MDQyODI5NA==&mid=2652183221&idx=1&sn=01cc9609e3821ed02d0ae5226f5c3847&chksm=bc6813d20d323bbbe83ab850e4a84a42368035690b816424a5ae6d82b0367129de543cf0c9a3&scene=27",
@@ -508,6 +380,22 @@
       "status_label": "时间待核实",
       "platform": "weixin",
       "score": 53.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:通知公告西藏自治区科学技术厅",
+      "title": "通知公告_西藏自治区科学技术厅",
+      "report_url": "https://sti.xizang.gov.cn/xxgk/fdzdgk/tzgg/index_1.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 51.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -770,6 +658,22 @@
       "report_count": 1
     },
     {
+      "event_key": "tender:ai气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发36氪",
+      "title": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发-36氪",
+      "report_url": "https://m.36kr.com/p/4023671039070081",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_other",
+      "status_label": "招标动态",
+      "platform": "web",
+      "score": 95.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
+    },
+    {
       "event_key": "competition:即将上线的大赛",
       "title": "天池新赛预告，即将上线的大赛你想参加哪个？(有奖回复)_天池技术圈-阿里云天池",
       "report_url": "https://tianchi.aliyun.com/forum/post/3013",
@@ -884,7 +788,7 @@
     {
       "event_key": "tender:气象仪器招标信息气象仪器招标采购采招网",
       "title": "气象仪器招标采购",
-      "report_url": "https://wap.qianlima.com/gjxx/400052/index.html",
+      "report_url": "https://www.qianlima.com/gjxx/400052_2703_4",
       "official_url": null,
       "category": "tender",
       "category_label": "招标采购",
@@ -928,6 +832,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "competition:数据要素×",
+      "title": "2026 年“数据要素×”大赛山东分赛济南市选拔赛赛题指南",
+      "report_url": "https://jndsj.jinan.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6Ao%2Bi4nv0Bv3WWiFlR%2BER2e35HaOWa2Td8MioHUp2KDyFj9EXtqWDJq3wQk4jxC1H1xERVkA9SBcKoDXmUWLeExMzTxlzZaXuOVnQ%2BcUFeOxU%2FEEMnmN0e3DqHnetSCHK%2BB32ZX%2BC%2FUyqHcDzWeAm7Y%3D&fileName=2026%E5%B9%B4%E2%80%9C%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0%C3%97%E2%80%9D%E5%A4%A7%E8%B5%9B%E5%B1%B1%E4%B8%9C%E5%88%86%E8%B5%9B%E6%B5%8E%E5%8D%97%E5%B8%82%E9%80%89%E6%8B%94%E8%B5%9B%E8%B5%9B%E9%A2%98%E6%8C%87%E5%8D%97.pdf",
+      "official_url": "https://www.datafountain.cn/competitions/1098",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 76.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 3
     },
     {
       "event_key": "other:承接粤港澳一分钟《气象小主播》视频制作学生天气预报视频制作气象预报视频制作#气象",
@@ -1024,22 +944,6 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "competition:数据要素×",
-      "title": "文字实录 | 国家数据局举办2026年“数据要素×”新闻发布会（第一场）-国家数据局",
-      "report_url": "https://www.nda.gov.cn/sjj/swdt/xwfb/0611/20260611200405792154005_pc.html",
-      "official_url": "https://www.datafountain.cn/competitions/1098",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 74.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 3
     },
     {
       "event_key": "grant:佛山市发展和改革局关于征集2026年人工智能应用场景的通知佛山市人民政府门户网站",
@@ -1218,6 +1122,22 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:天津星",
+      "title": "从47颗星到全链自主，“天津星”闪耀商业航天新赛道_云遥_气象_宇航",
+      "report_url": "https://www.sohu.com/a/1019048140_121443915",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:第十七届服创大赛",
       "title": "大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）",
       "report_url": "https://www.fwwb.org.cn/news/show/599",
@@ -1226,6 +1146,22 @@
       "category_label": "竞赛赛事",
       "status": "unknown",
       "status_label": "时间待核实",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "tender:货物中国通用招标网",
+      "title": "货 物-中国通用招标网",
+      "report_url": "https://www.china-tender.com.cn/jghw/101367.jhtml",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_result",
+      "status_label": "已中标",
       "platform": "web",
       "score": 70.0,
       "deadline": null,
@@ -1378,6 +1314,38 @@
       "report_count": 1
     },
     {
+      "event_key": "tender:能见度仪求购求购能见度仪|采购|购置信息八方资源网仪器仪表频道求购频道",
+      "title": "能见度仪求购_求购能见度仪|采购|购置信息 - 八方资源网仪器仪表频道求购频道",
+      "report_url": "http://b.b2b168.com/yiqiyibiao/qixiangyiqi/nengjianduyi",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 61.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "tender:气象站求购求购气象站|采购|购置信息八方资源网仪器仪表频道求购频道",
+      "title": "气象站求购_求购气象站|采购|购置信息 - 八方资源网仪器仪表频道求购频道",
+      "report_url": "http://b.b2b168.com/yiqiyibiao/qixiangyiqi/qixiangzhan",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 61.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "other:山海关不住，东北超级酷！这场比赛，整个东北都赢了！#东北超#东北超有范儿#万千气",
       "title": "山海关不住，东北超级酷！这场比赛，整个东北都赢了！ #东北超 #东北超有范儿 #万千气象看辽宁 #东北超燃AI看大连 #东北振兴",
       "report_url": "https://www.bilibili.com/video/BV1CFHC6mExa",
@@ -1452,6 +1420,22 @@
       "status_label": "融资情报",
       "platform": "web",
       "score": 60.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:2026外滩大会储能ai创新论坛报名倒计时",
+      "title": "2026外滩大会储能AI创新论坛报名倒计时",
+      "report_url": "https://wappass.baidu.com/static/captcha/tuxing.html?ak=572be823e2f50ea759a616c060d6b9f1&backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fid%3D1875357726486928857%26wfr%3Dspider%26for%3Dpc%26third%3Dbaijiahao%26baijiahao_id%3D1875357726486928857%26c_source%3Dkunlun%26c_score%3D0.999100&timestamp=1791949687&signature=005b99be55f46285c9a9b3f0cdc88514",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 59.0,
       "deadline": null,
       "published_at": null,
       "is_new": false,
@@ -2018,5 +2002,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 127
+  "ended_count": 132
 }

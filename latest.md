@@ -28,7 +28,7 @@
 - 关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛”（ACTION 2026）的通知-信息公告栏（时间待核实·35｜入口 https://www.heywhale.com/home/competition/697ad5a9e782130e4c66f3cc）
   报道 https://bulletin.nuist.edu.cn/info/1016/56216.htm
 
-## 申报征集（11）
+## 申报征集（12）
 - 🆕2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...（时间待核实·97｜⚠入口待找）
   报道 https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm
 - 🆕民意征集-深圳市气象局(台)（时间待核实·57｜⚠入口待找）
@@ -45,6 +45,8 @@
   报道 http://klaeem.ac.cn/xwdt/tzgg
 - 关于征集气象科技服务需求与合作意向的通知 - 江西省蓝天科创有限公司（报名中·52｜⚠入口待找）
   报道 https://www.zouyuji.asia/article/21
+- 中国气象局科技与气候变化司关于发布气候变化专题项目2026年度申报指南的通知 - 科研项目申报 - 泛研网（时间待核实·51｜入口 https://www.funresearch.cn/register/home）
+  报道 https://www.funresearch.cn/grant/ZDQwNTZmMTItNjViNS00YTlmLTlmZDItYjc2MmY3ZTFkYzhi
 - 关于组织开展2026年度省自然科学基金联合基金项目申报工作的通知 - 江西省科学技术厅（时间待核实·50｜⚠入口待找）
   报道 http://kjt.jiangxi.gov.cn/jxskxjst/col/col27029/content/content_2085292279476854784.html
 - 关于2026年海南省自然科学基金联合项目申报通知-科学技术发展院（科技处、乡村振兴办公室）（时间待核实·50｜⚠入口待找）
@@ -157,6 +159,8 @@
   报道 https://www.stdaily.com/web/gdxw/2026-01/12/content_460534.html
 
 ## 其他（54）
+- 🆕兰州大学在中国国际大学生创新大赛（2026）甘肃省分赛中再获佳绩-兰州大学新闻网（时间待核实·80｜⚠入口待找）
+  报道 https://news.lzu.edu.cn/info/1055/1178105.htm
 - 🆕五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道_上海国际人才网（时间待核实·75｜⚠入口待找）
   报道 https://www.sh-italent.com/Article/202604/202604030005.shtml
 - 🆕北京城市气象研究院（时间待核实·60｜⚠入口待找）
@@ -201,8 +205,6 @@
   报道 https://news.nuist.edu.cn/info/1003/131382.htm
 - 广西气温实况图_天气产品图_广西壮族自治区气象局（时间待核实·80｜⚠入口待找）
   报道 http://gx.cma.gov.cn/qxfw/tqcpt/201812/t20181206_80120.html
-- 2026 年“数据要素×”大赛山东分赛济南市选拔赛赛题指南（时间待核实·76｜入口 https://www.datafountain.cn/competitions/1098）
-  报道 https://jndsj.jinan.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6Ao%2Bi4nv0Bv3WWiFlR%2BER2e35HaOWa2Td8MioHUp2KDyFj9EXtqWDJq3wQk4jxC1H1xERVkA9SBcKoDXmUWLeExMzTxlzZaXuOVnQ%2BcUFeOxU%2FEEMnmN0e3DqHnetSCHK%2BB32ZX%2BC%2FUyqHcDzWeAm7Y%3D&fileName=2026%E5%B9%B4%E2%80%9C%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0%C3%97%E2%80%9D%E5%A4%A7%E8%B5%9B%E5%B1%B1%E4%B8%9C%E5%88%86%E8%B5%9B%E6%B5%8E%E5%8D%97%E5%B8%82%E9%80%89%E6%8B%94%E8%B5%9B%E8%B5%9B%E9%A2%98%E6%8C%87%E5%8D%97.pdf
 - 承接粤港澳一分钟《气象小主播》视频制作学生天气预报视频制作气象预报视频制作#气象小主播 #气象小主播演讲 #气象小主播大赛 #气象小主播参赛视频（时间待核实·76｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1ohMZ61E3G
 - 原创AIGC动画《梅雨气象组》。 当你用职场的方式打开天气，太阳也不过是个46亿年的打工仔。清凉一夏，爆笑职场。 #抖音ai创作大赛 #开放赛道 #搞笑 #原创（时间待核实·76｜⚠入口待找）
@@ -224,7 +226,7 @@
 - 美银：中国软件会议纪要，AI商业化提速但更看增长能见度（时间待核实·60｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1HuGY6bEeJ
 - 2026外滩大会储能AI创新论坛报名倒计时（时间待核实·59｜⚠入口待找）
-  报道 https://wappass.baidu.com/static/captcha/tuxing.html?ak=572be823e2f50ea759a616c060d6b9f1&backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fid%3D1875357726486928857%26wfr%3Dspider%26for%3Dpc%26third%3Dbaijiahao%26baijiahao_id%3D1875357726486928857%26c_source%3Dkunlun%26c_score%3D0.999100&timestamp=1791949687&signature=005b99be55f46285c9a9b3f0cdc88514
+  报道 https://wappass.baidu.com/static/captcha/tuxing.html?ak=572be823e2f50ea759a616c060d6b9f1&backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fid%3D1875357726486928857%26wfr%3Dspider%26for%3Dpc%26third%3Dbaijiahao%26baijiahao_id%3D1875357726486928857%26c_source%3Dkunlun%26c_score%3D0.999100&timestamp=1791976506&signature=de74b3828f6962a5b0b06f56cb63931d
 - 阿干户外:美人鱼挑战赛第21天 新位置新气象！（报名中·57｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1USpD6nEav
 - 2026“外研社·国才杯”短视频大赛|数说中国|数说柳州:小城缩影,大国气象A Small City Reflects Big China（报名中·53｜⚠入口待找）

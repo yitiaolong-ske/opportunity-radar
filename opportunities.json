@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T11:57:14.135486",
+  "generated": "2026-10-14T13:18:10.245370",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -50,26 +50,26 @@
       "report_count": 2
     },
     {
-      "event_key": "grant:气象服务守护美丽山水（深度观察）",
-      "title": "气象服务守护美丽山水（深度观察）",
-      "report_url": "http://he.people.com.cn/n2/2026/1012/c192235-41719053.html",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 77.0,
-      "deadline": null,
-      "published_at": "2026-10-12",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "competition:科创杯",
       "title": "2026 | 清华“科创杯”创业大赛专题",
       "report_url": "http://www.mbaedu.cn/special/2026/0409qhkcb",
       "official_url": "https://aistudio.baidu.com/competition/detail/1329",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 76.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:中国气象学会",
+      "title": "中国气象学会",
+      "report_url": "https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267",
+      "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
       "status": "unknown",
@@ -258,22 +258,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:2026亚洲青年学生气候变化与健康创新大赛",
-      "title": "关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛 ...",
-      "report_url": "https://bulletin.nuist.edu.cn/info/1016/56216.htm",
-      "official_url": "https://www.heywhale.com/home/competition/697ad5a9e782130e4c66f3cc",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 60.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "investment:jeffdean创业bp曝光，杨植麟也在上面，硅谷vc抢破头送钱投资界",
       "title": "Jeff Dean创业BP曝光，杨植麟也在上面，硅谷VC抢破头送钱_投资界",
       "report_url": "https://news.pedaily.cn/202608/567438.shtml",
@@ -450,9 +434,9 @@
       "report_count": 1
     },
     {
-      "event_key": "other:检索结果信息公告栏",
-      "title": "检索结果-信息公告栏",
-      "report_url": "https://bulletin.nuist.edu.cn/ssjgy.jsp?totalpage=361&PAGENUM=11&urltype=tree.TreeTempUrl&wbtreeid=1047&showkeycode=",
+      "event_key": "other:芯人类",
+      "title": "新观点——“芯人类”大学生集成电路创新论坛观点纪实",
+      "report_url": "https://univ.ciciec.com/nd.jsp?id=158",
       "official_url": null,
       "category": "other",
       "category_label": "其他",
@@ -770,6 +754,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:我校在江苏大学生创新大赛",
+      "title": "一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网",
+      "report_url": "https://news.nuist.edu.cn/info/1003/131382.htm",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 80.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:广西气温实况图天气产品图广西壮族自治区气象局",
       "title": "广西气温实况图_天气产品图_广西壮族自治区气象局",
       "report_url": "http://gx.cma.gov.cn/qxfw/tqcpt/201812/t20181206_80120.html",
@@ -830,6 +830,22 @@
       "score": 77.0,
       "deadline": null,
       "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:气象服务守护美丽山水（深度观察）",
+      "title": "气象服务守护美丽山水（深度观察）",
+      "report_url": "http://he.people.com.cn/n2/2026/1012/c192235-41719053.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 77.0,
+      "deadline": null,
+      "published_at": "2026-10-12",
       "is_new": false,
       "report_count": 1
     },
@@ -1458,22 +1474,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:量子技术气象应用",
-      "title": "关于发布2026年度国家自然科学基金气象联合基金<br>“量子技术气象应用”领域申请指南的通告",
-      "report_url": "https://www.nsfc.gov.cn/p1/3381/2824/139876.html",
-      "official_url": "https://www.heywhale.com/home/competition/68416265d91d75eb531077d6",
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 57.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "other:阿干户外:美人鱼挑战赛第21天新位置新气象！",
       "title": "阿干户外:美人鱼挑战赛第21天 新位置新气象！",
       "report_url": "https://www.bilibili.com/video/BV1USpD6nEav",
@@ -1701,7 +1701,7 @@
       "event_key": "competition:河海大学2023年气象知识竞赛",
       "title": "全国青少年气象知识竞赛2026报名指南:官网入口+流程详解 - 百度文库",
       "report_url": "https://wenku.baidu.com/view/acd774877b192279168884868762caaedc33ba7a.html",
-      "official_url": null,
+      "official_url": "https://aistudio.baidu.com/competition/detail/882",
       "category": "competition",
       "category_label": "竞赛赛事",
       "status": "ongoing",
@@ -1776,6 +1776,38 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "other:检索结果信息公告栏",
+      "title": "检索结果-信息公告栏",
+      "report_url": "https://bulletin.nuist.edu.cn/ssjgy.jsp?totalpage=361&PAGENUM=11&urltype=tree.TreeTempUrl&wbtreeid=1047&showkeycode=",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:量子技术气象应用",
+      "title": "关于发布2026年度国家自然科学基金气象联合基金 “量子技术气象应用”领域申请指南的通告 - 四川省区域科学学会",
+      "report_url": "http://www.scrss.net/nd.jsp?fromMid=384&id=3478",
+      "official_url": "https://www.heywhale.com/home/competition/68416265d91d75eb531077d6",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 49.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "other:竞赛单元",
@@ -1949,6 +1981,22 @@
       "platform": "web",
       "score": 35.0,
       "deadline": "2026-11-15",
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:2026亚洲青年学生气候变化与健康创新大赛",
+      "title": "关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛”（ACTION 2026）的通知-信息公告栏",
+      "report_url": "https://bulletin.nuist.edu.cn/info/1016/56216.htm",
+      "official_url": "https://www.heywhale.com/home/competition/697ad5a9e782130e4c66f3cc",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 35.0,
+      "deadline": null,
       "published_at": null,
       "is_new": false,
       "report_count": 1

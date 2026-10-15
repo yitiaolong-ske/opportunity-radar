@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T10:39:04.345315",
+  "generated": "2026-10-15T19:29:40.554617",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -258,6 +258,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:多模态ai的商业革命：从实验室到万亿市场的落地实践",
+      "title": "多模态AI的商业革命：从实验室到万亿市场的落地实践",
+      "report_url": "https://aistudio.baidu.com/blog/detail/798127557729285",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 58.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:中国电建西北院宝珠寺水电站自动化改造项目",
       "title": "中国电建西北院宝珠寺水电站自动化改造项目监测设备公开 ...",
       "report_url": "https://www.dlnyzb.com/detail/42891179",
@@ -386,34 +402,82 @@
       "report_count": 1
     },
     {
-      "event_key": "other:气象感知设备+数据互通平台智测云联环境监测解决方案",
-      "title": "气象感知设备+数据互通平台——智测云联环境监测解决方案",
-      "report_url": "https://www.bilibili.com/video/BV11ypk6QEu2",
+      "event_key": "grant:通知公告",
+      "title": "通知公告",
+      "report_url": "https://kjj.wuhan.gov.cn/wmfw/tzgg/tzgg_18371/202610/t20261015_2861548.html",
       "official_url": null,
-      "category": "other",
-      "category_label": "其他",
+      "category": "grant",
+      "category_label": "申报征集",
       "status": "ongoing",
       "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 38.0,
-      "deadline": null,
-      "published_at": "2026-10-14",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": "2026-11-06",
+      "published_at": "2026-10-15",
       "is_new": true,
       "report_count": 1
     },
     {
-      "event_key": "other:末日丧尸病毒爆发，我躲进了气象观测站【末日降临/ai短剧】",
-      "title": "末日丧尸病毒爆发，我躲进了气象观测站【末日降临/AI短剧】",
-      "report_url": "https://www.bilibili.com/video/BV1Hrpm6FEH1",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 32.8,
+      "event_key": "competition:学校顺利召开第二届全国大学生气象科技创新大赛",
+      "title": "学校顺利召开第二届全国大学生气象科技创新大赛筹备会",
+      "report_url": "https://www.lzre.edu.cn/info/1470/28982.htm",
+      "official_url": "https://aistudio.baidu.com/competition/detail/882",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 41.0,
       "deadline": null,
-      "published_at": "2026-10-14",
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:关于征集2027年度西安市气象科技领域研究课题建议的通知",
+      "title": "关于征集2027年度西安市气象科技领域研究课题建议的通知",
+      "report_url": "https://www.funresearch.cn/grant/MTE3ZGViMjctNjViNy00MmIxLWFhMTctMjY1NDg0NTI0MGIw",
+      "official_url": "https://www.funresearch.cn/register/home",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 37.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:湖北省气象局征集调查",
+      "title": "湖北省气象局-征集调查",
+      "report_url": "http://hb.cma.gov.cn/hdjl/zjdc",
+      "official_url": "http://hb.cma.gov.cn/personalCenter/?siteid=121#/register",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 37.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:气象场景征集360图片",
+      "title": "气象 场景 征集_360图片",
+      "report_url": "https://image.so.com/i?src=imageonebox&q=%E6%B0%94%E8%B1%A1%20%E5%9C%BA%E6%99%AF%20%E5%BE%81%E9%9B%86&obx_type=360pic_new_normal1",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 37.0,
+      "deadline": null,
+      "published_at": null,
       "is_new": true,
       "report_count": 1
     },
@@ -706,22 +770,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:我校在江苏大学生创新大赛",
-      "title": "一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网",
-      "report_url": "https://news.nuist.edu.cn/info/1003/131382.htm",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 80.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "competition:广西气温实况图天气产品图广西壮族自治区气象局",
       "title": "广西气温实况图_天气产品图_广西壮族自治区气象局",
       "report_url": "http://gx.cma.gov.cn/qxfw/tqcpt/201812/t20181206_80120.html",
@@ -882,6 +930,22 @@
       "report_count": 2
     },
     {
+      "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
+      "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS6fmu9ZA77c2ZvPz-fBclMVEcBb6SDG8m1qXa8Fplpd9YoUyP3WhXujoVXJyWi271_jPOCWOiITi5_t-8Tqd5CCSRJ1qA2t6hF-S1sDxdOxf7v5BDUZHaerxDRUbQ9xLSgcMJnYhfMyNq_HznNekBrzUHW5gyY-shKPpYYgI7SDJTyuI2bXRpzBmXPkXN4EbzBS5mmQYx0ZlMtpK1OlA7InRtmyIGw2VAg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=1E1C289B17AC257EADABF073ED66A47DADD75E2B6AD0B74A",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "weixin",
+      "score": 75.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 3
+    },
+    {
       "event_key": "investment:今年上海最值得关注的18位科学家创业者36氪",
       "title": "今年上海最值得关注的18位科学家创业者-36氪",
       "report_url": "https://m.36kr.com/p/3561161752886145",
@@ -912,22 +976,6 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "competition:数据要素×",
-      "title": "文字实录 | 国家数据局举办2026年“数据要素×”新闻发布会（第一场）-国家数据局",
-      "report_url": "https://www.nda.gov.cn/sjj/swdt/xwfb/0611/20260611200405792154005_pc.html",
-      "official_url": "https://www.datafountain.cn/competitions/1098",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 74.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 3
     },
     {
       "event_key": "grant:佛山市发展和改革局关于征集2026年人工智能应用场景的通知佛山市人民政府门户网站",
@@ -1346,22 +1394,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:通知公告大气环境与极端气象重点实验室",
-      "title": "通知公告----大气环境与极端气象重点实验室",
-      "report_url": "http://klaeem.ac.cn/xwdt/tzgg",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 61.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "tender:交通气象观测站",
       "title": "交通气象观测站采购项目竞争性谈判公告",
       "report_url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202610/t20261011_27467894.htm",
@@ -1536,6 +1568,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 2
+    },
+    {
+      "event_key": "grant:通知公告大气环境与极端气象重点实验室",
+      "title": "通知公告----大气环境与极端气象重点实验室",
+      "report_url": "http://klaeem.ac.cn/xwdt/tzgg",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 56.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
     },
     {
       "event_key": "tender:中国气象局气象探测中心",
@@ -1986,6 +2034,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:气象感知设备+数据互通平台智测云联环境监测解决方案",
+      "title": "气象感知设备+数据互通平台——智测云联环境监测解决方案",
+      "report_url": "https://www.bilibili.com/video/BV11ypk6QEu2",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 38.0,
+      "deadline": null,
+      "published_at": "2026-10-14",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:会关于征集2026年重点应用场景储备项目",
       "title": "北京市科学技术委员会、中关村科技园区管理委员会关于征集2026年重点应用场景储备项目及科技新场景供需对接储备活动的通知",
       "report_url": "https://www.ncsti.gov.cn/kjdt/tzgg/202607/t20260702_250686.html",
@@ -2082,22 +2146,6 @@
       "report_count": 1
     },
     {
-      "event_key": "other:智测云联ai海洋环境监测浮标｜符合gb/t12763.3海洋调查规范国标气象站厂",
-      "title": "气象站台【AI翻唱】",
-      "report_url": "https://www.bilibili.com/video/BV1tnpR6oEYH",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 34.8,
-      "deadline": null,
-      "published_at": "2026-10-12",
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "other:aigc人工影响天气",
       "title": "AIGC人工影响天气",
       "report_url": "https://www.bilibili.com/video/BV12vYP66Ezk",
@@ -2130,6 +2178,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:末日丧尸病毒爆发，我躲进了气象观测站【末日降临/ai短剧】",
+      "title": "末日丧尸病毒爆发，我躲进了气象观测站【末日降临/AI短剧】",
+      "report_url": "https://www.bilibili.com/video/BV1Hrpm6FEH1",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 32.8,
+      "deadline": null,
+      "published_at": "2026-10-14",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "other:12号台风红霞可能于24号生成，7月26日后西北太平洋将上演一场抢名字大赛，13",
       "title": "12号台风红霞可能于24号生成，7月26日后西北太平洋将上演一场抢名字大赛，13、14号台风接连生成。",
       "report_url": "https://www.bilibili.com/video/BV15Fgk6zEUJ",
@@ -2146,5 +2210,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 135
+  "ended_count": 140
 }

@@ -1,4 +1,4 @@
-# 机会雷达（2026-10-15）
+# 机会雷达（2026-10-16）
 
 ## 竞赛赛事（17）
 - 🆕2026 | 清华“科创杯”创业大赛专题（时间待核实·76｜入口 https://aistudio.baidu.com/competition/detail/1329）
@@ -16,7 +16,7 @@
 - 联通气象杯：气象数据要素赋能广东重点行业模型算法优选赛 - 琶洲算法大赛（报名中·75｜截止2026-10-23｜入口 https://www.aicompetition-pz.com/topic_registration）
   报道 https://www.aicompetition-pz.com/topic_detail/36
 - 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
-  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS6fmu9ZA77c2ZvPz-fBclMVEcBb6SDG8m1qXa8Fplpd9YoUyP3WhXujoVXJyWi271_jPOCWOiITi5_t-8Tqd5CCSRJ1qA2t6hF-S1sDxdOxf7v5BDUZHaerxDRUbQ9xLSgcMJnYhfMyNq_HznNekBrzUHW5gyY-shKPpYYgI7SDJTyuI2bXRpzBmXPkXN4EbzBS5mmQYx0ZlMtpK1OlA7InRtmyIGw2VAg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=1E1C289B17AC257EADABF073ED66A47DADD75E2B6AD0B74A
+  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0aih7auemjZaTuZVQ1i7JOFYW5ge2U0IlqXa8Fplpd9Cg4qaZDEDv7z-H78DdS5KvV217qaIQ_kSVslsd4_Q2nQJlhB7bALZWcbKa4oKWML2cE-nuj4k8mOhlevaTCCGjVmWA5_LHsXABbTN9UIa1JHqVeU43E6r30aHZpI2WQa4dckNeNIaPKfcL1QLVVUICgq-Nw5EDqSmKwZxN2221fP28temKTOwg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=26F7BBAF863DB5EE3D3A60CD5259B6953D5C9B706AD1D77D
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
@@ -36,13 +36,19 @@
 - 关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛”（ACTION 2026）的通知-信息公告栏（时间待核实·35｜入口 https://www.heywhale.com/home/competition/697ad5a9e782130e4c66f3cc）
   报道 https://bulletin.nuist.edu.cn/info/1016/56216.htm
 
-## 申报征集（15）
+## 申报征集（19）
 - 🆕2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...（时间待核实·97｜⚠入口待找）
   报道 https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm
+- 🆕关于征集2027年度西安市气象科技领域研究课题建议的通知 - 科研项目申报 - 泛研网（时间待核实·70｜入口 https://www.funresearch.cn/register/home）
+  报道 https://www.funresearch.cn/grant/MTE3ZGViMjctNjViNy00MmIxLWFhMTctMjY1NDg0NTI0MGIw
+- 🆕中国气象局科技司关于征求国家重点研发计划“气象灾害监测 ...（时间待核实·56｜入口 https://www.funresearch.cn/register/home）
+  报道 https://www.funresearch.cn/grant/MTNjMjAyYjItMzhlMi00YzJkLTg5OTUtZWZkOTU2N2UyODRj
+- 🆕关于“十五五”国家重点研发计划：“气象灾害监测预报与应对 ...（时间待核实·56｜⚠入口待找）
+  报道 https://research.dhu.edu.cn/2026/1016/c6973a382582/page.htm
+- 🆕中国气象局科技司关于国家重点研发计划“气象灾害监测预报 ...（时间待核实·56｜⚠入口待找）
+  报道 https://www.hf.cas.cn/lmjx/glbm/kyghc/kyc_kyghc/tzgg/202610/t20261015_8292613.html
 - 🆕通知公告_西藏自治区科学技术厅（时间待核实·51｜⚠入口待找）
   报道 https://sti.xizang.gov.cn/xxgk/fdzdgk/tzgg/index_1.html
-- 🆕通知公告（报名中·50｜截止2026-11-06｜⚠入口待找）
-  报道 https://kjj.wuhan.gov.cn/wmfw/tzgg/tzgg_18371/202610/t20261015_2861548.html
 - 🆕关于征集2027年度西安市气象科技领域研究课题建议的通知（时间待核实·37｜入口 https://www.funresearch.cn/register/home）
   报道 https://www.funresearch.cn/grant/MTE3ZGViMjctNjViNy00MmIxLWFhMTctMjY1NDg0NTI0MGIw
 - 🆕湖北省气象局-征集调查（时间待核实·37｜入口 http://hb.cma.gov.cn/personalCenter/?siteid=121#/register）
@@ -65,20 +71,28 @@
   报道 https://scitech.hainanu.edu.cn/info/1069/14673.htm
 - 关于征集“数据要素×气象服务”典型案例的公告-中国气象局政府门户网站（时间待核实·50｜⚠入口待找）
   报道 https://www.cma.gov.cn/2011zwxx/2011ztzgg/202608/t20260811_7980142.html
+- 通知公告（报名中·50｜截止2026-11-06｜⚠入口待找）
+  报道 https://kjj.wuhan.gov.cn/wmfw/tzgg/tzgg_18371/202610/t20261015_2861548.html
 - 关于发布2026年度国家自然科学基金气象联合基金 “量子技术气象应用”领域申请指南的通告 - 四川省区域科学学会（时间待核实·49｜入口 https://www.heywhale.com/home/competition/68416265d91d75eb531077d6）
   报道 http://www.scrss.net/nd.jsp?fromMid=384&id=3478
 
-## 招标采购（27）
+## 招标采购（31）
+- 🆕公路自动气象站供电方案：市电为主+太阳能备用，确保恶劣天气下连续运行。-山东风途物联网科技有限公司（招标中·82｜⚠入口待找）
+  报道 http://www.fengtuwlw.com/Article-1085985.html
 - 🆕2026年综合气象观测业务地面观测经费备品备件(第二批)购置项目...（已中标·70｜⚠入口待找）
   报道 http://www.ccgp.gov.cn/cggg/zygg/zbgg/202608/t20260817_27146671.htm
+- 🆕河北海事局船舶交通管理系统改扩建工程中标公告（已中标·70｜⚠入口待找）
+  报道 https://www.china-tender.com.cn/jghw/101367.jhtml
+- 🆕国庆我在岗⑥丨深圳旅游热度持续攀升，气象服务如何“护航”？（招标中·70｜⚠入口待找）
+  报道 https://www.ezjw.com/projectinfo-detail-333126717.html
 - 🆕云境天合手持能见度检测仪入选2026年度气象监测设备推荐 ...（招标中·61｜⚠入口待找）
   报道 https://www.instrument.com.cn/netshow/sh120557/news_985878.htm
-- 🆕中国电建西北院宝珠寺水电站自动化改造项目监测设备公开 ...（已中标·56｜⚠入口待找）
-  报道 https://www.dlnyzb.com/detail/42891179
+- 🆕调整多日后核电概念又被谷歌订单唤醒（招标中·55｜⚠入口待找）
+  报道 https://www.myzaker.com/article/6ac5a9898e9f09601103ed7c
 - 🆕完善东北地区空管气象探测设施工程配套设施及设备安装工程中标公告（已中标·50｜⚠入口待找）
   报道 https://www.ccgp.gov.cn/cggg/zygg/zbgg/202512/t20251226_25997773.htm
-- AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发-36氪（招标动态·95｜⚠入口待找）
-  报道 https://m.36kr.com/p/4023671039070081
+- AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发_新浪财经_新浪网（招标动态·100｜⚠入口待找）
+  报道 https://finance.sina.com.cn/stock/t/2026-10-13/doc-iniuzuyi5055961.shtml
 - 苏州市公共资源交易平台（招标中·82｜⚠入口待找）
   报道 https://www.szzyjy.com.cn/jyxx/003034/003034001/20260929/a570956b-46bb-48f5-b4bb-0de1e7398846.html
 - 气象仪器招标采购（采购意向·78｜⚠入口待找）
@@ -103,8 +117,6 @@
   报道 http://www.fagqx.com/Article-633987.html
 - 项目名称:丰县乡镇空气质量网格化监测及省 ...（招标中·65｜⚠入口待找）
   报道 http://www.ccgp-jiangsu.gov.cn/fileApi/320000/202609/d22a795bbd3e456aa44b622c08410658.pdf
-- 第三章技术、服务及其他要求（招标中·65｜⚠入口待找）
-  报道 https://ckoperation.mygctong.com/operation/client-mini/program/white/client-project/default/download?file_code=mongodb_id%3Am_f10193806907539983
 - 能见度仪器-批发价格-优质货源 - 百度爱采购（招标中·61｜⚠入口待找）
   报道 https://b2b.baidu.com/s?q=%E8%83%BD%E8%A7%81%E5%BA%A6%E4%BB%AA%E5%99%A8
 - 能见度仪求购_求购能见度仪|采购|购置信息 - 八方资源网仪器仪表频道求购频道（招标中·61｜⚠入口待找）
@@ -121,10 +133,14 @@
   报道 https://www.ccgp.gov.cn/cggg/zygg/zbgg/202509/t20250917_25367661.htm
 - 北京维艾思气象信息科技有限公司（招标中·50｜⚠入口待找）
   报道 https://m.qcc.com/firm/f623e7e1c83d84b10711330b378bcb4a.html
+- 第三章技术、服务及其他要求（招标中·46｜⚠入口待找）
+  报道 https://ckoperation.mygctong.com/operation/client-mini/program/white/client-project/default/download?file_code=mongodb_id%3Am_f10193806907539983
+- 中国电建西北院宝珠寺水电站自动化改造项目监测设备公开 ...（已中标·41｜⚠入口待找）
+  报道 https://www.dlnyzb.com/detail/42891179
 - 北京市科学技术委员会、中关村科技园区管理委员会关于征集2026年重点应用场景储备项目及科技新场景供需对接储备活动的通知（招标动态·37｜⚠入口待找）
   报道 https://www.ncsti.gov.cn/kjdt/tzgg/202607/t20260702_250686.html
 
-## 投融资（24）
+## 投融资（27）
 - 🆕AI 气象模型WeatherMesh-6 发布，预报精度超欧洲政府机构 ...（融资情报·77｜⚠入口待找）
   报道 https://www.ithome.com/0/958/489.htm
 - 🆕WMO为保障预测支柱推出新融资伙伴倡议 | 世界气象组织（融资情报·70｜⚠入口待找）
@@ -139,6 +155,14 @@
   报道 http://www.qxkp.net/shfw/jr/202602/t20260213_7608878.html
 - 🆕国家气象信息中心-中国气象数据网（融资情报·55｜⚠入口待找）
   报道 http://www.nmic.cn/site/article/id/42515.html
+- 🆕资本市场高度认可云遥宇航完成B+轮战略融资（融资情报·55｜⚠入口待找）
+  报道 https://www.tjftz.gov.cn/contents/6097/379342.html
+- 🆕北京市密云区科学技术委员会关于印发 ...（融资情报·45｜⚠入口待找）
+  报道 https://www.beijing.gov.cn/zhengce/zhengcefagui/202607/t20260701_4742246.html
+- 🆕专访国合会特邀顾问李晓江：气候适应融资需财政等政策参与（融资情报·35｜⚠入口待找）
+  报道 https://finance.eastmoney.com/a/202609303887852075.html
+- 天序智能完成数千万元Pre-A+轮融资 厚雪资本独家投资|卫星|能源|雷达|风速|气象学_网易订阅（融资情报·95｜截止2026-11-01｜⚠入口待找）
+  报道 https://www.163.com/dy/article/L96MUMB10550B1DU.html
 - 星睿云智获戈壁创投战略投资　加速人工智能驱动卫星气象解决方案商业化-公司新闻-星睿雲智（融资情报·94｜⚠入口待找）
   报道 https://www.stellerustech.com/zh/newsinfo/39.html
 - AI气象大模型的下半场：当天气开始进入现金流-钛媒体官方网站（融资情报·84｜⚠入口待找）
@@ -147,8 +171,6 @@
   报道 https://www.winzheng.com/article/windborne-ai-weather-funding
 - 乐竞・体育搜索量攀升，现存气象服务相关企业超8000家（融资情报·77｜⚠入口待找）
   报道 https://www.eoffcn.com/wiki/shangli/reference/30895247.htm
-- AI 气象大模型公司天序智能获厚雪资本数千万元融资（融资情报·75｜⚠入口待找）
-  报道 https://readhub.cn/topic/8xBWfGbKFxq
 - 今年上海最值得关注的18位科学家创业者-36氪（融资情报·75｜⚠入口待找）
   报道 https://m.36kr.com/p/3561161752886145
 - 不筹量子完成数亿元A轮融资，聚焦中性原子量子计算核心技术_投资界（融资情报·75｜⚠入口待找）
@@ -159,8 +181,6 @@
   报道 https://news.pedaily.cn/202604/562390.shtml
 - 天津港保税区门户网站欢迎您（融资情报·70｜⚠入口待找）
   报道 https://www.tjftz.gov.cn/contents/6097/379342.html
-- 从47颗星到全链自主，“天津星”闪耀商业航天新赛道_云遥_气象_宇航（融资情报·70｜⚠入口待找）
-  报道 https://www.sohu.com/a/1019048140_121443915
 - 远景科技张雷：开创AI电力系统_投资界（融资情报·66｜⚠入口待找）
   报道 https://news.pedaily.cn/202605/564580.shtml
 - 气象设备市场规模、份额| 2034 年增长报告（融资情报·65｜⚠入口待找）
@@ -169,16 +189,20 @@
   报道 https://m.36kr.com/p/3644947937972103
 - 2000亿的气象经济，却养不活1万家“看天”企业-虎嗅网（融资情报·58｜⚠入口待找）
   报道 https://www.huxiu.com/article/4877315.html
+- 从47颗星到全链自主，“天津星”闪耀商业航天新赛道（融资情报·55｜⚠入口待找）
+  报道 https://www.sohu.com/a/1019048140_121443915
 - 气象 融资的最新相关消息（融资情报·55｜⚠入口待找）
   报道 http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e8%9e%8d%e8%b5%84&src=onebox
 - 我国首个金融气象AI模型“熵机”发布（融资情报·52｜⚠入口待找）
   报道 https://www.stdaily.com/web/gdxw/2026-01/12/content_460534.html
 
-## 其他（55）
+## 其他（57）
 - 🆕兰州大学在中国国际大学生创新大赛（2026）甘肃省分赛中再获佳绩-兰州大学新闻网（时间待核实·80｜⚠入口待找）
   报道 https://news.lzu.edu.cn/info/1055/1178105.htm
 - 🆕五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道_上海国际人才网（时间待核实·75｜⚠入口待找）
   报道 https://www.sh-italent.com/Article/202604/202604030005.shtml
+- 🆕国家气象信息中心-中国气象数据网（时间待核实·61｜⚠入口待找）
+  报道 http://www.nmic.cn/site/article/id/42774.html
 - 🆕北京城市气象研究院（时间待核实·60｜⚠入口待找）
   报道 https://www.ium.cn/index.php/home/news/view/id/3206.html
 - 🆕S创上海2026路演大赛报名开启｜初创企业 x S创 = 改变世界！（时间待核实·60｜⚠入口待找）
@@ -236,7 +260,7 @@
 - 美银：中国软件会议纪要，AI商业化提速但更看增长能见度（时间待核实·60｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1HuGY6bEeJ
 - 2026外滩大会储能AI创新论坛报名倒计时（时间待核实·59｜⚠入口待找）
-  报道 https://wappass.baidu.com/static/captcha/tuxing.html?ak=572be823e2f50ea759a616c060d6b9f1&backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fid%3D1875357726486928857%26wfr%3Dspider%26for%3Dpc%26third%3Dbaijiahao%26baijiahao_id%3D1875357726486928857%26c_source%3Dkunlun%26c_score%3D0.999100&timestamp=1792031203&signature=4082b5639ba976243c9faac6e69cd8d8
+  报道 https://wappass.baidu.com/static/captcha/tuxing.html?ak=572be823e2f50ea759a616c060d6b9f1&backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fid%3D1875357726486928857%26wfr%3Dspider%26for%3Dpc%26third%3Dbaijiahao%26baijiahao_id%3D1875357726486928857%26c_source%3Dkunlun%26c_score%3D0.999100&timestamp=1792136757&signature=ea645009226e4784f47434f05fc09925
 - 2026年上海师范大学本科学科竞赛目录（时间待核实·58｜⚠入口待找）
   报道 https://ec.shnu.edu.cn/_upload/article/files/c7/93/b10d3bad4ee586608fb571e944d7/c3dd2c7c-988c-461b-b0b1-76d198a1709d.pdf
 - 阿干户外:美人鱼挑战赛第21天 新位置新气象！（报名中·57｜⚠入口待找）
@@ -277,6 +301,8 @@
   报道 https://www.bilibili.com/video/BV1uxa86SEN5
 - 气象数值预报中心工业存储与AI算力硬件配套怎么选（报名中·35｜⚠入口待找）
   报道 https://www.bilibili.com/read/cv53144023
+- 气象站台【AI翻唱】（报名中·35｜⚠入口待找）
+  报道 https://www.bilibili.com/video/BV1tnpR6oEYH
 - AIGC人工影响天气（报名中·34｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV12vYP66Ezk
 - Python人工智能在气象中的实践技术应用全流程：四大专题从Python科学计算到机器学习理论到风速订正到台风预报到ENSO预测到雷达回波（附全部资料代码）（时间待核实·34｜⚠入口待找）

@@ -1,4 +1,4 @@
-# 机会雷达（2026-10-17）
+# 机会雷达（2026-10-18）
 
 ## 竞赛赛事（17）
 - 🆕2026 | 清华“科创杯”创业大赛专题（时间待核实·76｜入口 https://aistudio.baidu.com/competition/detail/1329）
@@ -16,7 +16,7 @@
 - 联通气象杯：气象数据要素赋能广东重点行业模型算法优选赛 - 琶洲算法大赛（报名中·75｜截止2026-10-23｜入口 https://www.aicompetition-pz.com/topic_registration）
   报道 https://www.aicompetition-pz.com/topic_detail/36
 - 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
-  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2S8cAr--_7UJLbTsY_Jg1u4RuiOjk0c0VqXa8Fplpd9t00V4Q0CmseBy9Aben9KqIUgYH6_NgEr2WdZgKIEyDA3SWeOZEoOjzZ2le2J0YHMZxKkG0M78RRM79VU3Kj-DWmK8pWcJbI5xDP0bqEQ8nF-YAGnULdNIa0jiPzBAsWEqqg07sZFM_xAX2HL7AJvX76nmjEBZ3T7VzsS8yOl3YGq3X8EKMKOIA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=33463A9FB8038AD002045D0A970A0FAB039FB2496AD36C9C
+  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt04Q0wextK9nIe588qRbWIfelqXa8Fplpd9n8UEJGE1cOBBpNWOrSm_EhzlEOxbm503uyqV3Tn-8T9w9tiycViuTvUN6efYUrtt2XCWdKhm_GkMCyrZDa9DZ5qFLF3Ew1snnylasn5FObFy36UXg_PGPQPnAsuPO0nxARJMqpeS8QauDGfzW9PQYLOT-viqC_tQfq3ZG4FRPft5LU3lqtPw9g..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=3AEF0F49E55CD48E5E5803442BA95C9D5E068C836AD487EB
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
@@ -39,8 +39,6 @@
 ## 申报征集（24）
 - 🆕2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...（时间待核实·97｜⚠入口待找）
   报道 https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm
-- 🆕关于征集2027年度西安市气象科技领域研究课题建议的通知 - 科研项目申报 - 泛研网（时间待核实·70｜入口 https://www.funresearch.cn/register/home）
-  报道 https://www.funresearch.cn/grant/MTE3ZGViMjctNjViNy00MmIxLWFhMTctMjY1NDg0NTI0MGIw
 - 🆕中国气象局科技司关于征求国家重点研发计划“气象灾害监测 ...（时间待核实·56｜入口 https://www.funresearch.cn/register/home）
   报道 https://www.funresearch.cn/grant/MTNjMjAyYjItMzhlMi00YzJkLTg5OTUtZWZkOTU2N2UyODRj
 - 🆕关于“十五五”国家重点研发计划：“气象灾害监测预报与应对 ...（时间待核实·56｜⚠入口待找）
@@ -63,6 +61,8 @@
   报道 https://mp.weixin.qq.com/s/TSL8ExaNTDmB1MmDvxJbKg
 - 气象服务守护美丽山水（深度观察）（报名中·77｜⚠入口待找）
   报道 http://he.people.com.cn/n2/2026/1012/c192235-41719053.html
+- 关于征集2027年度西安市气象科技领域研究课题建议的通知 - 科研项目申报 - 泛研网（时间待核实·70｜入口 https://www.funresearch.cn/register/home）
+  报道 https://www.funresearch.cn/grant/MTE3ZGViMjctNjViNy00MmIxLWFhMTctMjY1NDg0NTI0MGIw
 - 关于征求国家重点研发计划“气象灾害监测预报与应对科技支撑”重点专项2026年度项目申报指南（征求意见稿）意见的通知（报名中·65｜截止2026-10-21｜⚠入口待找）
   报道 https://www.tiangong.edu.cn/2026/1016/c8679a118337/pagem.htm
 - 民意征集-深圳市气象局(台)（时间待核实·57｜⚠入口待找）
@@ -218,11 +218,9 @@
 - 我国首个金融气象AI模型“熵机”发布（融资情报·52｜⚠入口待找）
   报道 https://www.stdaily.com/web/gdxw/2026-01/12/content_460534.html
 
-## 其他（59）
+## 其他（62）
 - 🆕兰州大学在中国国际大学生创新大赛（2026）甘肃省分赛中再获佳绩-兰州大学新闻网（时间待核实·80｜⚠入口待找）
   报道 https://news.lzu.edu.cn/info/1055/1178105.htm
-- 🆕五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道_上海国际人才网（时间待核实·75｜⚠入口待找）
-  报道 https://www.sh-italent.com/Article/202604/202604030005.shtml
 - 🆕硅谷101 - Podcast - Apple Podcasts（时间待核实·65｜⚠入口待找）
   报道 https://podcasts.apple.com/ng/podcast/%E7%A1%85%E8%B0%B7101/id1498541229
 - 🆕北京城市气象研究院（时间待核实·60｜⚠入口待找）
@@ -237,6 +235,12 @@
   报道 https://www.nda.gov.cn/sjj/swdt/mtsy/0613/20260613131557065652281_pc.html
 - 🆕新观点——“芯人类”大学生集成电路创新论坛观点纪实（时间待核实·50｜⚠入口待找）
   报道 https://univ.ciciec.com/nd.jsp?id=158
+- 🆕2026年福建省大学生创新大赛正式启动_ 福建要闻_福建省人民政府门户网站（时间待核实·41｜⚠入口待找）
+  报道 https://www.fujian.gov.cn/xwdt/fjyw/202607/t20260731_7194202.htm
+- 🆕AI赋能气象预报与科研实践分享（报名中·35｜⚠入口待找）
+  报道 https://www.bilibili.com/video/BV14ynu6dEg4
+- 🆕【中英双语字幕】AI如何改变天气预报：从飓风路径到分钟级降水 1080P｜Google DeepMind 技术分享（报名中·35｜⚠入口待找）
+  报道 https://www.bilibili.com/video/BV1W1ph6pEdm
 - 🆕科技赋能特色农业 精准气象护航振兴（时间待核实·18｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s?__biz=Mzg2MTA3MzkwMA==&mid=2247624108&idx=5&sn=4fc34162b576a28969c7af7a6d0c0472&chksm=cfe8eb3f2869d797dca747d4a1caf6b69981df82f3e85a22ccc810464b67abe38520ff453518&scene=27
 - 🆕两名12岁小孩姐携手在深圳开公司!因登雪山经历立志研发高山气象站...（时间待核实·18｜⚠入口待找）
@@ -263,12 +267,14 @@
   报道 https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html
 - 浦东发布“AI+政务”高价值场景（报名中·81｜入口 https://aistudio.baidu.com/competition/detail/1425）
   报道 https://www.shanghai.gov.cn/nw4411/20260924/792afdb34ac04e0ab5359c29f75baf9e.html
+- 一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网（时间待核实·80｜⚠入口待找）
+  报道 https://news.nuist.edu.cn/info/1003/131382.htm
 - 广西气温实况图_天气产品图_广西壮族自治区气象局（时间待核实·80｜⚠入口待找）
   报道 http://gx.cma.gov.cn/qxfw/tqcpt/201812/t20181206_80120.html
-- 承接粤港澳一分钟《气象小主播》视频制作学生天气预报视频制作气象预报视频制作#气象小主播 #气象小主播演讲 #气象小主播大赛 #气象小主播参赛视频（时间待核实·76｜⚠入口待找）
-  报道 https://www.bilibili.com/video/BV1ohMZ61E3G
 - 原创AIGC动画《梅雨气象组》。 当你用职场的方式打开天气，太阳也不过是个46亿年的打工仔。清凉一夏，爆笑职场。 #抖音ai创作大赛 #开放赛道 #搞笑 #原创（时间待核实·76｜⚠入口待找）
   报道 https://www.douyin.com/video/7663092065840150885
+- 五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道_上海国际人才网（报名中·75｜截止2026-10-18｜⚠入口待找）
+  报道 https://www.sh-italent.com/Article/202604/202604030005.shtml
 - Coherent需求能见度高，但股价已反映AI预期？（时间待核实·73｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1EuE16zEMj
 - #寻珠源•竞滇峰#2026中国公路自行车公开赛（云南曲靖·珠江源头站）暨首届“珠江源头”公路自行车挑战赛期间天气预报#曲靖气象#沾益气象#天气预报（时间待核实·71｜⚠入口待找）
@@ -279,8 +285,6 @@
   报道 https://www.bilibili.com/video/BV17Thg6TEeA
 - //XMO-AgentStore：AI应用商店，想要什么功能自己选（时间待核实·66｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s/7-pL8EMzXrfBgkeagKzxeQ
-- 一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网（时间待核实·65｜⚠入口待找）
-  报道 https://news.nuist.edu.cn/info/1003/131382.htm
 - 山海关不住，东北超级酷！这场比赛，整个东北都赢了！ #东北超 #东北超有范儿 #万千气象看辽宁 #东北超燃AI看大连 #东北振兴（报名中·61｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1CFHC6mExa
 - 国家气象信息中心-中国气象数据网（时间待核实·61｜⚠入口待找）
@@ -311,6 +315,8 @@
   报道 https://bulletin.nuist.edu.cn/ssjgy.jsp?totalpage=361&PAGENUM=11&urltype=tree.TreeTempUrl&wbtreeid=1047&showkeycode=
 - 竞赛单元（时间待核实·49｜⚠入口待找）
   报道 https://ccf.org.cn/Computility2026/news_d_2112
+- 气象小主播剪辑案例（作品保护已静音）#气象小主播 #测今日气象护明日家园 #气象小主播演讲 #气象小主播大赛（报名中·47｜⚠入口待找）
+  报道 https://www.bilibili.com/video/BV1UebV6tE3x
 - 林骑士再度受邀到宁夏青铜峡，担任第16届亚洲葡萄酒质量大赛评委。时隔一年，发现鸽子山产区又有了新气象，有的酒庄去年还是一片工地，今年已经变得美轮美奂了。在…（时间待核实·47｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1YeKn6wEPU
 - 检索结果-信息公告栏（时间待核实·41｜⚠入口待找）

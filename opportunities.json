@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T16:53:38.876853",
+  "generated": "2026-10-18T19:29:28.138370",
   "active": [
     {
       "event_key": "investment:ai气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发新浪财经新浪网",
@@ -42,6 +42,22 @@
       "category_label": "招标采购",
       "status": "tender_open",
       "status_label": "招标中",
+      "platform": "web",
+      "score": 82.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:计算机科学与技术学院（软件学院）",
+      "title": "计算机科学与技术学院（软件学院）",
+      "report_url": "http://www.homepage.zjut.edu.cn/hpy",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "web",
       "score": 82.0,
       "deadline": null,
@@ -594,22 +610,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:江西省气象局政府网站",
-      "title": "江西省气象局政府网站",
-      "report_url": "http://jx.cma.gov.cn/zwxx/tzgg/202606/t20260608_7842890.html",
-      "official_url": null,
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 50.0,
-      "deadline": null,
-      "published_at": "2026-06-08",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "tender:最新公开",
       "title": "最新公开",
       "report_url": "https://www.cma.gov.cn/2011zwxx/2011zxxgk/zxgk/index_3282.html",
@@ -654,22 +654,6 @@
       "score": 41.0,
       "deadline": null,
       "published_at": "2026-04-01",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "other:2026年福建省大学生创新大赛正式启动福建要闻福建省人民政府门户网站",
-      "title": "2026年福建省大学生创新大赛正式启动_ 福建要闻_福建省人民政府门户网站",
-      "report_url": "https://www.fujian.gov.cn/xwdt/fjyw/202607/t20260731_7194202.htm",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 41.0,
-      "deadline": null,
-      "published_at": null,
       "is_new": true,
       "report_count": 1
     },
@@ -766,22 +750,6 @@
       "score": 35.0,
       "deadline": null,
       "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "other:【中英双语字幕】ai如何改变天气预报：从飓风路径到分钟级降水1080p｜goog",
-      "title": "【中英双语字幕】AI如何改变天气预报：从飓风路径到分钟级降水 1080P｜Google DeepMind 技术分享",
-      "report_url": "https://www.bilibili.com/video/BV1W1ph6pEdm",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 34.8,
-      "deadline": null,
-      "published_at": "2026-10-09",
       "is_new": true,
       "report_count": 1
     },
@@ -1122,22 +1090,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:我校在江苏大学生创新大赛",
-      "title": "一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网",
-      "report_url": "https://news.nuist.edu.cn/info/1003/131382.htm",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 80.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "competition:广西气温实况图天气产品图广西壮族自治区气象局",
       "title": "广西气温实况图_天气产品图_广西壮族自治区气象局",
       "report_url": "http://gx.cma.gov.cn/qxfw/tqcpt/201812/t20181206_80120.html",
@@ -1284,7 +1236,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt04r7Mt0MyQC5e588qRbWIfelqXa8Fplpd9n8UEJGE1cOBBpNWOrSm_EhzlEOxbm503uyqV3Tn-8T9w9tiycViuTvUN6efYUrtt2XCWdKhm_GkMCyrZDa9DZ-m5EjE24l50UsndM7rwITu7A7RjL4ZZ3Qmo0HgWtP2AH2FkPfCZvB66ZQaND0bjY3y1HUiMQKyrgi_NQ4q6ai4Y-UZGbO56rA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=3AF190F3DD67EEB56761397F1C9F909F67DF2EFE6AD4883F",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt04FO0qr6510xtXkG60jajsvFqXa8Fplpd9xxoWbPcOYc-BDvPQRDlKNnRoUM7TsMMIdbq9Bl656xpd4PY1M6t-h9E0I3nznI2-0ikp8BprChJOnxwEtFQ97_F_lIx1qLja5RB1tw8F7ml4zsrqhQe4CqIQDO16Hq2Scvi3goqY8GTNJZvftKQ128fifZjUJRu-rtDoBMrInh1Cy6umSSPEsg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=3BFC8E0CC57FF7AC7F792064E7DC81C67F881D126AD4ABAE",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -2130,22 +2082,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:关于组织开展2026年度省自然科学基金联合基金项目申报工作的通知江西省科学技术厅",
-      "title": "关于组织开展2026年度省自然科学基金联合基金项目申报工作的通知 - 江西省科学技术厅",
-      "report_url": "http://kjt.jiangxi.gov.cn/jxskxjst/col/col27029/content/content_2085292279476854784.html",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 50.0,
-      "deadline": null,
-      "published_at": "2026-08-06",
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "grant:关于2026年海南省自然科学基金联合项目申报通知科学技术发展院（科技处、乡村振兴",
       "title": "关于2026年海南省自然科学基金联合项目申报通知-科学技术发展院（科技处、乡村振兴办公室）",
       "report_url": "https://scitech.hainanu.edu.cn/info/1069/14673.htm",
@@ -2320,6 +2256,22 @@
       "published_at": "2026-10-15",
       "is_new": false,
       "report_count": 2
+    },
+    {
+      "event_key": "competition:江西省气象局政府网站",
+      "title": "江西省气象局政府网站",
+      "report_url": "http://jx.cma.gov.cn/zwxx/tzgg/202606/t20260608_7842890.html",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": "2026-06-08",
+      "is_new": false,
+      "report_count": 1
     },
     {
       "event_key": "grant:量子技术气象应用",
@@ -2514,6 +2466,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:2026年福建省大学生创新大赛正式启动福建要闻福建省人民政府门户网站",
+      "title": "2026年福建省大学生创新大赛正式启动_ 福建要闻_福建省人民政府门户网站",
+      "report_url": "https://www.fujian.gov.cn/xwdt/fjyw/202607/t20260731_7194202.htm",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 41.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "other:【ai技术与产品演讲】deepmind气象大模型实测：ai如何重构全球天气预测",
       "title": "【AI技术与产品演讲】DeepMind气象大模型实测：AI如何重构全球天气预测",
       "report_url": "https://www.bilibili.com/video/BV1mhHC64Ee6",
@@ -2626,22 +2594,6 @@
       "report_count": 1
     },
     {
-      "event_key": "other:智测云联ai海洋环境监测浮标｜符合gb/t12763.3海洋调查规范国标气象站厂",
-      "title": "气象站台【AI翻唱】",
-      "report_url": "https://www.bilibili.com/video/BV1tnpR6oEYH",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 34.8,
-      "deadline": null,
-      "published_at": "2026-10-12",
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "other:ai赋能气象预报与科研实践分享",
       "title": "AI赋能气象预报与科研实践分享",
       "report_url": "https://www.bilibili.com/video/BV14ynu6dEg4",
@@ -2654,6 +2606,22 @@
       "score": 34.8,
       "deadline": null,
       "published_at": "2026-10-18",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:【中英双语字幕】ai如何改变天气预报：从飓风路径到分钟级降水1080p｜goog",
+      "title": "【中英双语字幕】AI如何改变天气预报：从飓风路径到分钟级降水 1080P｜Google DeepMind 技术分享",
+      "report_url": "https://www.bilibili.com/video/BV1W1ph6pEdm",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 34.8,
+      "deadline": null,
+      "published_at": "2026-10-09",
       "is_new": false,
       "report_count": 1
     },
@@ -2722,5 +2690,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 151
+  "ended_count": 156
 }

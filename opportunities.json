@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T17:57:01.126628",
+  "generated": "2026-10-20T19:29:02.828619",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -102,22 +102,6 @@
       "title": "2026 | 清华“科创杯”创业大赛专题",
       "report_url": "http://www.mbaedu.cn/special/2026/0409qhkcb",
       "official_url": "https://aistudio.baidu.com/competition/detail/1329",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 76.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "competition:中国气象学会",
-      "title": "中国气象学会",
-      "report_url": "https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267",
-      "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
       "status": "unknown",
@@ -264,6 +248,22 @@
       "official_url": null,
       "category": "other",
       "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 65.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:海洋研究所",
+      "title": "海洋研究所",
+      "report_url": "https://qdio.cas.cn/2019Ver/News/zhdt/202601/t20260106_8096231.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
       "status": "unknown",
       "status_label": "时间待核实",
       "platform": "web",
@@ -574,6 +574,22 @@
       "score": 51.0,
       "deadline": null,
       "published_at": "2026-04-30",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:挑战杯",
+      "title": "清华大学获得第十九届“挑战杯”竞赛冠军-清华大学",
+      "report_url": "https://www.tsinghua.edu.cn/info/1176/122277.htm",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 51.0,
+      "deadline": null,
+      "published_at": null,
       "is_new": true,
       "report_count": 1
     },
@@ -1154,6 +1170,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:我校在江苏大学生创新大赛",
+      "title": "一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网",
+      "report_url": "https://news.nuist.edu.cn/info/1003/131382.htm",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 80.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:广西气温实况图天气产品图广西壮族自治区气象局",
       "title": "广西气温实况图_天气产品图_广西壮族自治区气象局",
       "report_url": "http://gx.cma.gov.cn/qxfw/tqcpt/201812/t20181206_80120.html",
@@ -1282,6 +1314,22 @@
       "report_count": 9
     },
     {
+      "event_key": "competition:中国气象学会",
+      "title": "中国气象学会",
+      "report_url": "https://www.cms1924.org/noticeDetail.html?id=7267",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 76.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:琶洲算法大赛",
       "title": "联通气象杯：气象数据要素赋能广东重点行业模型算法优选赛 - 琶洲算法大赛",
       "report_url": "https://www.aicompetition-pz.com/topic_detail/36",
@@ -1344,22 +1392,6 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "competition:数据要素×",
-      "title": "文字实录 | 国家数据局举办2026年“数据要素×”新闻发布会（第一场）-国家数据局",
-      "report_url": "https://www.nda.gov.cn/sjj/swdt/xwfb/0611/20260611200405792154005_pc.html",
-      "official_url": "https://www.datafountain.cn/competitions/1098",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 74.0,
-      "deadline": null,
-      "published_at": "2026-08-17",
-      "is_new": false,
-      "report_count": 3
     },
     {
       "event_key": "grant:佛山市发展和改革局关于征集2026年人工智能应用场景的通知佛山市人民政府门户网站",
@@ -1618,6 +1650,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:十五",
+      "title": "国家重点研发计划：“气象灾害监测预报与应对科技支撑” 重点专项 2026 年度项目申报指南征求意见-中国科学技术大学",
+      "report_url": "https://www.ustc.edu.cn/info/1362/25891.htm",
+      "official_url": "https://www.funresearch.cn/register/home",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 68.0,
+      "deadline": "2026-10-21",
+      "published_at": "2001-08-27",
+      "is_new": false,
+      "report_count": 4
+    },
+    {
       "event_key": "other:简拉维",
       "title": "三台共舞？！台气象署不认台风“简拉维” 这周“沙德尔”恐登陆？！│传台部长洪申翰拟赴上海世界技能大赛 劳动部：仍在整体评估中",
       "report_url": "https://www.bilibili.com/video/BV17Thg6TEeA",
@@ -1664,6 +1712,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "competition:数据要素×",
+      "title": "十五赛道竞逐荆楚！2026年“数据要素×”大赛湖北分赛决赛圆满 ...",
+      "report_url": "https://sjj.hubei.gov.cn/bmdt/esyw/202608/t20260824_6000094.shtml",
+      "official_url": "https://www.datafountain.cn/competitions/1098",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 65.0,
+      "deadline": null,
+      "published_at": "2026-08-17",
+      "is_new": false,
+      "report_count": 3
     },
     {
       "event_key": "tender:2138cn太阳集团(中国)股份有限公司",
@@ -1714,20 +1778,20 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:十五",
-      "title": "中国气象局科技司关于征求国家重点研发计划“气象灾害监测预报与应对科技支... - 国家重点研发计划申报 - 泛研网",
-      "report_url": "https://www.funresearch.cn/grant/MTNjMjAyYjItMzhlMi00YzJkLTg5OTUtZWZkOTU2N2UyODRj",
-      "official_url": "https://www.funresearch.cn/register/home",
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "ongoing",
-      "status_label": "报名中",
+      "event_key": "other:竞赛单元",
+      "title": "竞赛单元",
+      "report_url": "https://ccf.org.cn/Computility2026/news_d_2112",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "web",
-      "score": 65.0,
-      "deadline": "2026-10-21",
-      "published_at": "2001-08-27",
+      "score": 62.0,
+      "deadline": null,
+      "published_at": null,
       "is_new": false,
-      "report_count": 4
+      "report_count": 1
     },
     {
       "event_key": "tender:能见度仪器批发价格优质货源百度爱采购",
@@ -2418,22 +2482,6 @@
       "report_count": 2
     },
     {
-      "event_key": "other:竞赛单元",
-      "title": "竞赛单元",
-      "report_url": "https://ccf.org.cn/Computility2026/news_d_2112",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 49.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "grant:信件列表西藏自治区气象局",
       "title": "信件列表_西藏自治区气象局",
       "report_url": "http://xz.cma.gov.cn/gzhd_141/xjgs",
@@ -2866,5 +2914,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 161
+  "ended_count": 160
 }

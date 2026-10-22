@@ -18,7 +18,7 @@
 - 联通气象杯：气象数据要素赋能广东重点行业模型算法优选赛 - 琶洲算法大赛（报名中·75｜截止2026-10-23｜入口 https://www.aicompetition-pz.com/topic_registration）
   报道 https://www.aicompetition-pz.com/topic_detail/36
 - 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
-  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwb4Lb5ufyCyWc-DLhF-RtKGYDa2qHcjF1qXa8Fplpd9kvi10XUP8EV1pvu9seMssBF9R5f1MV3MgkNFOxd8bggNdEpyH5W5HIHaFCsjIs-mcMBXILkpd1c6e2M-zDnaczSV0KshkseK3ML6gFQ3ia1TF1En71JiW5NbwrP5uQCqlIiebmgJsrX73tH1SE-dWFnT6U-3-5eSeeWJKFaLX0PRtmyIGw2VAg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=62CCA8DE2A9119429197CFF4163E60B991579FA16AD98404
+  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwb4Lb5ufyCyGO7ur--mhBqGYDa2qHcjF1qXa8Fplpd9kvi10XUP8EV1pvu9seMssBF9R5f1MV3MgkNFOxd8bggNdEpyH5W5HIHaFCsjIs-mcMBXILkpd1c6e2M-zDnac_-HOmLSBoRuxKMTvWUAss56hUoCfKXezvEQbHoFnbyX2-rkTayp0-y6WRTxRJy8aycvVBvfDDHWh3LeBpX70JIO8fIRwtipOg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=62D465085AE06933E1E6BF8575C311D8E1A5CA766AD984E6
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
@@ -39,8 +39,6 @@
 ## 申报征集（27）
 - 🆕2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...（时间待核实·97｜⚠入口待找）
   报道 https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm
-- 🆕科学网—第37届中国气象学会年会在兰州召开（时间待核实·61｜⚠入口待找）
-  报道 https://www.sciencenet.cn/kxwad/click.aspx?aid=4159
 - 🆕粤港澳大湾区、长三角气温指数（系列）应用场景方案征集活动（时间待核实·57｜⚠入口待找）
   报道 https://data.cma.cn/site/article/id/42993.html
 - 🆕关于“十五五”国家重点研发计划：“气象灾害监测预报与应对 ...（时间待核实·56｜⚠入口待找）
@@ -53,7 +51,7 @@
   报道 https://kjc.cug.edu.cn/info/1303/18008.htm
 - 🆕通知公告_西藏自治区科学技术厅（时间待核实·51｜⚠入口待找）
   报道 https://sti.xizang.gov.cn/xxgk/fdzdgk/tzgg/index_1.html
-- 🆕湖北省气象局-征集调查（报名中·37｜截止2026-11-06｜入口 http://hb.cma.gov.cn/personalCenter/?siteid=121#/register）
+- 🆕湖北省气象局-征集调查（报名中·37｜截止2026-11-11｜入口 http://hb.cma.gov.cn/personalCenter/?siteid=121#/register）
   报道 http://hb.cma.gov.cn/hdjl/zjdc
 - 🆕气象 场景 征集_360图片（时间待核实·37｜⚠入口待找）
   报道 https://image.so.com/i?src=imageonebox&q=%E6%B0%94%E8%B1%A1%20%E5%9C%BA%E6%99%AF%20%E5%BE%81%E9%9B%86&obx_type=360pic_new_normal1
@@ -67,6 +65,8 @@
   报道 https://www.funresearch.cn/grant/MTE3ZGViMjctNjViNy00MmIxLWFhMTctMjY1NDg0NTI0MGIw
 - 海洋研究所（时间待核实·65｜⚠入口待找）
   报道 https://qdio.cas.cn/2019Ver/News/zhdt/202601/t20260106_8096231.html
+- 科学网—第37届中国气象学会年会在兰州召开（时间待核实·61｜⚠入口待找）
+  报道 https://www.sciencenet.cn/kxwad/click.aspx?aid=4159
 - 关于发布2026年度国家自然科学基金气象联合基金<br>“量子技术气象应用”领域申请指南的通告（时间待核实·57｜入口 https://www.heywhale.com/home/competition/68416265d91d75eb531077d6）
   报道 https://www.nsfc.gov.cn/p1/3381/2824/139876.html
 - 民意征集-深圳市气象局(台)（时间待核实·57｜⚠入口待找）
@@ -248,7 +248,7 @@
 - 专访国合会特邀顾问李晓江：气候适应融资需财政等政策参与 _ 东方财富网（融资情报·35｜⚠入口待找）
   报道 https://finance.eastmoney.com/a/202609303887852075.html
 
-## 其他（69）
+## 其他（67）
 - 🆕兰州大学在中国国际大学生创新大赛（2026）甘肃省分赛中再获佳绩-兰州大学新闻网（时间待核实·80｜⚠入口待找）
   报道 https://news.lzu.edu.cn/info/1055/1178105.htm
 - 🆕硅谷101 - Podcast - Apple Podcasts（时间待核实·65｜⚠入口待找）
@@ -293,8 +293,6 @@
   报道 https://tianchi.aliyun.com/forum/post/3013
 - 浦东发布“AI+政务”高价值场景（报名中·81｜入口 https://aistudio.baidu.com/competition/detail/1425）
   报道 https://www.shanghai.gov.cn/nw4411/20260924/792afdb34ac04e0ab5359c29f75baf9e.html
-- 一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网（时间待核实·80｜⚠入口待找）
-  报道 https://news.nuist.edu.cn/info/1003/131382.htm
 - 广西气温实况图_天气产品图_广西壮族自治区气象局（时间待核实·80｜⚠入口待找）
   报道 http://gx.cma.gov.cn/qxfw/tqcpt/201812/t20181206_80120.html
 - 原创AIGC动画《梅雨气象组》。 当你用职场的方式打开天气，太阳也不过是个46亿年的打工仔。清凉一夏，爆笑职场。 #抖音ai创作大赛 #开放赛道 #搞笑 #原创（时间待核实·76｜⚠入口待找）
@@ -369,8 +367,6 @@
   报道 https://www.bilibili.com/video/BV1uxa86SEN5
 - 气象数值预报中心工业存储与AI算力硬件配套怎么选（报名中·35｜⚠入口待找）
   报道 https://www.bilibili.com/read/cv53144023
-- 气象站台【AI翻唱】（报名中·35｜⚠入口待找）
-  报道 https://www.bilibili.com/video/BV1tnpR6oEYH
 - AI赋能气象预报与科研实践分享（报名中·35｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV14ynu6dEg4
 - 【中英双语字幕】AI如何改变天气预报：从飓风路径到分钟级降水 1080P｜Google DeepMind 技术分享（报名中·35｜⚠入口待找）

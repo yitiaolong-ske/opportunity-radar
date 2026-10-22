@@ -285,12 +285,12 @@
   报道 https://mp.weixin.qq.com/s/BxFJnDYIEIQuztKVpqPOeg
 - 基于机器学习与大模型的气象电力数据分析平台（报名中·97｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1drhB62Emp
-- 通知公告 - 2026年“数据要素×”大赛北京分赛暨北京数智创新大赛（时间待核实·95｜入口 https://www.datafountain.cn/competitions/1098）
-  报道 https://dexc.data.beijing.gov.cn/xwzx/tzgg/e47183c68b0e4168b368b62c196287ec.html
 - 数据竞赛怎么办？和鲸科赛：打造从赛题到成果的完整赛事闭环（时间待核实·95｜⚠入口待找）
   报道 https://ai.heywhale.com/article/968.html
 - 天池新赛预告，即将上线的大赛你想参加哪个？(有奖回复)_天池技术圈-阿里云天池（时间待核实·94｜⚠入口待找）
   报道 https://tianchi.aliyun.com/forum/post/3013
+- 北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会（时间待核实·86｜入口 https://tianchi.aliyun.com/competition/entrance/531923/introduction）
+  报道 https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html
 - 浦东发布“AI+政务”高价值场景（报名中·81｜入口 https://aistudio.baidu.com/competition/detail/1425）
   报道 https://www.shanghai.gov.cn/nw4411/20260924/792afdb34ac04e0ab5359c29f75baf9e.html
 - 广西气温实况图_天气产品图_广西壮族自治区气象局（时间待核实·80｜⚠入口待找）
@@ -299,8 +299,6 @@
   报道 https://www.douyin.com/video/7663092065840150885
 - [原声第一音/Suno ai]中国气象频道(现中国天气频道)《中国减灾》片头(OP)的BGM 而是用Suno ai做的（报名中·76｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1PJnP6BECB
-- 北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会（时间待核实·73｜入口 https://tianchi.aliyun.com/competition/entrance/531923/introduction）
-  报道 https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html
 - Coherent需求能见度高，但股价已反映AI预期？（时间待核实·73｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1EuE16zEMj
 - 【其他政策】关于印发江苏省“十五五”气象发展规划的通知（时间待核实·73｜⚠入口待找）
@@ -311,6 +309,8 @@
   报道 https://www.bilibili.com/video/BV17Thg6TEeA
 - //XMO-AgentStore：AI应用商店，想要什么功能自己选（时间待核实·66｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s/7-pL8EMzXrfBgkeagKzxeQ
+- 十五赛道竞逐荆楚！2026年“数据要素×”大赛湖北分赛决赛圆满 ...（时间待核实·65｜入口 https://www.datafountain.cn/competitions/1098）
+  报道 https://sjj.hubei.gov.cn/bmdt/esyw/202608/t20260824_6000094.shtml
 - 竞赛单元（时间待核实·62｜⚠入口待找）
   报道 https://ccf.org.cn/Computility2026/news_d_2112
 - 山海关不住，东北超级酷！这场比赛，整个东北都赢了！ #东北超 #东北超有范儿 #万千气象看辽宁 #东北超燃AI看大连 #东北振兴（报名中·61｜⚠入口待找）

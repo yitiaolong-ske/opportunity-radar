@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T11:40:44.497328",
+  "generated": "2026-10-22T19:28:25.675202",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -978,22 +978,6 @@
       "report_count": 2
     },
     {
-      "event_key": "competition:数据要素×",
-      "title": "通知公告 - 2026年“数据要素×”大赛北京分赛暨北京数智创新大赛",
-      "report_url": "https://dexc.data.beijing.gov.cn/xwzx/tzgg/e47183c68b0e4168b368b62c196287ec.html",
-      "official_url": "https://www.datafountain.cn/competitions/1098",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 95.0,
-      "deadline": null,
-      "published_at": "2026-08-17",
-      "is_new": false,
-      "report_count": 3
-    },
-    {
       "event_key": "tender:ai气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发36氪",
       "title": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发-36氪",
       "report_url": "https://m.36kr.com/p/4023671039070081",
@@ -1040,6 +1024,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "investment:气象融资的最新相关消息",
@@ -1426,22 +1426,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:揭榜挂帅",
-      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
-      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 73.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "other:coherent需求能见度高，但股价已反映ai预期？",
       "title": "Coherent需求能见度高，但股价已反映AI预期？",
       "report_url": "https://www.bilibili.com/video/BV1EuE16zEMj",
@@ -1696,6 +1680,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "competition:数据要素×",
+      "title": "十五赛道竞逐荆楚！2026年“数据要素×”大赛湖北分赛决赛圆满 ...",
+      "report_url": "https://sjj.hubei.gov.cn/bmdt/esyw/202608/t20260824_6000094.shtml",
+      "official_url": "https://www.datafountain.cn/competitions/1098",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 65.0,
+      "deadline": null,
+      "published_at": "2026-08-17",
+      "is_new": false,
+      "report_count": 3
     },
     {
       "event_key": "tender:2138cn太阳集团(中国)股份有限公司",
@@ -2994,5 +2994,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 176
+  "ended_count": 177
 }

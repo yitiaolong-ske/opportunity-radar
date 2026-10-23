@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T19:28:25.675202",
+  "generated": "2026-10-23T10:08:33.346489",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -34,16 +34,16 @@
       "report_count": 1
     },
     {
-      "event_key": "tender:江苏常州85后，做气象ai：融资数千万搜狐网",
-      "title": "江苏常州85后，做气象AI：融资数千万_搜狐网",
-      "report_url": "https://m.sohu.com/a/1090713380_649045?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "event_key": "tender:天序智能获数千万元prea+轮融资，厚雪资本独家投资大风号凤凰网",
+      "title": "天序智能获数千万元Pre-A+轮融资，厚雪资本独家投资_大风号_凤凰网",
+      "report_url": "https://feng.ifeng.com/c/8xBryQ090UT",
       "official_url": null,
       "category": "tender",
       "category_label": "招标采购",
-      "status": "tender_other",
-      "status_label": "招标动态",
+      "status": "tender_open",
+      "status_label": "招标中",
       "platform": "web",
-      "score": 90.0,
+      "score": 84.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -658,6 +658,38 @@
       "report_count": 1
     },
     {
+      "event_key": "tender:气象设备招标公告",
+      "title": "气象设备招标公告",
+      "report_url": "https://www.chinamae.com/purchases/6e36108dda790e6e1496177cb1c36a59",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "tender:2023年气象仪器项目",
+      "title": "2023年气象仪器项目招商引资方案.docx-原创力文档",
+      "report_url": "https://max.book118.com/html/2023/1116/5122020130011011.shtm",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:pwd20能见度仪选型指南爱采购寻源宝典",
       "title": "PWD20能见度仪选型指南 - 爱采购寻源宝典",
       "report_url": "https://b2bwiki.baidu.com/article/776807732005208065",
@@ -716,6 +748,22 @@
       "status_label": "融资情报",
       "platform": "web",
       "score": 43.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:融通中外担使命语育脊梁向未来深圳实验教育集团召开2026年英语学科专题汇报会",
+      "title": "融通中外担使命 语育脊梁向未来——深圳实验教育集团召开2026年英语学科专题汇报会",
+      "report_url": "https://mp.weixin.qq.com/s/W-fWJK6jRZ_JHkNDaTD2rw",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "weixin",
+      "score": 41.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -979,8 +1027,8 @@
     },
     {
       "event_key": "tender:ai气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发36氪",
-      "title": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发-36氪",
-      "report_url": "https://m.36kr.com/p/4023671039070081",
+      "title": "未来天玑|AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座",
+      "report_url": "https://www.futurephecda.com/news/124262",
       "official_url": null,
       "category": "tender",
       "category_label": "招标采购",
@@ -1026,20 +1074,20 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:揭榜挂帅",
-      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
-      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
+      "event_key": "tender:江苏常州85后，做气象ai：融资数千万搜狐网",
+      "title": "江苏常州85后，做气象AI：融资数千万_搜狐网",
+      "report_url": "https://m.sohu.com/a/1090713380_649045?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_other",
+      "status_label": "招标动态",
       "platform": "web",
-      "score": 86.0,
+      "score": 90.0,
       "deadline": null,
       "published_at": null,
       "is_new": false,
-      "report_count": 2
+      "report_count": 1
     },
     {
       "event_key": "investment:气象融资的最新相关消息",
@@ -1202,22 +1250,6 @@
       "report_count": 1
     },
     {
-      "event_key": "tender:气象仪器招标信息气象仪器招标采购采招网",
-      "title": "气象仪器招标采购",
-      "report_url": "https://www.qianlima.com/gjxx/400052_2703_4",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_intent",
-      "status_label": "采购意向",
-      "platform": "web",
-      "score": 78.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 5
-    },
-    {
       "event_key": "tender:保定市气象局气象灾害监测与预警中心",
       "title": "保定市气象局气象灾害监测与预警中心建设项目设备采购（气象灾害智能监测平台）中标结果公告",
       "report_url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202602/t20260228_26202574.htm",
@@ -1364,7 +1396,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwb4Lb5ufyCyGO7ur--mhBqGYDa2qHcjF1qXa8Fplpd9kvi10XUP8EV1pvu9seMssBF9R5f1MV3MgkNFOxd8bggNdEpyH5W5HIHaFCsjIs-mcMBXILkpd1c6e2M-zDnac_-HOmLSBoRuxKMTvWUAss56hUoCfKXezvEQbHoFnbyX2-rkTayp0-y6WRTxRJy8aycvVBvfDDHWh3LeBpX70JIO8fIRwtipOg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=62D465085AE06933E1E6BF8575C311D8E1A5CA766AD984E6",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte7OQ4LjG57mhl_noKynmHQB1qXa8Fplpd9I5xhR1EKLeMQ14Bef9Chahw_uNJbbLLouNdQqWWPZJYl4_YA6QxxTzJP7G0slTPtmpu5yo0MyGTt9Y96jmLQYWw9ZijOHWV_5iTid5QSo8te_j95272qXPJ7xDZkVh0LvNBdMIIoCd-Mp0EfoR_HdXJd0wiX0bvQqyB1vn7qPsP6zvkPgoArRQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=6D2B3D6C40FA7528FBFAA284934F9CABFC2227C16ADAC0D1",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -1426,6 +1458,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 73.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
+    },
+    {
       "event_key": "other:coherent需求能见度高，但股价已反映ai预期？",
       "title": "Coherent需求能见度高，但股价已反映AI预期？",
       "report_url": "https://www.bilibili.com/video/BV1EuE16zEMj",
@@ -1472,6 +1520,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "investment:云遥宇航",
+      "title": "云遥宇航完成5亿元B+轮融资，聚焦多载荷卫星领域_投资界",
+      "report_url": "https://news.pedaily.cn/202604/562390.shtml",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 72.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "other:珠江源头",
@@ -1522,6 +1586,22 @@
       "report_count": 1
     },
     {
+      "event_key": "tender:气象仪器招标信息气象仪器招标采购采招网",
+      "title": "气象仪器设备招标公告-采招网",
+      "report_url": "https://www.bidcenter.com.cn/newscontent-5423512-1.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 5
+    },
+    {
       "event_key": "tender:中国气象局上海气象装备保障中心",
       "title": "中国气象局上海气象装备保障中心上海市人工影响天气水资源保障工程（作业装备系统建设）中标公告",
       "report_url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202604/t20260409_26382897.htm",
@@ -1562,22 +1642,6 @@
       "category_label": "投融资",
       "status": "investment",
       "status_label": "融资情报",
-      "platform": "web",
-      "score": 70.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
-      "event_key": "tender:气象站求购求购气象站|采购|购置信息八方资源网仪器仪表频道求购频道",
-      "title": "建始县气象局本级气象站采购招标公告 - 仪器信息网",
-      "report_url": "https://www.instrument.com.cn/event/bid/t153691.html",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
       "platform": "web",
       "score": 70.0,
       "deadline": null,
@@ -1954,22 +2018,6 @@
       "report_count": 1
     },
     {
-      "event_key": "investment:云遥宇航",
-      "title": "云遥宇航完成5亿元战略融资",
-      "report_url": "https://www.futurephecda.com/news/71460",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 60.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "other:2026外滩大会储能ai创新论坛报名倒计时",
       "title": "2026外滩大会储能AI创新论坛报名倒计时",
       "report_url": "https://wappass.baidu.com/static/captcha/tuxing.html?ak=572be823e2f50ea759a616c060d6b9f1&backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fid%3D1875357726486928857%26wfr%3Dspider%26for%3Dpc%26third%3Dbaijiahao%26baijiahao_id%3D1875357726486928857%26c_source%3Dkunlun%26c_score%3D0.999100&timestamp=1792136757&signature=ea645009226e4784f47434f05fc09925",
@@ -2160,6 +2208,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 2
+    },
+    {
+      "event_key": "tender:气象站求购求购气象站|采购|购置信息八方资源网仪器仪表频道求购频道",
+      "title": "...体系建设气象保障工程(自动气象站类设备采购)公开招标公告",
+      "report_url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202404/t20240407_21756731.htm",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 55.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
     },
     {
       "event_key": "competition:速递|关于申报武汉大学2027年大学生创新训练计划项目的通知指导选题高等研究院",
@@ -2866,6 +2930,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:智测云联ai海洋环境监测浮标｜符合gb/t12763.3海洋调查规范国标气象站厂",
+      "title": "气象站台【AI翻唱】",
+      "report_url": "https://www.bilibili.com/video/BV1tnpR6oEYH",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 34.8,
+      "deadline": null,
+      "published_at": "2026-10-12",
+      "is_new": false,
+      "report_count": 2
+    },
+    {
       "event_key": "other:ai赋能气象预报与科研实践分享",
       "title": "AI赋能气象预报与科研实践分享",
       "report_url": "https://www.bilibili.com/video/BV14ynu6dEg4",
@@ -2994,5 +3074,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 177
+  "ended_count": 176
 }

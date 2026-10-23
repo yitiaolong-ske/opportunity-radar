@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T10:08:33.346489",
+  "generated": "2026-10-23T19:30:44.963790",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -290,6 +290,22 @@
       "report_count": 1
     },
     {
+      "event_key": "tender:通知公告（门户网站）",
+      "title": "通知公告（门户网站）",
+      "report_url": "https://hi.cma.gov.cn/tzgg/index_1.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_result",
+      "status_label": "已中标",
+      "platform": "web",
+      "score": 65.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:云境天合手持能见度检测仪入选2026年度气象监测设备推荐...",
       "title": "云境天合手持能见度检测仪入选2026年度气象监测设备推荐 ...",
       "report_url": "https://www.instrument.com.cn/netshow/sh120557/news_985878.htm",
@@ -298,6 +314,22 @@
       "category_label": "招标采购",
       "status": "tender_open",
       "status_label": "招标中",
+      "platform": "web",
+      "score": 61.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "tender:通知公告",
+      "title": "通知公告",
+      "report_url": "https://gz.cma.gov.cn/tzgg/index.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_other",
+      "status_label": "招标动态",
       "platform": "web",
       "score": 61.0,
       "deadline": null,
@@ -690,6 +722,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:关于组织开展2026年度省自然科学基金联合基金项目申报...",
+      "title": "关于组织开展2026年度省自然科学基金联合基金项目申报 ...",
+      "report_url": "http://kjt.jiangxi.gov.cn/jxskxjst/col/col27029/content/content_2085292279476854784.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": "2026-08-06",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:pwd20能见度仪选型指南爱采购寻源宝典",
       "title": "PWD20能见度仪选型指南 - 爱采购寻源宝典",
       "report_url": "https://b2bwiki.baidu.com/article/776807732005208065",
@@ -738,6 +786,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:气象服务守护美丽山水（深度观察）河北频道",
+      "title": "气象服务守护美丽山水（深度观察） - 河北频道",
+      "report_url": "http://he.people.com.cn/n2/2026/1012/c192235-41719053.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 45.0,
+      "deadline": null,
+      "published_at": "2026-10-12",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "investment:象辑科技",
       "title": "商业气象服务商“象辑科技”完成1.16亿元B轮融资",
       "report_url": "https://www.iyiou.com/news/2018011264303",
@@ -746,6 +810,22 @@
       "category_label": "投融资",
       "status": "investment",
       "status_label": "融资情报",
+      "platform": "web",
+      "score": 43.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:环境学院学子在第八届全国大学生市政环境ai+创新实践能力...",
+      "title": "环境学院学子在第八届全国大学生市政环境AI+创新实践能力 ...",
+      "report_url": "https://sese.tongji.edu.cn/info/1239/9817.htm",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "web",
       "score": 43.0,
       "deadline": null,
@@ -1026,6 +1106,22 @@
       "report_count": 2
     },
     {
+      "event_key": "competition:数据要素×",
+      "title": "通知公告 - 2026年“数据要素×”大赛北京分赛暨北京数智创新大赛",
+      "report_url": "https://dexc.data.beijing.gov.cn/xwzx/tzgg/e47183c68b0e4168b368b62c196287ec.html",
+      "official_url": "https://www.datafountain.cn/competitions/1098",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 95.0,
+      "deadline": null,
+      "published_at": "2026-08-17",
+      "is_new": false,
+      "report_count": 4
+    },
+    {
       "event_key": "tender:ai气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发36氪",
       "title": "未来天玑|AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座",
       "report_url": "https://www.futurephecda.com/news/124262",
@@ -1086,6 +1182,38 @@
       "score": 90.0,
       "deadline": null,
       "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:海洋研究所",
+      "title": "海洋研究所",
+      "report_url": "https://qdio.cas.cn/2019Ver/News/zhdt/202601/t20260106_8096231.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:远景天机",
+      "title": "“远景天机”登顶国际顶尖AI气象赛事榜首|大模型|人工智能|欧洲中期天气预报中心|欧洲|模型_新浪新闻",
+      "report_url": "https://k.sina.com.cn/article_5953740931_162dee083067042uhw.html?from=tech",
+      "official_url": "https://www.heywhale.com/home/competition/6965c34c37fbb228758a01e3",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": "2026-10-22",
       "is_new": false,
       "report_count": 1
     },
@@ -1396,7 +1524,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte7OQ4LjG57mhl_noKynmHQB1qXa8Fplpd9I5xhR1EKLeMQ14Bef9Chahw_uNJbbLLouNdQqWWPZJYl4_YA6QxxTzJP7G0slTPtmpu5yo0MyGTt9Y96jmLQYWw9ZijOHWV_5iTid5QSo8te_j95272qXPJ7xDZkVh0LvNBdMIIoCd-Mp0EfoR_HdXJd0wiX0bvQqyB1vn7qPsP6zvkPgoArRQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=6D2B3D6C40FA7528FBFAA284934F9CABFC2227C16ADAC0D1",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte7Kmk0TT5uWq-bQdr74GnXE1qXa8Fplpd9xWibOtlJje1Ap-CtCarb1tR7Tza8PVuHR_xfdXp9Mni7fSIbtmWCNq35719TL6_H6qayBQn-xRTi-DZMvKr-SqtHAvi-qZtYJKOHtmUhnxazra9_TllboVuXh8mP6QjMOuI1qcTQKnS7eA477nz63mUHiM27OYL6E_LSlusfTqG00NVofL2iDw..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=71B5501F46FC742FFCFAA37CCD49BFEDFD55E2CF6ADB436E",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -1746,22 +1874,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:数据要素×",
-      "title": "十五赛道竞逐荆楚！2026年“数据要素×”大赛湖北分赛决赛圆满 ...",
-      "report_url": "https://sjj.hubei.gov.cn/bmdt/esyw/202608/t20260824_6000094.shtml",
-      "official_url": "https://www.datafountain.cn/competitions/1098",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 65.0,
-      "deadline": null,
-      "published_at": "2026-08-17",
-      "is_new": false,
-      "report_count": 3
-    },
-    {
       "event_key": "tender:2138cn太阳集团(中国)股份有限公司",
       "title": "2138cn太阳集团(中国)股份有限公司",
       "report_url": "http://www.fagqx.com/Article-633987.html",
@@ -1810,12 +1922,12 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:海洋研究所",
-      "title": "海洋研究所",
-      "report_url": "https://qdio.cas.cn/2019Ver/News/zhdt/202601/t20260106_8096231.html",
+      "event_key": "competition:我校在江苏大学生创新大赛",
+      "title": "一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网",
+      "report_url": "https://news.nuist.edu.cn/info/1003/131382.htm",
       "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
+      "category": "other",
+      "category_label": "其他",
       "status": "unknown",
       "status_label": "时间待核实",
       "platform": "web",
@@ -2928,22 +3040,6 @@
       "published_at": "2026-09-23",
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "other:智测云联ai海洋环境监测浮标｜符合gb/t12763.3海洋调查规范国标气象站厂",
-      "title": "气象站台【AI翻唱】",
-      "report_url": "https://www.bilibili.com/video/BV1tnpR6oEYH",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 34.8,
-      "deadline": null,
-      "published_at": "2026-10-12",
-      "is_new": false,
-      "report_count": 2
     },
     {
       "event_key": "other:ai赋能气象预报与科研实践分享",

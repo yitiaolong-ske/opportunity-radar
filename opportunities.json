@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T19:30:44.963790",
+  "generated": "2026-10-24T09:41:22.328656",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -210,6 +210,22 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:​卫星企业云遥宇航完成b+轮战略融资，金额超5亿元|卫星|宇航新浪科技新浪网",
+      "title": "​卫星企业云遥宇航完成B+轮战略融资，金额超5亿元|卫星|宇航_新浪科技_新浪网",
+      "report_url": "https://finance.sina.com.cn/tech/roll/2026-04-02/doc-inhtcnfs0891484.shtml",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": "2026-04-02",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:公路气象站设备选型采购指南：能见度仪/路面状态/气象六要素...",
       "title": "公路气象站设备选型采购指南：能见度仪/路面状态/气象六要素 ...",
       "report_url": "http://www.fengtuwlw.com/Article-1082680.html",
@@ -330,6 +346,22 @@
       "category_label": "招标采购",
       "status": "tender_other",
       "status_label": "招标动态",
+      "platform": "web",
+      "score": 61.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "tender:pwd20能见度仪选型指南",
+      "title": "PWD20能见度仪选型指南",
+      "report_url": "https://b2bwiki.baidu.com/article/776807732005208065",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
       "platform": "web",
       "score": 61.0,
       "deadline": null,
@@ -898,6 +930,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:如何使用大模型来预测天气？",
+      "title": "如何使用大模型来预测天气？",
+      "report_url": "https://www.bilibili.com/video/BV1azHh6YEvV",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 34.8,
+      "deadline": null,
+      "published_at": "2026-10-03",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:科技赋能特色农业精准气象护航振兴",
       "title": "科技赋能特色农业 精准气象护航振兴",
       "report_url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTA3MzkwMA==&mid=2247624108&idx=5&sn=4fc34162b576a28969c7af7a6d0c0472&chksm=cfe8eb3f2869d797dca747d4a1caf6b69981df82f3e85a22ccc810464b67abe38520ff453518&scene=27",
@@ -1123,8 +1171,8 @@
     },
     {
       "event_key": "tender:ai气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发36氪",
-      "title": "未来天玑|AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座",
-      "report_url": "https://www.futurephecda.com/news/124262",
+      "title": "AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发-36氪",
+      "report_url": "https://m.36kr.com/p/4023671039070081",
       "official_url": null,
       "category": "tender",
       "category_label": "招标采购",
@@ -1198,22 +1246,6 @@
       "score": 86.0,
       "deadline": null,
       "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
-      "event_key": "competition:远景天机",
-      "title": "“远景天机”登顶国际顶尖AI气象赛事榜首|大模型|人工智能|欧洲中期天气预报中心|欧洲|模型_新浪新闻",
-      "report_url": "https://k.sina.com.cn/article_5953740931_162dee083067042uhw.html?from=tech",
-      "official_url": "https://www.heywhale.com/home/competition/6965c34c37fbb228758a01e3",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 86.0,
-      "deadline": null,
-      "published_at": "2026-10-22",
       "is_new": false,
       "report_count": 1
     },
@@ -1506,25 +1538,9 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:琶洲算法大赛",
-      "title": "联通气象杯：气象数据要素赋能广东重点行业模型算法优选赛 - 琶洲算法大赛",
-      "report_url": "https://www.aicompetition-pz.com/topic_detail/36",
-      "official_url": "https://www.aicompetition-pz.com/topic_registration",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 75.0,
-      "deadline": "2026-10-23",
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte7Kmk0TT5uWq-bQdr74GnXE1qXa8Fplpd9xWibOtlJje1Ap-CtCarb1tR7Tza8PVuHR_xfdXp9Mni7fSIbtmWCNq35719TL6_H6qayBQn-xRTi-DZMvKr-SqtHAvi-qZtYJKOHtmUhnxazra9_TllboVuXh8mP6QjMOuI1qcTQKnS7eA477nz63mUHiM27OYL6E_LSlusfTqG00NVofL2iDw..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=71B5501F46FC742FFCFAA37CCD49BFEDFD55E2CF6ADB436E",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7ohg6d9kS6b1NRmTWJ6GW3ZFqXa8Fplpd9q00T--iDfuxh1GZUw7bk4iIarNntvzzufDAe4qsjlUc9b3dgE3hqYAr19CgvS9Q3fqRgbSInsBvymd1ebaSYDbHDezOh3h36RiaJQzNBhlh1QbSNF5Wk04Ql1N1k2uF-XT8w919fyvAkOxxpFYGYjStB0Khzg_qGLMmkjDILxLD2CsG6-xMgzQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=786FDAD4912BA0F9292C74A50E750BB92AADD6856ADC0BE2",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -3170,5 +3186,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 176
+  "ended_count": 179
 }

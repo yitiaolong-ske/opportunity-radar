@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T19:29:31.209785",
+  "generated": "2026-10-26T08:54:39.298050",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -78,6 +78,22 @@
       "score": 80.0,
       "deadline": null,
       "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:南方财经网南方财经全媒体集团",
+      "title": "南方财经网 - 南方财经全媒体集团",
+      "report_url": "https://m.sfccn.com/2026/10-23/zMMDE0MDZfMjI4MDYzMA.html",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 80.0,
+      "deadline": null,
+      "published_at": "2026-10-23",
       "is_new": true,
       "report_count": 1
     },
@@ -162,22 +178,6 @@
       "report_count": 1
     },
     {
-      "event_key": "tender:护航",
-      "title": "国庆我在岗⑥丨深圳旅游热度持续攀升，气象服务如何“护航”？",
-      "report_url": "https://www.ezjw.com/projectinfo-detail-333126717.html",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
-      "platform": "web",
-      "score": 70.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "tender:2026年综合气象观测业务地面观测经费备品备件购置项目",
       "title": "2026年综合气象观测业务地面观测经费备品备件购置项目",
       "report_url": "https://www.f494.com/gov_80890.html",
@@ -242,22 +242,6 @@
       "report_count": 1
     },
     {
-      "event_key": "tender:ka波段全固态毫米波测云仪",
-      "title": "Ka波段全固态毫米波测云仪",
-      "report_url": "https://weather.sz.gov.cn/mobile/qixiangfuwu/qixiangjiance/jidishebe/content/post_12107074.html",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
-      "platform": "web",
-      "score": 70.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "tender:公路气象站设备选型采购指南：能见度仪/路面状态/气象六要素...",
       "title": "公路气象站设备选型采购指南：能见度仪/路面状态/气象六要素 ...",
       "report_url": "http://www.fengtuwlw.com/Article-1082680.html",
@@ -266,6 +250,22 @@
       "category_label": "招标采购",
       "status": "tender_open",
       "status_label": "招标中",
+      "platform": "web",
+      "score": 69.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:首页强对流天气识别算法征集活动",
+      "title": "首页 - 强对流天气识别算法征集活动",
+      "report_url": "https://www.radarsc.cn",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "web",
       "score": 69.0,
       "deadline": null,
@@ -506,22 +506,6 @@
       "category_label": "申报征集",
       "status": "unknown",
       "status_label": "时间待核实",
-      "platform": "web",
-      "score": 57.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "tender:宿迁市生态环境监测监控服务中心",
-      "title": "宿迁市生态环境监测监控服务中心(简称甲方)",
-      "report_url": "http://www.ccgp-jiangsu.gov.cn/fileApi/320000/202604/55b652fe4a7f46ed98d8e767347130a5.pdf",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_result",
-      "status_label": "已中标",
       "platform": "web",
       "score": 57.0,
       "deadline": null,
@@ -1314,6 +1298,22 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:气象融资的最新相关消息",
+      "title": "气象 融资的最新相关消息",
+      "report_url": "http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e8%9e%8d%e8%b5%84&src=onebox",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 85.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:第二届全国大学生气象科技创新大赛",
       "title": "第二届全国大学生气象科技创新大赛决赛，于10月17日在 ...",
       "report_url": "https://www.toutiao.com/w/1879444148320264",
@@ -1474,22 +1474,6 @@
       "report_count": 1
     },
     {
-      "event_key": "investment:气象融资的最新相关消息",
-      "title": "气象 融资的最新相关消息",
-      "report_url": "http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e8%9e%8d%e8%b5%84&src=onebox",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 80.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "competition:数据要素×",
       "title": "气象服务赛道 - 2026年“数据要素×”大赛北京分赛暨北京数智创新大赛",
       "report_url": "https://dexc.data.beijing.gov.cn/dsst/sjys/Mete1",
@@ -1604,7 +1588,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemvQGfVBokNv_aJNcnNKhzDlqXa8Fplpd90Qm2nwcRIZ0_qf_fF_VC0_atDFeXW9s1eBEyYwTTQ90ZGDI2ORh80YbzF4VgjsgKZEYK5TrHs5u0Jqi_CM2uGsrBoUDsWSXivHVPfcOBm01yg9IKXrlXLlYtWfXkMVJfyvTatwZ60SOeT0poLA4O3Geq2mAdcJF5_CwdRHftkvKq3X8EKMKOIA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=88AED5C78D37BFE535336B9D5FCD1356363BF04D6ADDE646",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemSzIFyqLCWGtAHgdH-3ByCFqXa8Fplpd9ekFfPbOMKxvHFT_EXq5LqJq9rV8YqjbCGzgufCRKvi5vp_e0cpDUvsfjwPeit4cZvBOWN5MJvrvs9PH0C17_7yIssyvIVtXovGU9_fr80CwT8kJ6MBvc1s4PY4E5DCwEacACQp1Y9tG7JzcpJmOKl3MhfZwpoTr-2ZUTzXIk1zXdrgozfSg6bw..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=8F5EDB419D24ACF5262378969ED1970D268C9A986ADEA3EF",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -1874,22 +1858,6 @@
       "report_count": 1
     },
     {
-      "event_key": "investment:天津星",
-      "title": "从47颗星到全链自主，“天津星”闪耀商业航天新赛道_云遥_气象_宇航",
-      "report_url": "https://www.sohu.com/a/1019048140_121443915",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 70.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "competition:第十七届服创大赛",
       "title": "大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）",
       "report_url": "https://www.fwwb.org.cn/news/show/599",
@@ -1954,6 +1922,22 @@
       "report_count": 1
     },
     {
+      "event_key": "tender:护航",
+      "title": "国庆我在岗⑥丨深圳旅游热度持续攀升，气象服务如何“护航”？",
+      "report_url": "https://www.ezjw.com/projectinfo-detail-333126717.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:滦州国家基本气象观测站",
       "title": "环境监测与气象观测仪器招标查询_最新中标公示与采购信息",
       "report_url": "https://www.infochina.cn/juhe-23001",
@@ -1968,6 +1952,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 3
+    },
+    {
+      "event_key": "tender:ka波段全固态毫米波测云仪",
+      "title": "Ka波段全固态毫米波测云仪",
+      "report_url": "https://weather.sz.gov.cn/mobile/qixiangfuwu/qixiangjiance/jidishebe/content/post_12107074.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
     },
     {
       "event_key": "other:简拉维",
@@ -2354,6 +2354,22 @@
       "report_count": 1
     },
     {
+      "event_key": "tender:宿迁市生态环境监测监控服务中心",
+      "title": "宿迁市生态环境监测监控服务中心(简称甲方)",
+      "report_url": "http://www.ccgp-jiangsu.gov.cn/fileApi/320000/202604/55b652fe4a7f46ed98d8e767347130a5.pdf",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_result",
+      "status_label": "已中标",
+      "platform": "web",
+      "score": 57.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "other:气象小主播",
       "title": "2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳",
       "report_url": "https://www.douyin.com/video/7662564938002599187",
@@ -2432,6 +2448,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 2
+    },
+    {
+      "event_key": "investment:天津星",
+      "title": "从47颗星到全链自主，“天津星”闪耀商业航天新赛道",
+      "report_url": "https://www.sohu.com/a/1019048140_121443915",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 55.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
     },
     {
       "event_key": "tender:气象站求购求购气象站|采购|购置信息八方资源网仪器仪表频道求购频道",

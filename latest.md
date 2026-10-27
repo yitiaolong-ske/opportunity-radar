@@ -15,12 +15,12 @@
   报道 https://mp.weixin.qq.com/s/W-fWJK6jRZ_JHkNDaTD2rw
 - 🆕海内外顶尖机构联合举办 NeurIPS 2026 竞赛，全球招募 AI for Physical Systems 顶尖团队!（时间待核实·15｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s?src=11&timestamp=1784772311&ver=6859&signature=Ay11Jq%2A-m8HfTDG6XiZJIUkR8pcXzbJKn1fd8HEixt1TWGcwDnDsJedQyplYjWKLXqiTaa2ldoLzTeFB6o-HvPjra6UkKe%2A-jS25zg3l0Q4VmA-emony1rtYT5Mdsffe&new=1
-- 第二届全国大学生气象科技创新大赛决赛，于10月17日在 ...（时间待核实·85｜入口 https://aistudio.baidu.com/competition/detail/1125）
-  报道 https://www.toutiao.com/w/1879444148320264
+- 中国气象大模型拿下全球第一！「远景天机」领跑欧洲权威气象大赛 - 锦囊专家官网 - 数字经济智库平台（时间待核实·95｜入口 https://www.meiridas.cn）
+  报道 https://www.jnexpert.com/article/detail?id=36660
 - 中国气象学会（时间待核实·76｜⚠入口待找）
   报道 https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267
 - 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
-  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpnqK17A4p0M1gpLDFyxV--VqXa8Fplpd9aADlDaaXZrstWoRNh16YmmL7pl3p8CIizUhRxa-_9oYMPo8d5vVdachYuBh-Qoy_Zj34tPHByWUg1Njy3MMeOq8OzdYAoikdxQja0PNCbx_lNLW9CDa2KTLHUzn1fqhQJ4L_T7czIVqapxhMWh-fMWIXARZTZfCaWkUlavkWtLby08OLTBhW0A..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=9ADB4D573F850D568482DB427D6C5C84858613186ADFF7AB
+  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyk1J_t_u4joqYz3mXqwSJFBaiFtTp0-tlqXa8Fplpd9ts7tY_KefSCUpczSH7InKfM1fXyBkW61LVaX02GiFBzVpyhGuUYvI_Xu7L0dke-rLsLXCYaR6Cjmpz6F3CiVgOXVJR5vd7-2tbMIsMPjsbXBmNbnB84ZTCn2_nuum8aEzIv36AiSoJstFqfauimPQc_Snu2YiR9f1tkuyb3AcrKjotuuiAmOIg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=A02FFEBCCD76FFA4767129A6C8EDF6BF775356906AE08AD8
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
@@ -38,7 +38,7 @@
 - 关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛”（ACTION 2026）的通知-信息公告栏（时间待核实·35｜入口 https://www.heywhale.com/home/competition/697ad5a9e782130e4c66f3cc）
   报道 https://bulletin.nuist.edu.cn/info/1016/56216.htm
 
-## 申报征集（37）
+## 申报征集（38）
 - 🆕2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...（时间待核实·97｜⚠入口待找）
   报道 https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm
 - 🆕首页 - 强对流天气识别算法征集活动（时间待核实·69｜⚠入口待找）
@@ -75,6 +75,8 @@
   报道 http://hb.cma.gov.cn/hdjl/zjdc
 - 🆕气象 场景 征集_360图片（时间待核实·37｜⚠入口待找）
   报道 https://image.so.com/i?src=imageonebox&q=%E6%B0%94%E8%B1%A1%20%E5%9C%BA%E6%99%AF%20%E5%BE%81%E9%9B%86&obx_type=360pic_new_normal1
+- 🆕中国气象局科技司关于开展气象科普资源征集暨2026年全国气象科普创作观摩活动的通知（时间待核实·37｜⚠入口待找）
+  报道 https://www.cma.gov.cn/zfxxgk/gknr/wjgk/qtwj/202608/t20260812_7981746.html
 - 🆕奖项申报 | CNS-CST Outstanding Neuroscientist Award申请通知（时间待核实·7｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s/TSL8ExaNTDmB1MmDvxJbKg
 - 海洋研究所（时间待核实·86｜⚠入口待找）
@@ -95,6 +97,8 @@
   报道 http://klaeem.ac.cn/xwdt/tzgg
 - 中国气象局科技司关于征求国家重点研发计划“气象灾害监测 ...（时间待核实·56｜入口 https://www.funresearch.cn/register/home）
   报道 http://www.czzht.com/index.php?c=content&a=show&id=61464
+- 中国科学院合肥物质科学研究院科研规划处（时间待核实·56｜⚠入口待找）
+  报道 https://www.hf.cas.cn/lmjx/glbm/kyghc/kyc_kyghc/tzgg/202610/t20261015_8292613.html
 - 关于征集气象科技服务需求与合作意向的通知 - 江西省蓝天科创有限公司（时间待核实·52｜⚠入口待找）
   报道 https://www.zouyuji.asia/article/21
 - 关于2026年海南省自然科学基金联合项目申报通知-科学技术发展院（科技处、乡村振兴办公室）（时间待核实·50｜⚠入口待找）
@@ -105,8 +109,6 @@
   报道 https://kjj.wuhan.gov.cn/wmfw/tzgg/tzgg_18371/202610/t20261015_2861548.html
 - 信件列表_西藏自治区气象局（报名中·49｜截止2026-11-15｜⚠入口待找）
   报道 http://xz.cma.gov.cn/gzhd_141/xjgs
-- 中国科学院合肥物质科学研究院科研规划处（时间待核实·41｜⚠入口待找）
-  报道 https://www.hf.cas.cn/lmjx/glbm/kyghc/kyc_kyghc/tzgg/202610/t20261015_8292613.html
 - 气象 申报 通知_360图片（时间待核实·41｜⚠入口待找）
   报道 https://image.so.com/i?src=imageonebox&q=%E6%B0%94%E8%B1%A1%20%E7%94%B3%E6%8A%A5%20%E9%80%9A%E7%9F%A5&obx_type=360pic_new_normal1
 - ...2026年马鞍山市气象领域科技计划项目的通知_马鞍山市科学技术局（时间待核实·41｜⚠入口待找）
@@ -114,7 +116,7 @@
 - 河南省气象局（报名中·37｜截止2026-12-11｜⚠入口待找）
   报道 http://ha.cma.gov.cn/nanyang/nyxinxigk/index.html
 
-## 招标采购（52）
+## 招标采购（53）
 - 🆕天序智能获数千万元Pre-A+轮融资，厚雪资本独家投资_大风号_凤凰网（招标中·84｜⚠入口待找）
   报道 https://feng.ifeng.com/c/8xBryQ090UT
 - 🆕4.2 国家能力、机构与官僚体系 (State Capacity, Institutions, and Bureaucracy)（招标动态·81｜⚠入口待找）
@@ -153,6 +155,8 @@
   报道 http://www.jdaoqxz.com/Article/D8061692.html
 - 🆕通知公告_嘉兴市气象局（已中标·37｜⚠入口待找）
   报道 http://zj.cma.gov.cn/dsqx/jxsqxj/zwxx_8889/tzgg_8890
+- 🆕湛江市气象局（招标中·35｜⚠入口待找）
+  报道 http://gd.cma.gov.cn/zjsqxj/zwgk_2986/gggs_2995/202506/t20250624_7164556_mo.html
 - AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发-36氪（招标动态·95｜⚠入口待找）
   报道 https://m.36kr.com/p/4023671039070081
 - 江苏常州85后，做气象AI：融资数千万_搜狐网（招标动态·90｜⚠入口待找）
@@ -335,6 +339,8 @@
   报道 https://ai.heywhale.com/article/968.html
 - 天池新赛预告，即将上线的大赛你想参加哪个？(有奖回复)_天池技术圈-阿里云天池（时间待核实·94｜⚠入口待找）
   报道 https://tianchi.aliyun.com/forum/post/3013
+- 一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网（时间待核实·80｜⚠入口待找）
+  报道 https://news.nuist.edu.cn/info/1003/131382.htm
 - 广西气温实况图_天气产品图_广西壮族自治区气象局（时间待核实·80｜⚠入口待找）
   报道 http://gx.cma.gov.cn/qxfw/tqcpt/201812/t20181206_80120.html
 - 气象服务赛道 - 2026年“数据要素×”大赛北京分赛暨北京数智创新大赛（时间待核实·78｜入口 https://www.datafountain.cn/competitions/1098）
@@ -357,8 +363,6 @@
   报道 https://www.bilibili.com/video/BV17Thg6TEeA
 - //XMO-AgentStore：AI应用商店，想要什么功能自己选（时间待核实·66｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s/7-pL8EMzXrfBgkeagKzxeQ
-- 一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网（时间待核实·65｜⚠入口待找）
-  报道 https://news.nuist.edu.cn/info/1003/131382.htm
 - 竞赛单元（时间待核实·62｜⚠入口待找）
   报道 https://ccf.org.cn/Computility2026/news_d_2112
 - 山海关不住，东北超级酷！这场比赛，整个东北都赢了！ #东北超 #东北超有范儿 #万千气象看辽宁 #东北超燃AI看大连 #东北振兴（报名中·61｜⚠入口待找）

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T09:04:10.964026",
+  "generated": "2026-10-27T19:36:27.966230",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -1058,6 +1058,38 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:中国气象局科技司关于开展气象科普资源征集暨2026年全国气象科普创作观摩活动的通",
+      "title": "中国气象局科技司关于开展气象科普资源征集暨2026年全国气象科普创作观摩活动的通知",
+      "report_url": "https://www.cma.gov.cn/zfxxgk/gknr/wjgk/qtwj/202608/t20260812_7981746.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 37.0,
+      "deadline": null,
+      "published_at": "2026-08-14",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "tender:湛江市气象局",
+      "title": "湛江市气象局",
+      "report_url": "http://gd.cma.gov.cn/zjsqxj/zwgk_2986/gggs_2995/202506/t20250624_7164556_mo.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 35.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:科技赋能特色农业精准气象护航振兴",
       "title": "科技赋能特色农业 精准气象护航振兴",
       "report_url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTA3MzkwMA==&mid=2247624108&idx=5&sn=4fc34162b576a28969c7af7a6d0c0472&chksm=cfe8eb3f2869d797dca747d4a1caf6b69981df82f3e85a22ccc810464b67abe38520ff453518&scene=27",
@@ -1298,6 +1330,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:领跑欧洲权威气象大赛",
+      "title": "中国气象大模型拿下全球第一！「远景天机」领跑欧洲权威气象大赛 - 锦囊专家官网 - 数字经济智库平台",
+      "report_url": "https://www.jnexpert.com/article/detail?id=36660",
+      "official_url": "https://www.meiridas.cn",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 95.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:即将上线的大赛",
       "title": "天池新赛预告，即将上线的大赛你想参加哪个？(有奖回复)_天池技术圈-阿里云天池",
       "report_url": "https://tianchi.aliyun.com/forum/post/3013",
@@ -1354,22 +1402,6 @@
       "category_label": "投融资",
       "status": "investment",
       "status_label": "融资情报",
-      "platform": "web",
-      "score": 85.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
-      "event_key": "competition:第二届全国大学生气象科技创新大赛",
-      "title": "第二届全国大学生气象科技创新大赛决赛，于10月17日在 ...",
-      "report_url": "https://www.toutiao.com/w/1879444148320264",
-      "official_url": "https://aistudio.baidu.com/competition/detail/1125",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
       "platform": "web",
       "score": 85.0,
       "deadline": null,
@@ -1484,6 +1516,22 @@
       "status_label": "融资情报",
       "platform": "web",
       "score": 82.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:我校在江苏大学生创新大赛",
+      "title": "一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网",
+      "report_url": "https://news.nuist.edu.cn/info/1003/131382.htm",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 80.0,
       "deadline": null,
       "published_at": null,
       "is_new": false,
@@ -1620,7 +1668,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpnqK17A4p0M1gpLDFyxV--VqXa8Fplpd9aADlDaaXZrstWoRNh16YmmL7pl3p8CIizUhRxa-_9oYMPo8d5vVdachYuBh-Qoy_Zj34tPHByWUg1Njy3MMeOq8OzdYAoikdxQja0PNCbx_lNLW9CDa2KTLHUzn1fqhQJ4L_T7czIVqapxhMWh-fMWIXARZTZfCaWkUlavkWtLby08OLTBhW0A..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=9ADB4D573F850D568482DB427D6C5C84858613186ADFF7AB",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyk1J_t_u4joqYz3mXqwSJFBaiFtTp0-tlqXa8Fplpd9ts7tY_KefSCUpczSH7InKfM1fXyBkW61LVaX02GiFBzVpyhGuUYvI_Xu7L0dke-rLsLXCYaR6Cjmpz6F3CiVgOXVJR5vd7-2tbMIsMPjsbXBmNbnB84ZTCn2_nuum8aEzIv36AiSoJstFqfauimPQc_Snu2YiR9f1tkuyb3AcrKjotuuiAmOIg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=A02FFEBCCD76FFA4767129A6C8EDF6BF775356906AE08AD8",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -2114,22 +2162,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:我校在江苏大学生创新大赛",
-      "title": "一等奖11项！我校在江苏大学生创新大赛中再创佳绩 - 天际新闻网",
-      "report_url": "https://news.nuist.edu.cn/info/1003/131382.htm",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 65.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "other:竞赛单元",
       "title": "竞赛单元",
       "report_url": "https://ccf.org.cn/Computility2026/news_d_2112",
@@ -2454,6 +2486,22 @@
       "title": "中国气象局科技司关于征求国家重点研发计划“气象灾害监测 ...",
       "report_url": "http://www.czzht.com/index.php?c=content&a=show&id=61464",
       "official_url": "https://www.funresearch.cn/register/home",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 56.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:中国科学院合肥物质科学研究院科研规划处",
+      "title": "中国科学院合肥物质科学研究院科研规划处",
+      "report_url": "https://www.hf.cas.cn/lmjx/glbm/kyghc/kyc_kyghc/tzgg/202610/t20261015_8292613.html",
+      "official_url": null,
       "category": "grant",
       "category_label": "申报征集",
       "status": "unknown",
@@ -3026,22 +3074,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:中国科学院合肥物质科学研究院科研规划处",
-      "title": "中国科学院合肥物质科学研究院科研规划处",
-      "report_url": "https://www.hf.cas.cn/lmjx/glbm/kyghc/kyc_kyghc/tzgg/202610/t20261015_8292613.html",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 41.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "tender:北京市气象局(本级)2026年1至12月政府采购意向",
       "title": "北京市气象局(本级)2026年1至12月政府采购意向",
       "report_url": "http://www.ccgp-beijing.gov.cn/yxgk/sjcgyx/2026/4/2050d7e8bccd45d1ba22ab2e6414bf2a.htm",
@@ -3410,5 +3442,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 190
+  "ended_count": 195
 }

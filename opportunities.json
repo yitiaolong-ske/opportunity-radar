@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T19:30:13.300114",
+  "generated": "2026-10-27T09:04:10.964026",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -994,6 +994,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:南京市气象局南京市科学技术局关于组织开展2026年度南京市气象科技协同创新项目申",
+      "title": "南京市气象局 南京市科学技术局关于组织 开展2026年度南京市气象科技协同 创新项目申报工作的通知",
+      "report_url": "http://js.cma.gov.cn/dsjwz/njs/njszfxxgk/sjfdzdgknr/sjtzgg/202610/t20261022_8103995.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 41.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "grant:湖北省气象局征集调查",
       "title": "湖北省气象局-征集调查",
       "report_url": "http://hb.cma.gov.cn/hdjl/zjdc",
@@ -1038,22 +1054,6 @@
       "score": 37.0,
       "deadline": null,
       "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "other:台风卷王",
-      "title": "这就是AI吧丨盘古视角看“台风卷王”",
-      "report_url": "https://www.bilibili.com/video/BV12vnt6yEHP",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 35.6,
-      "deadline": null,
-      "published_at": "2026-10-23",
       "is_new": true,
       "report_count": 1
     },
@@ -1620,7 +1620,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpmOUe2mDlGVkqkZ_Sx3PrI1qXa8Fplpd9H3_B3_e1WPrc8RvQD_r48njcFNrSajqT0is-k8xz0rfhel06mfuZO4U24qa4xyo60jy4V8xw4sRQo0NG9jCpA_DqI9Be9XofoT_OCoN4lnEcFZ2NNF9hf-nmVzecCF6_SKyHCBmdezWFl45Y5uzgB-JDK8ioRODs6Aab-LjMqDFhlgeRt7bSzA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=946AEB4061DB5309D9DC8466505B680ADAD9F7DC6ADF37E2",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpnqK17A4p0M1gpLDFyxV--VqXa8Fplpd9aADlDaaXZrstWoRNh16YmmL7pl3p8CIizUhRxa-_9oYMPo8d5vVdachYuBh-Qoy_Zj34tPHByWUg1Njy3MMeOq8OzdYAoikdxQja0PNCbx_lNLW9CDa2KTLHUzn1fqhQJ4L_T7czIVqapxhMWh-fMWIXARZTZfCaWkUlavkWtLby08OLTBhW0A..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=9ADB4D573F850D568482DB427D6C5C84858613186ADFF7AB",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -2466,22 +2466,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:中国科学院合肥物质科学研究院科研规划处",
-      "title": "中国科学院合肥物质科学研究院科研规划处",
-      "report_url": "https://www.hf.cas.cn/lmjx/glbm/kyghc/kyc_kyghc/tzgg/202610/t20261015_8292613.html",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 56.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "tender:中国气象局气象探测中心",
       "title": "中国气象局气象探测中心2025年大气成分备件采购项目中标公告",
       "report_url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202509/t20250917_25367661.htm",
@@ -3042,6 +3026,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:中国科学院合肥物质科学研究院科研规划处",
+      "title": "中国科学院合肥物质科学研究院科研规划处",
+      "report_url": "https://www.hf.cas.cn/lmjx/glbm/kyghc/kyc_kyghc/tzgg/202610/t20261015_8292613.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 41.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:北京市气象局(本级)2026年1至12月政府采购意向",
       "title": "北京市气象局(本级)2026年1至12月政府采购意向",
       "report_url": "http://www.ccgp-beijing.gov.cn/yxgk/sjcgyx/2026/4/2050d7e8bccd45d1ba22ab2e6414bf2a.htm",
@@ -3182,6 +3182,22 @@
       "score": 36.0,
       "deadline": null,
       "published_at": "2026-09-27",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:台风卷王",
+      "title": "这就是AI吧丨盘古视角看“台风卷王”",
+      "report_url": "https://www.bilibili.com/video/BV12vnt6yEHP",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 35.6,
+      "deadline": null,
+      "published_at": "2026-10-23",
       "is_new": false,
       "report_count": 1
     },
@@ -3394,5 +3410,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 189
+  "ended_count": 190
 }

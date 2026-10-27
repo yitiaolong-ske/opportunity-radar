@@ -1,4 +1,4 @@
-# 机会雷达（2026-10-26）
+# 机会雷达（2026-10-27）
 
 ## 竞赛赛事（18）
 - 🆕41分钟报名破万！2026北京海淀马拉松（海马）在中关村壹号鸣枪开赛（报名中·94｜⚠入口待找）
@@ -20,7 +20,7 @@
 - 中国气象学会（时间待核实·76｜⚠入口待找）
   报道 https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267
 - 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
-  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpmOUe2mDlGVkqkZ_Sx3PrI1qXa8Fplpd9H3_B3_e1WPrc8RvQD_r48njcFNrSajqT0is-k8xz0rfhel06mfuZO4U24qa4xyo60jy4V8xw4sRQo0NG9jCpA_DqI9Be9XofoT_OCoN4lnEcFZ2NNF9hf-nmVzecCF6_SKyHCBmdezWFl45Y5uzgB-JDK8ioRODs6Aab-LjMqDFhlgeRt7bSzA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=946AEB4061DB5309D9DC8466505B680ADAD9F7DC6ADF37E2
+  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpnqK17A4p0M1gpLDFyxV--VqXa8Fplpd9aADlDaaXZrstWoRNh16YmmL7pl3p8CIizUhRxa-_9oYMPo8d5vVdachYuBh-Qoy_Zj34tPHByWUg1Njy3MMeOq8OzdYAoikdxQja0PNCbx_lNLW9CDa2KTLHUzn1fqhQJ4L_T7czIVqapxhMWh-fMWIXARZTZfCaWkUlavkWtLby08OLTBhW0A..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=9ADB4D573F850D568482DB427D6C5C84858613186ADFF7AB
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
@@ -38,7 +38,7 @@
 - 关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛”（ACTION 2026）的通知-信息公告栏（时间待核实·35｜入口 https://www.heywhale.com/home/competition/697ad5a9e782130e4c66f3cc）
   报道 https://bulletin.nuist.edu.cn/info/1016/56216.htm
 
-## 申报征集（36）
+## 申报征集（37）
 - 🆕2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...（时间待核实·97｜⚠入口待找）
   报道 https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm
 - 🆕首页 - 强对流天气识别算法征集活动（时间待核实·69｜⚠入口待找）
@@ -69,6 +69,8 @@
   报道 http://he.people.com.cn/n2/2026/1012/c192235-41719053.html
 - 🆕南京市气象局 南京市科学技术局关于组织 开展2026年度南京市气象科技...（时间待核实·41｜⚠入口待找）
   报道 http://js.cma.gov.cn/dsjwz/njs/njszfxxgk/sjfdzdgknr/sjtzgg/202610/t20261022_8103995.html
+- 🆕南京市气象局 南京市科学技术局关于组织 开展2026年度南京市气象科技协同 创新项目申报工作的通知（时间待核实·41｜⚠入口待找）
+  报道 http://js.cma.gov.cn/dsjwz/njs/njszfxxgk/sjfdzdgknr/sjtzgg/202610/t20261022_8103995.html
 - 🆕湖北省气象局-征集调查（报名中·37｜截止2026-11-11｜入口 http://hb.cma.gov.cn/personalCenter/?siteid=121#/register）
   报道 http://hb.cma.gov.cn/hdjl/zjdc
 - 🆕气象 场景 征集_360图片（时间待核实·37｜⚠入口待找）
@@ -93,8 +95,6 @@
   报道 http://klaeem.ac.cn/xwdt/tzgg
 - 中国气象局科技司关于征求国家重点研发计划“气象灾害监测 ...（时间待核实·56｜入口 https://www.funresearch.cn/register/home）
   报道 http://www.czzht.com/index.php?c=content&a=show&id=61464
-- 中国科学院合肥物质科学研究院科研规划处（时间待核实·56｜⚠入口待找）
-  报道 https://www.hf.cas.cn/lmjx/glbm/kyghc/kyc_kyghc/tzgg/202610/t20261015_8292613.html
 - 关于征集气象科技服务需求与合作意向的通知 - 江西省蓝天科创有限公司（时间待核实·52｜⚠入口待找）
   报道 https://www.zouyuji.asia/article/21
 - 关于2026年海南省自然科学基金联合项目申报通知-科学技术发展院（科技处、乡村振兴办公室）（时间待核实·50｜⚠入口待找）
@@ -105,6 +105,8 @@
   报道 https://kjj.wuhan.gov.cn/wmfw/tzgg/tzgg_18371/202610/t20261015_2861548.html
 - 信件列表_西藏自治区气象局（报名中·49｜截止2026-11-15｜⚠入口待找）
   报道 http://xz.cma.gov.cn/gzhd_141/xjgs
+- 中国科学院合肥物质科学研究院科研规划处（时间待核实·41｜⚠入口待找）
+  报道 https://www.hf.cas.cn/lmjx/glbm/kyghc/kyc_kyghc/tzgg/202610/t20261015_8292613.html
 - 气象 申报 通知_360图片（时间待核实·41｜⚠入口待找）
   报道 https://image.so.com/i?src=imageonebox&q=%E6%B0%94%E8%B1%A1%20%E7%94%B3%E6%8A%A5%20%E9%80%9A%E7%9F%A5&obx_type=360pic_new_normal1
 - ...2026年马鞍山市气象领域科技计划项目的通知_马鞍山市科学技术局（时间待核实·41｜⚠入口待找）
@@ -311,8 +313,6 @@
   报道 https://www.nda.gov.cn/sjj/swdt/mtsy/0613/20260613131557065652281_pc.html
 - 🆕在新时代新征程展现新气象新作为（时间待核实·50｜⚠入口待找）
   报道 https://www.hevttc.edu.cn/233-1234.pdf
-- 🆕这就是AI吧丨盘古视角看“台风卷王”（报名中·36｜⚠入口待找）
-  报道 https://www.bilibili.com/video/BV12vnt6yEHP
 - 🆕科技赋能特色农业 精准气象护航振兴（时间待核实·18｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s?__biz=Mzg2MTA3MzkwMA==&mid=2247624108&idx=5&sn=4fc34162b576a28969c7af7a6d0c0472&chksm=cfe8eb3f2869d797dca747d4a1caf6b69981df82f3e85a22ccc810464b67abe38520ff453518&scene=27
 - 🆕两名12岁小孩姐携手在深圳开公司!因登雪山经历立志研发高山气象站...（时间待核实·18｜⚠入口待找）
@@ -413,6 +413,8 @@
   报道 https://www.bilibili.com/video/BV11ypk6QEu2
 - Python天气气象大屏 Flask框架 可视化 中国天气网数据 requests爬虫技术 LayUI框架 天气预测 大数据 数据分析 大模型（报名中·36｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1uxa86SEN5
+- 这就是AI吧丨盘古视角看“台风卷王”（报名中·36｜⚠入口待找）
+  报道 https://www.bilibili.com/video/BV12vnt6yEHP
 - 气象数值预报中心工业存储与AI算力硬件配套怎么选（报名中·35｜⚠入口待找）
   报道 https://www.bilibili.com/read/cv53144023
 - AI赋能气象预报与科研实践分享（报名中·35｜⚠入口待找）

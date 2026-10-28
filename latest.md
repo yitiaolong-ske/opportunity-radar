@@ -20,7 +20,7 @@
 - 中国气象学会（时间待核实·76｜⚠入口待找）
   报道 https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267
 - 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
-  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyk1J_t_u4jofFCO8lZ6BVxUWQigGekC0lqXa8Fplpd9ITz3jgQhopYcEnFkha5v_WGBWg04m0TIA9ujEJW2TqkYIVUr_5yeOhRcmXHSxVGLmkPpAp-G4ouu40zNlq08EXmx8nlikg-sXQYTw64CUtU3ZNdJ7YbiizEuQiHIbT7kpqlfgREAQUMkcc59_tHaGcX1w_2OHjjcyPs1WDiFeoiFW6cwuUnkdA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=A6CDEBB9854481FA4D4A1296AFF55FBC4D01A9FE6AE145D3
+  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyk1J_t_u4joDyzluwgo7lEMD-GeODvwzFqXa8Fplpd9NHsGBy7NTadUtzXLb-LgYQ5gjg8e7vRzjpa7_s7qiJN3wXqDqRXkesy-8fkFpkgad2n8PUiamrNz74Vf4jYzB15XpDip5AvRau0uAuRK-WyxCGm0KFz18ECVf3sz4zsCVFCB3eXjZ78tUcX2hmWs5-UCoUAOKUAoUCvYFsOsbv8CYioxHkzTmA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=AC6579AF44FE76D300065E1AEF7A5458003B1E0F6AE1DFC1
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
@@ -73,8 +73,6 @@
   报道 http://js.cma.gov.cn/dsjwz/njs/njszfxxgk/sjfdzdgknr/sjtzgg/202610/t20261022_8103995.html
 - 🆕南京市气象局 南京市科学技术局关于组织 开展2026年度南京市气象科技协同 创新项目申报工作的通知（时间待核实·41｜⚠入口待找）
   报道 http://js.cma.gov.cn/dsjwz/njs/njszfxxgk/sjfdzdgknr/sjtzgg/202610/t20261022_8103995.html
-- 🆕气象 申报 通知的最新相关消息（时间待核实·41｜⚠入口待找）
-  报道 http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e7%94%b3%e6%8a%a5%20%e9%80%9a%e7%9f%a5&src=onebox
 - 🆕湖北省气象局-征集调查（报名中·37｜截止2026-11-11｜入口 http://hb.cma.gov.cn/personalCenter/?siteid=121#/register）
   报道 http://hb.cma.gov.cn/hdjl/zjdc
 - 🆕气象 场景 征集_360图片（时间待核实·37｜⚠入口待找）
@@ -117,6 +115,8 @@
   报道 https://image.so.com/i?src=imageonebox&q=%E6%B0%94%E8%B1%A1%20%E7%94%B3%E6%8A%A5%20%E9%80%9A%E7%9F%A5&obx_type=360pic_new_normal1
 - ...2026年马鞍山市气象领域科技计划项目的通知_马鞍山市科学技术局（时间待核实·41｜⚠入口待找）
   报道 https://kjj.mas.gov.cn/xwdt/tzgg/sbtz/2006440901.html
+- 气象 申报 通知的最新相关消息（时间待核实·41｜⚠入口待找）
+  报道 http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e7%94%b3%e6%8a%a5%20%e9%80%9a%e7%9f%a5&src=onebox
 - 河南省气象局（报名中·37｜截止2026-12-11｜⚠入口待找）
   报道 http://ha.cma.gov.cn/nanyang/nyxinxigk/index.html
 
@@ -230,7 +230,7 @@
 - 北京市科学技术委员会、中关村科技园区管理委员会关于征集2026年重点应用场景储备项目及科技新场景供需对接储备活动的通知（招标动态·37｜⚠入口待找）
   报道 https://www.ncsti.gov.cn/kjdt/tzgg/202607/t20260702_250686.html
 
-## 投融资（35）
+## 投融资（36）
 - 🆕南方财经网 - 南方财经全媒体集团（融资情报·80｜⚠入口待找）
   报道 https://m.sfccn.com/2026/10-23/zMMDE0MDZfMjI4MDYzMA.html
 - 🆕AI 气象模型WeatherMesh-6 发布，预报精度超欧洲政府机构 ...（融资情报·77｜⚠入口待找）
@@ -243,6 +243,8 @@
   报道 https://m.36kr.com/p/3863983975044354
 - 🆕...与模速空间接力孵化企业|上海市|模型|气象|科技|科研_手机新浪网（融资情报·65｜⚠入口待找）
   报道 https://news.sina.com.cn/zx/gj/2025-09-17/doc-infquwam4912127.shtml
+- 🆕重庆市气象局部署推进金融气象服务体系建设（融资情报·65｜⚠入口待找）
+  报道 http://cq.cma.gov.cn/sqxj/xwdt/sjdt/202604/t20260419_7740630.html
 - 🆕央行公示福建第7批金融科技创新应用，关注涉农（融资情报·60｜⚠入口待找）
   报道 https://m.mpaypass.com.cn/news/202609/02181941.html
 - 🆕银河通用完成超3亿美元新融资，创人形机器人行业融资最高纪录; MiniMax通过港交所聆讯，计划2026年1月挂牌上市丨AI周报（融资情报·60｜⚠入口待找）
@@ -302,9 +304,11 @@
 - 专访国合会特邀顾问李晓江：气候适应融资需财政等政策参与 _ 东方财富网（融资情报·35｜⚠入口待找）
   报道 https://finance.eastmoney.com/a/202609303887852075.html
 
-## 其他（71）
+## 其他（72）
 - 🆕我院智协飞教授团队荣获首届“申智杯”人工智能创新大赛二等奖-大气科学学院（时间待核实·86｜⚠入口待找）
   报道 https://cas.nuist.edu.cn/info/1454/22548.htm
+- 🆕楷登电子：能见度提升且AI上行空间初现，维持超配评级，目标价400.00美元（报名中·83｜⚠入口待找）
+  报道 https://www.bilibili.com/video/BV1V5x36XEdK
 - 🆕兰州大学在中国国际大学生创新大赛（2026）甘肃省分赛中再获佳绩-兰州大学新闻网（时间待核实·80｜⚠入口待找）
   报道 https://news.lzu.edu.cn/info/1055/1178105.htm
 - 🆕硅谷101 - Podcast - Apple Podcasts（时间待核实·65｜⚠入口待找）

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T19:57:01.185792",
+  "generated": "2026-10-29T11:39:33.846689",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -402,22 +402,6 @@
       "report_count": 1
     },
     {
-      "event_key": "investment:重庆市气象局部署推进金融气象服务体系建设",
-      "title": "重庆市气象局部署推进金融气象服务体系建设",
-      "report_url": "http://cq.cma.gov.cn/sqxj/xwdt/sjdt/202604/t20260419_7740630.html",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 65.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "tender:云境天合手持能见度检测仪入选2026年度气象监测设备推荐...",
       "title": "云境天合手持能见度检测仪入选2026年度气象监测设备推荐 ...",
       "report_url": "https://www.instrument.com.cn/netshow/sh120557/news_985878.htm",
@@ -603,6 +587,22 @@
       "status": "unknown",
       "status_label": "时间待核实",
       "platform": "weixin",
+      "score": 57.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:江苏常州85后，做气象ai：融资数千万",
+      "title": "江苏常州85后，做气象AI：融资数千万",
+      "report_url": "https://m.sohu.com/a/1090713380_649045?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
       "score": 57.0,
       "deadline": null,
       "published_at": null,
@@ -1458,22 +1458,6 @@
       "report_count": 1
     },
     {
-      "event_key": "investment:气象融资的最新相关消息",
-      "title": "气象 融资的最新相关消息",
-      "report_url": "http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e8%9e%8d%e8%b5%84&src=onebox",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 85.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "investment:洞察天机",
       "title": "AI气象大模型的下半场：当天气开始进入现金流-钛媒体官方网站",
       "report_url": "https://www.tmtpost.com/7871105.html",
@@ -1520,22 +1504,6 @@
       "published_at": "2026-09-29",
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "investment:ai天气预报更准了，windborne如何把它变成生意？赢政天下",
-      "title": "AI天气预报更准了，WindBorne如何把它变成生意？ | 赢政天下",
-      "report_url": "https://www.winzheng.com/article/windborne-ai-weather-funding",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 82.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 3
     },
     {
       "event_key": "tender:公路自动气象站供电方案：市电为主+太阳能备用，确保恶劣天气下连续运行。山东风途物",
@@ -1618,6 +1586,22 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:气象融资的最新相关消息",
+      "title": "气象 融资的最新相关消息",
+      "report_url": "http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e8%9e%8d%e8%b5%84&src=onebox",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 80.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:数据要素×",
       "title": "气象服务赛道 - 2026年“数据要素×”大赛北京分赛暨北京数智创新大赛",
       "report_url": "https://dexc.data.beijing.gov.cn/dsst/sjys/Mete1",
@@ -1664,6 +1648,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "investment:ai天气预报更准了，windborne如何把它变成生意？赢政天下",
+      "title": "AI天气预报更准了，WindBorne如何把它变成生意？ - 赢政天下",
+      "report_url": "https://www.winzheng.com/article/windborne-ai-weather-funding",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 77.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 3
     },
     {
       "event_key": "grant:气象服务守护美丽山水（深度观察）",
@@ -1732,7 +1732,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyk1J_t_u4joDyzluwgo7lEMD-GeODvwzFqXa8Fplpd9NHsGBy7NTadUtzXLb-LgYQ5gjg8e7vRzjpa7_s7qiJN3wXqDqRXkesy-8fkFpkgad2n8PUiamrNz74Vf4jYzB15XpDip5AvRau0uAuRK-WyxCGm0KFz18ECVf3sz4zsCVFCB3eXjZ78tUcX2hmWs5-UCoUAOKUAoUCvYFsOsbv8CYioxHkzTmA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=AC6579AF44FE76D300065E1AEF7A5458003B1E0F6AE1DFC1",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-nebjFqDjGhdi8z58QCPIWFqXa8Fplpd9zMLa1EeyLDWTYPJlj2MdI1ISoEhBGPDBjfPNqGckW0kfli_RccC0PezBaQVuCV9MsMLtbEa-aKfBTYXQgO2fIGAwxeaibYYC2SqjXXJA40ESC_C8zhD39HZNrDUPg8cZUjI-vyP_nyUcruyarmh6Zs_pO4_Jg9IgLgFNvTi0VCDm0CtGSSkZQQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=B4986DE1A3199EC4171E49EA766E7C481837C54D6AE2BF2A",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -2227,7 +2227,7 @@
     },
     {
       "event_key": "tender:气象站求购求购气象站|采购|购置信息八方资源网仪器仪表频道求购频道",
-      "title": "小型气象站招标：太阳能自主供电，超低功耗运行",
+      "title": "小型气象站招标：太阳能自主供电，超低功耗运行，野外脱离市电可用_产品知识_山东竞道光电科技有限公司",
       "report_url": "http://www.jdaoqxz.com/Article/D8072168.html",
       "official_url": null,
       "category": "tender",
@@ -2522,6 +2522,22 @@
       "category_label": "招标采购",
       "status": "tender_result",
       "status_label": "已中标",
+      "platform": "web",
+      "score": 57.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:重庆市气象局部署推进金融气象服务体系建设",
+      "title": "重庆市气象局部署推进金融气象服务体系建设",
+      "report_url": "http://cq.cma.gov.cn/sqxj/xwdt/sjdt/202604/t20260419_7740630.html",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
       "platform": "web",
       "score": 57.0,
       "deadline": null,

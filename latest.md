@@ -1,4 +1,4 @@
-# 机会雷达（2026-10-28）
+# 机会雷达（2026-10-29）
 
 ## 竞赛赛事（18）
 - 🆕41分钟报名破万！2026北京海淀马拉松（海马）在中关村壹号鸣枪开赛（报名中·94｜⚠入口待找）
@@ -20,7 +20,7 @@
 - 中国气象学会（时间待核实·76｜⚠入口待找）
   报道 https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267
 - 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
-  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyk1J_t_u4joDyzluwgo7lEMD-GeODvwzFqXa8Fplpd9NHsGBy7NTadUtzXLb-LgYQ5gjg8e7vRzjpa7_s7qiJN3wXqDqRXkesy-8fkFpkgad2n8PUiamrNz74Vf4jYzB15XpDip5AvRau0uAuRK-WyxCGm0KFz18ECVf3sz4zsCVFCB3eXjZ78tUcX2hmWs5-UCoUAOKUAoUCvYFsOsbv8CYioxHkzTmA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=AC6579AF44FE76D300065E1AEF7A5458003B1E0F6AE1DFC1
+  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-nebjFqDjGhdi8z58QCPIWFqXa8Fplpd9zMLa1EeyLDWTYPJlj2MdI1ISoEhBGPDBjfPNqGckW0kfli_RccC0PezBaQVuCV9MsMLtbEa-aKfBTYXQgO2fIGAwxeaibYYC2SqjXXJA40ESC_C8zhD39HZNrDUPg8cZUjI-vyP_nyUcruyarmh6Zs_pO4_Jg9IgLgFNvTi0VCDm0CtGSSkZQQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=B4986DE1A3199EC4171E49EA766E7C481837C54D6AE2BF2A
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
@@ -201,7 +201,7 @@
   报道 http://www.fagqx.com/Article-633987.html
 - 项目名称:丰县乡镇空气质量网格化监测及省 ...（招标中·65｜⚠入口待找）
   报道 http://www.ccgp-jiangsu.gov.cn/fileApi/320000/202609/d22a795bbd3e456aa44b622c08410658.pdf
-- 小型气象站招标：太阳能自主供电，超低功耗运行（招标中·65｜⚠入口待找）
+- 小型气象站招标：太阳能自主供电，超低功耗运行，野外脱离市电可用_产品知识_山东竞道光电科技有限公司（招标中·65｜⚠入口待找）
   报道 http://www.jdaoqxz.com/Article/D8072168.html
 - 金华市气象服务中心能见度仪采购项目采购公告_通知公告_ 浙江气象局外网门户（招标中·61｜⚠入口待找）
   报道 http://zj.cma.gov.cn/dsqx/jhsqxj/zwxx_8931/tzgg_8932/202603/t20260310_7642626.html
@@ -230,7 +230,7 @@
 - 北京市科学技术委员会、中关村科技园区管理委员会关于征集2026年重点应用场景储备项目及科技新场景供需对接储备活动的通知（招标动态·37｜⚠入口待找）
   报道 https://www.ncsti.gov.cn/kjdt/tzgg/202607/t20260702_250686.html
 
-## 投融资（36）
+## 投融资（37）
 - 🆕南方财经网 - 南方财经全媒体集团（融资情报·80｜⚠入口待找）
   报道 https://m.sfccn.com/2026/10-23/zMMDE0MDZfMjI4MDYzMA.html
 - 🆕AI 气象模型WeatherMesh-6 发布，预报精度超欧洲政府机构 ...（融资情报·77｜⚠入口待找）
@@ -243,12 +243,12 @@
   报道 https://m.36kr.com/p/3863983975044354
 - 🆕...与模速空间接力孵化企业|上海市|模型|气象|科技|科研_手机新浪网（融资情报·65｜⚠入口待找）
   报道 https://news.sina.com.cn/zx/gj/2025-09-17/doc-infquwam4912127.shtml
-- 🆕重庆市气象局部署推进金融气象服务体系建设（融资情报·65｜⚠入口待找）
-  报道 http://cq.cma.gov.cn/sqxj/xwdt/sjdt/202604/t20260419_7740630.html
 - 🆕央行公示福建第7批金融科技创新应用，关注涉农（融资情报·60｜⚠入口待找）
   报道 https://m.mpaypass.com.cn/news/202609/02181941.html
 - 🆕银河通用完成超3亿美元新融资，创人形机器人行业融资最高纪录; MiniMax通过港交所聆讯，计划2026年1月挂牌上市丨AI周报（融资情报·60｜⚠入口待找）
   报道 https://m.cyzone.cn/article/819404.html
+- 🆕江苏常州85后，做气象AI：融资数千万（融资情报·57｜⚠入口待找）
+  报道 https://m.sohu.com/a/1090713380_649045?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
 - 🆕专家学者共商金融气象发展 五大议题探索行业新路径（融资情报·55｜⚠入口待找）
   报道 http://www.qxkp.net/shfw/jr/202602/t20260213_7608878.html
 - 🆕国家气象信息中心-中国气象数据网（融资情报·55｜⚠入口待找）
@@ -263,18 +263,18 @@
   报道 https://finance.sina.com.cn/stock/t/2026-10-13/doc-iniuzuyi5055961.shtml
 - 天序智能完成数千万元Pre-A+轮融资 厚雪资本独家投资|卫星|能源|雷达|风速|气象学_网易订阅（融资情报·95｜截止2026-11-01｜⚠入口待找）
   报道 https://www.163.com/dy/article/L96MUMB10550B1DU.html
-- 气象 融资的最新相关消息（融资情报·85｜⚠入口待找）
-  报道 http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e8%9e%8d%e8%b5%84&src=onebox
 - AI气象大模型的下半场：当天气开始进入现金流-钛媒体官方网站（融资情报·84｜⚠入口待找）
   报道 https://www.tmtpost.com/7871105.html
 - 星睿云智获戈壁创投战略投资加速人工智能驱动卫星气象 ...（融资情报·84｜⚠入口待找）
   报道 https://www.stellerustech.com/zh/newsinfo/39.html
-- AI天气预报更准了，WindBorne如何把它变成生意？ | 赢政天下（融资情报·82｜⚠入口待找）
-  报道 https://www.winzheng.com/article/windborne-ai-weather-funding
 - 未来天玑|云遥宇航完成5亿元战略融资（融资情报·82｜⚠入口待找）
   报道 https://www.futurephecda.com/news/71460
+- 气象 融资的最新相关消息（融资情报·80｜⚠入口待找）
+  报道 http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e8%9e%8d%e8%b5%84&src=onebox
 - 乐竞・体育搜索量攀升，现存气象服务相关企业超8000家（融资情报·77｜⚠入口待找）
   报道 https://www.eoffcn.com/wiki/shangli/reference/30895247.htm
+- AI天气预报更准了，WindBorne如何把它变成生意？ - 赢政天下（融资情报·77｜⚠入口待找）
+  报道 https://www.winzheng.com/article/windborne-ai-weather-funding
 - 今年上海最值得关注的18位科学家创业者-36氪（融资情报·75｜⚠入口待找）
   报道 https://m.36kr.com/p/3561161752886145
 - 不筹量子完成数亿元A轮融资，聚焦中性原子量子计算核心技术_投资界（融资情报·75｜⚠入口待找）
@@ -293,6 +293,8 @@
   报道 https://m.36kr.com/p/3644947937972103
 - 2000亿的气象经济，却养不活1万家“看天”企业-虎嗅网（融资情报·58｜⚠入口待找）
   报道 https://www.huxiu.com/article/4877315.html
+- 重庆市气象局部署推进金融气象服务体系建设（融资情报·57｜⚠入口待找）
+  报道 http://cq.cma.gov.cn/sqxj/xwdt/sjdt/202604/t20260419_7740630.html
 - 从47颗星到全链自主，“天津星”闪耀商业航天新赛道（融资情报·55｜⚠入口待找）
   报道 https://www.sohu.com/a/1019048140_121443915
 - 我国首个金融气象AI模型“熵机”发布（融资情报·52｜⚠入口待找）

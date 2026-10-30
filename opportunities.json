@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T16:49:01.113577",
+  "generated": "2026-10-30T19:28:56.302903",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -30,22 +30,6 @@
       "score": 94.0,
       "deadline": null,
       "published_at": "2026-10-11",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "grant:我国学者在大气环境人工智能预报模型研究方面取得进展",
-      "title": "我国学者在大气环境人工智能预报模型研究方面取得进展",
-      "report_url": "https://www.nsfc.gov.cn/p1/3381/2825/121440.html",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 94.0,
-      "deadline": null,
-      "published_at": null,
       "is_new": true,
       "report_count": 1
     },
@@ -786,6 +770,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:因天气原因，ak挑战赛延期至10.3111.1！报名进行中大风号凤凰网",
+      "title": "因天气原因，AK挑战赛延期至10.31-11.1！报名进行中_大风号_凤凰网",
+      "report_url": "https://feng.ifeng.com/c/8xWF0oDNeaZ",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/532403/information",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 52.0,
+      "deadline": "2026-10-31",
+      "published_at": "2026-10-25",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "grant:通知公告西藏自治区科学技术厅",
       "title": "通知公告_西藏自治区科学技术厅",
       "report_url": "https://sti.xizang.gov.cn/xxgk/fdzdgk/tzgg/index_1.html",
@@ -1074,22 +1074,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:通知公告中国气象局政府门户网站",
-      "title": "通知公告-中国气象局政府门户网站",
-      "report_url": "https://www.cma.gov.cn/2011zwxx/2011ztzgg",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 41.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "competition:中国气象学会关于举办第二届全国大学生气象科技创新大赛",
       "title": "中国气象学会关于举办第二届全国大学生气象科技创新大赛的通知",
       "report_url": "https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267",
@@ -1109,22 +1093,6 @@
       "event_key": "other:气象局发布风云卫星多项最新成果科技，极端天气ai人工智能模型风云气象，服务全球多",
       "title": "气象局发布风云卫星多项最新成果科技，极端天气AI人工智能模型风云气象，服务全球多国。2026年10月29日。",
       "report_url": "https://www.bilibili.com/video/BV1shxF6VEe8",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 40.0,
-      "deadline": null,
-      "published_at": "2026-10-29",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "other:今日信息差｜精讲10条：气象ai上岗智驾芯片700tops香港出口增64.9%",
-      "title": "今日信息差｜精讲10条：气象AI上岗 智驾芯片700TOPS 香港出口增64.9%",
-      "report_url": "https://www.bilibili.com/video/BV1jaxc6hEqn",
       "official_url": null,
       "category": "other",
       "category_label": "其他",
@@ -1394,6 +1362,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:人工智能+气象",
+      "title": "关于举办2026年AI赋能千行百业超级联赛“人工智能+气象”创新应用大赛的公告-中国气象局政府门户网站",
+      "report_url": "https://www.cma.gov.cn/2011zwxx/2011ztzgg/202606/t20260625_7882673.html",
+      "official_url": "https://www.kaggle.com/competitions/forecasting-the-future-the-helios-corn-climate-challenge",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 95.0,
+      "deadline": "2026-11-08",
+      "published_at": "2026-06-25",
+      "is_new": false,
+      "report_count": 17
+    },
+    {
       "event_key": "investment:天序智能",
       "title": "天序智能完成数千万元Pre-A+轮融资 厚雪资本独家投资|卫星|能源|雷达|风速|气象学_网易订阅",
       "report_url": "https://www.163.com/dy/article/L96MUMB10550B1DU.html",
@@ -1408,6 +1392,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 2
+    },
+    {
+      "event_key": "competition:数据要素×",
+      "title": "气象服务赛道 - 2026年“数据要素×”大赛北京分赛暨北京数智创新大赛",
+      "report_url": "https://dexc.data.beijing.gov.cn/dsst/sjys/Mete1",
+      "official_url": "https://www.datafountain.cn/competitions/1098",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 95.0,
+      "deadline": null,
+      "published_at": "2026-08-17",
+      "is_new": false,
+      "report_count": 4
     },
     {
       "event_key": "other:数据竞赛怎么办？和鲸科赛：打造从赛题到成果的完整赛事闭环",
@@ -1453,6 +1453,22 @@
       "platform": "web",
       "score": 94.0,
       "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:我国学者在大气环境人工智能预报模型研究方面取得进展",
+      "title": "我国学者在大气环境人工智能预报模型研究方面取得进展",
+      "report_url": "https://www.nsfc.gov.cn/p1/3381/2825/121440.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 94.0,
+      "deadline": "2026-12-28",
       "published_at": null,
       "is_new": false,
       "report_count": 1
@@ -2642,6 +2658,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:通知公告",
+      "title": "通知公告",
+      "report_url": "https://kxjsc.njupt.edu.cn/tzgg/list.htm",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 56.0,
+      "deadline": "2026-11-06",
+      "published_at": "2026-10-15",
+      "is_new": false,
+      "report_count": 2
+    },
+    {
       "event_key": "grant:中国气象局科技司关于征求国家重点研发计划“气象灾害监测...",
       "title": "中国气象局科技司关于征求国家重点研发计划“气象灾害监测 ...",
       "report_url": "http://www.czzht.com/index.php?c=content&a=show&id=61464",
@@ -2882,6 +2914,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:关于联合组织申报2025年度江苏海洋气象开放研究基金项目的...",
+      "title": "关于申报2026年度重庆市自然科学基金创新发展联合基金（市教委、气象）项目的通知",
+      "report_url": "https://www.yznu.edu.cn/2026/1028/c8289a287755/page.htm",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": "2026-11-16",
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:河海大学2023年气象知识竞赛",
       "title": "全国青少年气象知识竞赛2026报名指南:官网入口+流程详解 - 百度文库",
       "report_url": "https://wenku.baidu.com/view/acd774877b192279168884868762caaedc33ba7a.html",
@@ -2994,22 +3042,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:通知公告",
-      "title": "通知公告",
-      "report_url": "https://kjj.wuhan.gov.cn/wmfw/tzgg/tzgg_18371/202610/t20261015_2861548.html",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 50.0,
-      "deadline": "2026-11-06",
-      "published_at": "2026-10-15",
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "tender:中国气象局政府采购中心",
       "title": "中国气象局政府采购中心-气象局|招标|采购|询价|中标|采招一体化平台",
       "report_url": "https://zgqx.bidnews.cn/",
@@ -3034,22 +3066,6 @@
       "category_label": "投融资",
       "status": "investment",
       "status_label": "融资情报",
-      "platform": "web",
-      "score": 50.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
-      "event_key": "other:学校学生荣获第二届全国大学生气象科技创新大赛一等奖",
-      "title": "学校学生荣获第二届全国大学生气象科技创新大赛一等奖",
-      "report_url": "https://www.lzre.edu.cn/info/1104/29174.htm",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
       "platform": "web",
       "score": 50.0,
       "deadline": null,
@@ -3288,11 +3304,11 @@
       "official_url": null,
       "category": "grant",
       "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
+      "status": "ongoing",
+      "status_label": "报名中",
       "platform": "web",
       "score": 41.0,
-      "deadline": null,
+      "deadline": "2026-11-06",
       "published_at": null,
       "is_new": false,
       "report_count": 1
@@ -3330,6 +3346,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:学校学生荣获第二届全国大学生气象科技创新大赛一等奖",
+      "title": "学校学生荣获第二届全国大学生气象科技创新大赛一等奖-兰州资源环境职业技术大学",
+      "report_url": "https://www.lzre.edu.cn/info/1104/29174.htm",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 41.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "grant:气象申报通知的最新相关消息",
       "title": "气象 申报 通知的最新相关消息",
       "report_url": "http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e7%94%b3%e6%8a%a5%20%e9%80%9a%e7%9f%a5&src=onebox",
@@ -3342,6 +3374,38 @@
       "score": 41.0,
       "deadline": null,
       "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:通知公告中国气象局政府门户网站",
+      "title": "通知公告-中国气象局政府门户网站",
+      "report_url": "https://www.cma.gov.cn/2011zwxx/2011ztzgg",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 41.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:今日信息差｜精讲10条：气象ai上岗智驾芯片700tops香港出口增64.9%",
+      "title": "今日信息差｜精讲10条：气象AI上岗 智驾芯片700TOPS 香港出口增64.9%",
+      "report_url": "https://www.bilibili.com/video/BV1jaxc6hEqn",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 40.0,
+      "deadline": null,
+      "published_at": "2026-10-29",
       "is_new": false,
       "report_count": 1
     },
@@ -3682,5 +3746,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 204
+  "ended_count": 203
 }

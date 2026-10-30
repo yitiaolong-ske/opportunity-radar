@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T19:29:48.316992",
+  "generated": "2026-10-30T11:22:55.335920",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -312,6 +312,22 @@
       "official_url": null,
       "category": "grant",
       "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 69.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:校园气象科普教育网",
+      "title": "校园气象科普教育网",
+      "report_url": "https://xyqx.cms1924.org/WebPage/WebPage2_4_20_1057.aspx",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
       "status": "unknown",
       "status_label": "时间待核实",
       "platform": "web",
@@ -914,6 +930,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:第三届苏州青少年园林模型挑战赛报名开启苏州市人民政府",
+      "title": "第三届苏州青少年园林模型挑战赛报名开启 - 苏州市人民政府",
+      "report_url": "https://www.suzhou.gov.cn/szsrmzf/szyw/202604/a7e3b837394d4c70abd7141228e0ea2b.shtml",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "grant:...气象学会关于2026年联合学术年会征稿通知通知公告福建省气象局",
       "title": "...气象学会关于2026年联合学术年会征稿通知_通知公告_福建省气象局",
       "report_url": "http://fj.cma.gov.cn/xwzx/tzgg/202610/t20261016_8096565.html",
@@ -1130,6 +1162,22 @@
       "category_label": "招标采购",
       "status": "tender_result",
       "status_label": "已中标",
+      "platform": "web",
+      "score": 37.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:...重庆市自然科学基金创新发展联合基金(市教委、气象)项目的通知",
+      "title": "...重庆市自然科学基金创新发展联合基金(市教委、气象)项目的通知",
+      "report_url": "https://kjc.yznu.cn/_t149/2026/1028/c1481a287755/page.htm",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "web",
       "score": 37.0,
       "deadline": null,
@@ -1442,6 +1490,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:你有什么人工智能预报天气的好点子?第二届人工智能天气预报创新大...",
+      "title": "“可预报性荒漠”的AI冲击——人工智能天气预报探索竞赛首年赛事启示-中国气象局政府门户网站",
+      "report_url": "https://www.cma.gov.cn/2011xwzx/2011xqxkj/2011xkjdt/202610/t20261026_8108882.html",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": "2026-10-26",
+      "is_new": false,
+      "report_count": 3
+    },
+    {
       "event_key": "investment:洞察天机",
       "title": "AI气象大模型的下半场：当天气开始进入现金流-钛媒体官方网站",
       "report_url": "https://www.tmtpost.com/7871105.html",
@@ -1502,6 +1566,22 @@
       "score": 82.0,
       "deadline": null,
       "published_at": "2026-09-29",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "tender:交通气象观测站",
+      "title": "交通气象观测站采购项目（二次）中标(成交)结果公告",
+      "report_url": "http://ggzyjy.xjtc.gov.cn/jyxx/002004/002004003/20261029/d48cb6f3-930d-4958-b1a2-ddd75b4db6c3.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_result",
+      "status_label": "已中标",
+      "platform": "web",
+      "score": 82.0,
+      "deadline": null,
+      "published_at": "2026-10-29",
       "is_new": false,
       "report_count": 1
     },
@@ -1584,22 +1664,6 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "competition:数据要素×",
-      "title": "气象服务赛道 - 2026年“数据要素×”大赛北京分赛暨北京数智创新大赛",
-      "report_url": "https://dexc.data.beijing.gov.cn/dsst/sjys/Mete1",
-      "official_url": "https://www.datafountain.cn/competitions/1098",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 78.0,
-      "deadline": null,
-      "published_at": "2026-08-17",
-      "is_new": false,
-      "report_count": 4
     },
     {
       "event_key": "tender:保定市气象局气象灾害监测与预警中心",
@@ -1716,7 +1780,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-B5k0rPsInPp27GEBMr8pJFqXa8Fplpd9keSfqcTwr6kzyJ4VmL1X8djTGbQbV2n7o3JupKvtwe-zrDWZ4SrPMop-qQVMrgXvNKsRNQnGtiwviAXAdVkcu4NIqxg1-jeTtAKS4pkGgNLUPqaHc_ywiQEhbjEGsp6HIAQHa_GHDkT1g2gUYeBkoOwnZqRrXMpAkzz33kY67y1f_71bqkOtiw..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=B86D3706942EB9FC303671D7CFCCC44F304F2C306AE32C2F",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXL84eCp0RYa-Z4YHbQDZR4lqXa8Fplpd9YRQ8n9ND5AjtSPZbzjPAxDr0HUfT6eJg_dcF7DtouNMWUY4bByJx7YEOrpassRSy3xVY9B-ZHauZQuCxVB0EjSoUxYdIS9ogvCO6OGjPryppmiNfOXn0D_mCtK-twtNW7olmgDAYzieKqBiiH0rS0chan7jDMDP41__f1EW99VoHpHkoPMgL3A..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=C0B658BD209A12489C9DC49ADB5BCAFC9C1309636AE40C91",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -1776,6 +1840,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "other:五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道上海国际人才网",
+      "title": "五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道_上海国际人才网",
+      "report_url": "https://www.sh-italent.com/Article/202604/202604030005.shtml",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 75.0,
+      "deadline": "2026-10-18",
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "grant:佛山市发展和改革局关于征集2026年人工智能应用场景的通知佛山市人民政府门户网站",
@@ -1856,22 +1936,6 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "investment:云遥宇航",
-      "title": "云遥宇航完成5亿元B+轮融资，聚焦多载荷卫星领域_投资界",
-      "report_url": "https://news.pedaily.cn/202604/562390.shtml",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 72.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
     },
     {
       "event_key": "other:珠江源头",
@@ -2010,6 +2074,22 @@
       "category_label": "竞赛赛事",
       "status": "unknown",
       "status_label": "时间待核实",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
+    },
+    {
+      "event_key": "investment:云遥宇航",
+      "title": "云遥宇航完成超5亿元B+轮融资 创商业气象卫星领域融资纪录_腾讯新闻",
+      "report_url": "https://news.qq.com/rain/a/20260403A02SQK00",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
       "platform": "web",
       "score": 70.0,
       "deadline": null,
@@ -2286,22 +2366,6 @@
       "score": 61.0,
       "deadline": null,
       "published_at": "2026-10-07",
-      "is_new": false,
-      "report_count": 1
-    },
-    {
-      "event_key": "tender:交通气象观测站",
-      "title": "交通气象观测站采购项目竞争性谈判公告",
-      "report_url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202610/t20261011_27467894.htm",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
-      "platform": "web",
-      "score": 61.0,
-      "deadline": null,
-      "published_at": null,
       "is_new": false,
       "report_count": 1
     },
@@ -2765,22 +2829,6 @@
       "platform": "web",
       "score": 50.0,
       "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
-      "event_key": "grant:关于联合组织申报2025年度江苏海洋气象开放研究基金项目的...",
-      "title": "关于申报2026年度重庆市自然科学基金创新发展联合基金（市教委、气象）项目的通知",
-      "report_url": "https://www.yznu.edu.cn/2026/1028/c8289a287755/page.htm",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 50.0,
-      "deadline": "2026-11-16",
       "published_at": null,
       "is_new": false,
       "report_count": 1
@@ -3570,5 +3618,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 198
+  "ended_count": 199
 }

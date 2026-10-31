@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T14:08:34.595036",
+  "generated": "2026-10-31T19:29:58.422735",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -30,6 +30,22 @@
       "score": 94.0,
       "deadline": null,
       "published_at": "2026-10-11",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:针对极端天气的ai模型来了！21经济网",
+      "title": "针对极端天气的AI模型来了！ - 21经济网",
+      "report_url": "https://www.21jingji.com/article/20261029/herald/4f7ebdc2340dee3bf1d67f2fc4c61611.html",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 94.0,
+      "deadline": null,
+      "published_at": "2026-10-29",
       "is_new": true,
       "report_count": 1
     },
@@ -78,6 +94,22 @@
       "score": 84.0,
       "deadline": null,
       "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:广西壮族自治区人民政府门户网站www.gxzf.gov.cn",
+      "title": "广西壮族自治区人民政府门户网站 - www.gxzf.gov.cn",
+      "report_url": "http://www.gxzf.gov.cn/gxyw/t27819565.shtml",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 81.0,
+      "deadline": null,
+      "published_at": "2026-06-25",
       "is_new": true,
       "report_count": 1
     },
@@ -738,6 +770,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:中国气象局科技司关于征求国家重点研发计划“气象灾害监测预报与...",
+      "title": "中国气象局科技司关于征求国家重点研发计划“气象灾害监测预报与 ...",
+      "report_url": "https://www.kejixiangmu.org.cn/13514.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 56.0,
+      "deadline": null,
+      "published_at": "2026-10-15",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "investment:专家学者共商金融气象发展五大议题探索行业新路径",
       "title": "专家学者共商金融气象发展 五大议题探索行业新路径",
       "report_url": "http://www.qxkp.net/shfw/jr/202602/t20260213_7608878.html",
@@ -1138,22 +1186,6 @@
       "report_count": 1
     },
     {
-      "event_key": "other:【设备百科】智测云联雨雾滴谱仪zccly017人工降雨设备精细化降水微观监测设备",
-      "title": "【设备百科】智测云联 雨雾滴谱仪 ZC-CLY-017 人工降雨设备精细化降水微观监测设备  AI智能体定制开发",
-      "report_url": "https://www.bilibili.com/video/BV16MxP6CExn",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 38.0,
-      "deadline": null,
-      "published_at": "2026-10-30",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "grant:湖北省气象局征集调查",
       "title": "湖北省气象局-征集调查",
       "report_url": "http://hb.cma.gov.cn/hdjl/zjdc",
@@ -1198,22 +1230,6 @@
       "score": 37.0,
       "deadline": null,
       "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "other:智慧气象diy气象站接线",
-      "title": "智慧气象-DIY气象站-接线",
-      "report_url": "https://www.bilibili.com/video/BV1Kgxv6CEGv",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 34.8,
-      "deadline": null,
-      "published_at": "2026-10-30",
       "is_new": true,
       "report_count": 1
     },
@@ -1500,7 +1516,7 @@
       "status_label": "报名中",
       "platform": "web",
       "score": 94.0,
-      "deadline": "2026-12-04",
+      "deadline": "2026-12-28",
       "published_at": null,
       "is_new": false,
       "report_count": 1
@@ -1844,7 +1860,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGrdcaNiXOFro2NcLIFxdKbBVqXa8Fplpd9XDg1qJkFygziYHUNWUjfEq8mjVZZ1rhJH27hep3fsKwInwfsw1k5bwdIy192TiYIm9sgSlPjNleONrugPrcfiA6O4H751iX0LuQ5GSdjIacZKLRKwKKKFHqQOrTxUFYSfXM0CXD5UhwP4zCLW6MRwIRr8p7iOaKB_uOOPqb5TCHFcvUoAZZH7Q..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=CDD01804D16BE0BA6A6C3675C58067416AA4CC526AE584F3",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8pb2y7NgOGr0lAYoi7wFdfBWa6stpMpD1qXa8Fplpd9u4wRQFyyNF-QaeEeVEzZaWfPlTYShVt5yG1ZTduX58vUDHktGEXyxQ_Ed8cR_sAXY4Rfqp5T5lkV0WfwSSJvjCzAJRHfCpxcP1Wky3kfRo0dFbxESzGZ2atd33hebCGOeUzezlBkK7t0KGP4v9Oh8b7RmCwKrOeKDjmh1_d13WLwdVqCwyPdzA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=D069CAFD41FB7229FBFCA5DBE4CE92BAFB49286F6AE5CF49",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -1938,6 +1954,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 73.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
+    },
+    {
       "event_key": "other:coherent需求能见度高，但股价已反映ai预期？",
       "title": "Coherent需求能见度高，但股价已反映AI预期？",
       "report_url": "https://www.bilibili.com/video/BV1EuE16zEMj",
@@ -2000,22 +2032,6 @@
       "published_at": "2026-07-31",
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "grant:揭榜挂帅",
-      "title": "中国气象局科技司关于发布第五批中国气象局科技项目“揭榜挂帅”榜单的通知-中国气象局政府门户网站",
-      "report_url": "https://www.cma.gov.cn/2011zwxx/2011ztzgg/202607/t20260715_7927807.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 70.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
     },
     {
       "event_key": "tender:大气复合污染综合观测站",
@@ -3400,8 +3416,8 @@
       "official_url": null,
       "category": "grant",
       "category_label": "申报征集",
-      "status": "ongoing",
-      "status_label": "报名中",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "web",
       "score": 41.0,
       "deadline": null,
@@ -3486,6 +3502,22 @@
       "score": 38.0,
       "deadline": null,
       "published_at": "2026-10-14",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:【设备百科】智测云联雨雾滴谱仪zccly017人工降雨设备精细化降水微观监测设备",
+      "title": "【设备百科】智测云联 雨雾滴谱仪 ZC-CLY-017 人工降雨设备精细化降水微观监测设备  AI智能体定制开发",
+      "report_url": "https://www.bilibili.com/video/BV16MxP6CExn",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 38.0,
+      "deadline": null,
+      "published_at": "2026-10-30",
       "is_new": false,
       "report_count": 1
     },
@@ -3714,6 +3746,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:智慧气象diy气象站接线",
+      "title": "智慧气象-DIY气象站-接线",
+      "report_url": "https://www.bilibili.com/video/BV1Kgxv6CEGv",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 34.8,
+      "deadline": null,
+      "published_at": "2026-10-30",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "other:python气象数据采集分析与预测系统机器学习天气预报爬虫预测算法flask框架",
       "title": "Python气象分析预测系统 Django框架 requests爬虫技术 天气预测（机器学习随机森林预测算法） MySQL数据库 可视化 天气 气象 数据分析",
       "report_url": "https://www.bilibili.com/video/BV1WCa36sEE6",
@@ -3810,5 +3858,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 207
+  "ended_count": 210
 }

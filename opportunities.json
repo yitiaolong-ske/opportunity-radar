@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T10:09:00.445278",
+  "generated": "2026-11-02T19:29:34.143650",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -50,22 +50,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:针对极端天气的ai模型来了！21经济网",
-      "title": "针对极端天气的AI模型来了！ - 21经济网",
-      "report_url": "https://www.21jingji.com/article/20261029/herald/4f7ebdc2340dee3bf1d67f2fc4c61611.html",
-      "official_url": null,
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 94.0,
-      "deadline": null,
-      "published_at": "2026-10-29",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "investment:九方科技",
       "title": "商业气象数据产品与解决方案提供商“九方科技”完成2200万元Pre-A轮融资",
       "report_url": "https://www.cls.cn/detail/663145",
@@ -76,22 +60,6 @@
       "status_label": "融资情报",
       "platform": "web",
       "score": 89.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "other:申智杯",
-      "title": "我院智协飞教授团队荣获首届“申智杯”人工智能创新大赛二等奖-大气科学学院",
-      "report_url": "https://cas.nuist.edu.cn/info/1454/22548.htm",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 86.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -1586,6 +1554,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:针对极端天气的ai模型来了！21经济网",
+      "title": "针对极端天气的AI模型来了！ - 21经济网",
+      "report_url": "https://www.21jingji.com/article/20261029/herald/4f7ebdc2340dee3bf1d67f2fc4c61611.html",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 94.0,
+      "deadline": null,
+      "published_at": "2026-10-29",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:江苏常州85后，做气象ai：融资数千万搜狐网",
       "title": "江苏常州85后，做气象AI：融资数千万_搜狐网",
       "report_url": "https://m.sohu.com/a/1090713380_649045?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
@@ -1618,22 +1602,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:兰州大学选拔赛",
-      "title": "“可预报性荒漠”的AI冲击——人工智能天气预报探索竞赛首年赛事启示-中国气象局政府门户网站",
-      "report_url": "https://www.cma.gov.cn/2011xwzx/2011xqxkj/2011xkjdt/202610/t20261026_8108882.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/532387/information",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 86.0,
-      "deadline": null,
-      "published_at": "2026-10-26",
-      "is_new": false,
-      "report_count": 3
-    },
-    {
       "event_key": "tender:4.2国家能力、机构与官僚体系(statecapacity,institutio",
       "title": "4.2 国家能力、机构与官僚体系 (State Capacity, Institutions, and Bureaucracy)",
       "report_url": "https://mp.weixin.qq.com/s/QRnBDxNtBy46eqbIb3B17g",
@@ -1664,6 +1632,22 @@
       "published_at": "2026-10-26",
       "is_new": false,
       "report_count": 3
+    },
+    {
+      "event_key": "other:申智杯",
+      "title": "我院智协飞教授团队荣获首届“申智杯”人工智能创新大赛二等奖-大气科学学院",
+      "report_url": "https://cas.nuist.edu.cn/info/1454/22548.htm",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
     },
     {
       "event_key": "investment:洞察天机",
@@ -1906,22 +1890,6 @@
       "report_count": 9
     },
     {
-      "event_key": "other:【ai技术与产品演讲】deepmind气象大模型实测：ai如何重构全球天气预测",
-      "title": "[原声第一音/Suno ai]中国气象频道(现中国天气频道)《中国减灾》片头(OP)的BGM 而是用Suno ai做的",
-      "report_url": "https://www.bilibili.com/video/BV1PJnP6BECB",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 76.0,
-      "deadline": null,
-      "published_at": "2026-10-20",
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "competition:中国气象学会",
       "title": "中国气象学会",
       "report_url": "https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267",
@@ -1940,7 +1908,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyXYC9brqdIU33BCr1GSaOqScpwl70rGZ1qXa8Fplpd9FdReH7IjPpZMbKA9TcO2pwQU_27psRVI9gUhDS34Ftegw1-00diu_aM2F1vzYUWF4kzBCQAyZNjJDj2ed0hvMIYRMZh2GGZxYA26UBinIzGf0fTQf92p8vRECrcCPGOK2J_wLGDwDHDNve0_wpOE0Pho-scOGsmNfyU75RH-H9FhlgeRt7bSzA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=E33F4F32F842CB9042451C03D6775F23437CD6496AE7EFE4",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS222jsLHund6CeN6kjqI0lAJV16AyvaK31qXa8Fplpd9lMcbEqOodFcZaeexJeS8eG_dsWyRnTsIMlukv_HU1Tw3NQF2xqo6j8CPNpcatvpYoX9xvIn2HcJsCl9HgZSL7NKLQBFpNIMAJyTOk0zkd-wjoUSU_OrmGu9G1UMU9Uy1eLWkll0KAe4BzzM4yu_5fEWfRlwJr4kGcE1aRRYNCqmq3X8EKMKOIA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=E7BB687763D95E0BD7DE879E8114131FD8E3D61C6AE87248",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -3986,5 +3954,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 210
+  "ended_count": 214
 }

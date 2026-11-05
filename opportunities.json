@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T08:48:42.968433",
+  "generated": "2026-11-05T18:36:27.379242",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -378,6 +378,22 @@
       "category_label": "招标采购",
       "status": "tender_open",
       "status_label": "招标中",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "tender:关于粤港澳大湾区、长三角气温指数（系列）应用场景代表性方案的公告|广州期货交易所",
+      "title": "关于粤港澳大湾区、长三角气温指数（系列）应用场景代表性方案的公告 | 广州期货交易所",
+      "report_url": "http://www.gfex.com.cn/gfex/tzts/202611/13c08b52a6a643fbbd28d375040d25fa.shtml",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_other",
+      "status_label": "招标动态",
       "platform": "web",
       "score": 70.0,
       "deadline": null,
@@ -1282,6 +1298,38 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:宁晋县人民政府关于征集第一批公共数据资源授权运营应用场景的公告",
+      "title": "宁晋县人民政府 - 关于征集第一批公共数据资源授权运营应用场景的公告",
+      "report_url": "https://www.ningjin.gov.cn/single/24/89459.html",
+      "official_url": "https://zwfw.hebei.gov.cn/hbjis/front/register/perregister1.do?uuid=m6ru4qaOaYr3&gotoUrl=",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 37.0,
+      "deadline": null,
+      "published_at": "2026-11-03",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:北京市科学技术委员会、中关村科技园区管理委员会关于征集2026年第二批重点应用场",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会关于征集2026年第二批重点应用场景储备项目的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202610/t20261028_4921409.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 37.0,
+      "deadline": "2026-11-17",
+      "published_at": "2026-10-28",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:科技赋能特色农业精准气象护航振兴",
       "title": "科技赋能特色农业 精准气象护航振兴",
       "report_url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTA3MzkwMA==&mid=2247624108&idx=5&sn=4fc34162b576a28969c7af7a6d0c0472&chksm=cfe8eb3f2869d797dca747d4a1caf6b69981df82f3e85a22ccc810464b67abe38520ff453518&scene=27",
@@ -1650,6 +1698,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
+    },
+    {
       "event_key": "competition:兰州大学选拔赛",
       "title": "“可预报性荒漠”的AI冲击——人工智能天气预报探索竞赛首年赛事启示-中国气象局政府门户网站",
       "report_url": "https://www.cma.gov.cn/2011xwzx/2011xqxkj/2011xkjdt/202610/t20261026_8108882.html",
@@ -1858,6 +1922,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:数据要素×",
+      "title": "气象服务赛道 - 2026年“数据要素×”大赛北京分赛暨北京数智创新大赛",
+      "report_url": "https://dexc.data.beijing.gov.cn/dsst/sjys/Mete1",
+      "official_url": "https://www.datafountain.cn/competitions/1098",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 78.0,
+      "deadline": null,
+      "published_at": "2026-04-27",
+      "is_new": false,
+      "report_count": 4
+    },
+    {
       "event_key": "tender:保定市气象局气象灾害监测与预警中心",
       "title": "保定市气象局气象灾害监测与预警中心建设项目设备采购（气象灾害智能监测平台）中标结果公告",
       "report_url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202602/t20260228_26202574.htm",
@@ -1940,7 +2020,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1oDxOMMvYn0f4-granj67pTtcl4WJDCslqXa8Fplpd9xoP4Ylwds1FEOIsyh05QSURjlgnBjof-WQGfVWbaTvYivtr-0MAVFTv-Ck0Bm7H5NGp4rnT4kl95g9kMKwTsmETesRdC3k0jWFWMVPPKw9HT106tFylX24lJ39l77pSuGXpG2RopqugXIdJBVLxxbNhnOXvpD3U5nMsdJYj8GAgGX_iHL9MadA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=F9D579E4C3BB4EDEB0A9F0C71B99C08FB06248896AEA804C",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4T3V7gUeopmSzVIYdqrVWjzj40kd4YWpFqXa8Fplpd9UYy5suhf_BJncf5vpyiV1xta4oLVrK4WPKUH5Kv7z7cj7VOUNUEZTqsx0atuCYXt42SCJWp9-4mYP5CfxvC03_kV4XkKHiEvhL15VY9qLykN7EZ2uS60RZtQOVCpPTMFdevwNAKNDfN7d-SBZWQk1WylxJM2sL4byE8zzR8dk3n1AfaFW2DefQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=0A4DE19B1E7A930371772DF4771BBBD172EAB22F6AEC5B62",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -2192,22 +2272,6 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "competition:第十七届服创大赛",
-      "title": "大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）",
-      "report_url": "https://www.fwwb.org.cn/news/show/599",
-      "official_url": "https://aistudio.baidu.com/competition/detail/1125",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 70.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
     },
     {
       "event_key": "investment:云遥宇航",
@@ -2466,22 +2530,6 @@
       "report_count": 1
     },
     {
-      "event_key": "competition:数据要素×",
-      "title": "十五赛道竞逐荆楚！2026年“数据要素×”大赛湖北分赛决赛圆满 ...",
-      "report_url": "https://sjj.hubei.gov.cn/bmdt/esyw/202608/t20260824_6000094.shtml",
-      "official_url": "https://www.datafountain.cn/competitions/1098",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 65.0,
-      "deadline": null,
-      "published_at": "2026-04-27",
-      "is_new": false,
-      "report_count": 4
-    },
-    {
       "event_key": "tender:2138cn太阳集团(中国)股份有限公司",
       "title": "2138cn太阳集团(中国)股份有限公司",
       "report_url": "http://www.fagqx.com/Article-633987.html",
@@ -2610,6 +2658,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:第十七届服创大赛",
+      "title": "第十七届服创大赛A类赛题企业数据及资料（2026年4月8日 ...",
+      "report_url": "https://www.fwwb.org.cn/news/show/599",
+      "official_url": "https://aistudio.baidu.com/competition/detail/1125",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 61.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
+    },
+    {
       "event_key": "other:山海关不住，东北超级酷！这场比赛，整个东北都赢了！#东北超#东北超有范儿#万千气",
       "title": "山海关不住，东北超级酷！这场比赛，整个东北都赢了！ #东北超 #东北超有范儿 #万千气象看辽宁 #东北超燃AI看大连 #东北振兴",
       "report_url": "https://www.bilibili.com/video/BV1CFHC6mExa",
@@ -2717,6 +2781,22 @@
       "platform": "web",
       "score": 60.0,
       "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:挑战杯",
+      "title": "第十五届“挑战杯”中国大学生创业计划竞赛成功举行 - 中国日报网",
+      "report_url": "https://cn.chinadaily.com.cn/a/202611/03/WS6ae9a498e4b0e14252fc8edb.html",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 60.0,
+      "deadline": "2024-07-30",
       "published_at": null,
       "is_new": false,
       "report_count": 1
@@ -2900,7 +2980,7 @@
     {
       "event_key": "grant:中国气象局科技司关于征求国家重点研发计划“气象灾害监测...",
       "title": "中国气象局科技司关于征求国家重点研发计划“气象灾害监测 ...",
-      "report_url": "http://www.czzht.com/index.php?c=content&a=show&id=61464",
+      "report_url": "https://www.funresearch.cn/grant/MTNjMjAyYjItMzhlMi00YzJkLTg5OTUtZWZkOTU2N2UyODRj",
       "official_url": "https://www.funresearch.cn/register/home",
       "category": "grant",
       "category_label": "申报征集",
@@ -3887,7 +3967,7 @@
       "deadline": null,
       "published_at": "2026-11-03",
       "is_new": false,
-      "report_count": 2
+      "report_count": 3
     },
     {
       "event_key": "other:ai赋能气象预报与科研实践分享",
@@ -4050,5 +4130,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 216
+  "ended_count": 215
 }

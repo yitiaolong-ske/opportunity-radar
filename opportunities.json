@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T18:39:44.325675",
+  "generated": "2026-11-05T19:28:13.681980",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -60,6 +60,22 @@
       "status_label": "融资情报",
       "platform": "web",
       "score": 89.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:气象科技管理信息系统",
+      "title": "气象科技管理信息系统",
+      "report_url": "http://www.cmakjgl.cn/Default.aspx?type=paper",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 86.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -1634,22 +1650,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:通知公告",
-      "title": "通知公告",
-      "report_url": "https://kxjsc.njupt.edu.cn/tzgg/list.htm",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 90.0,
-      "deadline": "2026-11-06",
-      "published_at": "2026-10-15",
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "tender:江苏常州85后，做气象ai：融资数千万搜狐网",
       "title": "江苏常州85后，做气象AI：融资数千万_搜狐网",
       "report_url": "https://m.sohu.com/a/1090713380_649045?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
@@ -1696,22 +1696,6 @@
       "published_at": "2026-08-05",
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "grant:揭榜挂帅",
-      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
-      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 86.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
     },
     {
       "event_key": "competition:兰州大学选拔赛",
@@ -2128,6 +2112,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 73.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "other:coherent需求能见度高，但股价已反映ai预期？",
@@ -3202,6 +3202,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:...2026年马鞍山市气象领域科技计划项目的通知马鞍山市科学技术局",
+      "title": "...2026年马鞍山市气象领域科技计划项目的通知_马鞍山市科学技术局",
+      "report_url": "https://kjj.mas.gov.cn/xwdt/tzgg/sbtz/2006440901.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 51.0,
+      "deadline": null,
+      "published_at": "2026-04-30",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "grant:关于2026年海南省自然科学基金联合项目申报通知科学技术发展院（科技处、乡村振兴",
       "title": "关于2026年海南省自然科学基金联合项目申报通知-科学技术发展院（科技处、乡村振兴办公室）",
       "report_url": "https://scitech.hainanu.edu.cn/info/1069/14673.htm",
@@ -3360,6 +3376,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "grant:通知公告",
+      "title": "通知公告",
+      "report_url": "https://kjj.wuhan.gov.cn/wmfw/tzgg/tzgg_18371/202610/t20261015_2861548.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": "2026-11-06",
+      "published_at": "2026-10-15",
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "tender:中国气象局政府采购中心",
@@ -3646,22 +3678,6 @@
       "score": 41.0,
       "deadline": "2026-11-06",
       "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
-      "event_key": "grant:...2026年马鞍山市气象领域科技计划项目的通知马鞍山市科学技术局",
-      "title": "...2026年马鞍山市气象领域科技计划项目的通知_马鞍山市科学技术局",
-      "report_url": "https://kjj.mas.gov.cn/xwdt/tzgg/sbtz/2006440901.html",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 41.0,
-      "deadline": null,
-      "published_at": "2026-04-30",
       "is_new": false,
       "report_count": 1
     },

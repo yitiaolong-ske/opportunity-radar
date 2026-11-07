@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T19:29:22.354751",
+  "generated": "2026-11-07T08:53:38.358666",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -46,38 +46,6 @@
       "score": 94.0,
       "deadline": null,
       "published_at": "2026-10-11",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "investment:九方科技",
-      "title": "商业气象数据产品与解决方案提供商“九方科技”完成2200万元Pre-A轮融资",
-      "report_url": "https://www.cls.cn/detail/663145",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 89.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "competition:气象科技管理信息系统",
-      "title": "气象科技管理信息系统",
-      "report_url": "http://cmakjgl.cmatc.cn/newsview.aspx?id=2645051",
-      "official_url": null,
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 86.0,
-      "deadline": null,
-      "published_at": "2026-10-30",
       "is_new": true,
       "report_count": 1
     },
@@ -530,6 +498,22 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:气象仪器项目融资渠道探索.docx人人文库",
+      "title": "气象仪器项目融资渠道探索.docx - 人人文库",
+      "report_url": "https://www.renrendoc.com/paper/392354774.html",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 65.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "investment:相风科技",
       "title": "相风科技完成数千万元天使轮融资|金融|投资方_网易订阅",
       "report_url": "https://www.163.com/dy/article/K80CD9510550B1DU.html",
@@ -651,6 +635,22 @@
       "status": "unknown",
       "status_label": "时间待核实",
       "platform": "weixin",
+      "score": 60.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:中科天机气象科技有限公司",
+      "title": "中科天机气象科技有限公司",
+      "report_url": "https://www.qcc.com/firm/f9b33cb06d6e2f2c091f4cb9633979d0.html",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
       "score": 60.0,
       "deadline": null,
       "published_at": null,
@@ -882,6 +882,22 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:气象服务类项目融资方案.pptx原创力文档",
+      "title": "气象服务类项目融资方案.pptx-原创力文档",
+      "report_url": "https://max.book118.com/html/2024/0703/5312121033011240.shtm",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 55.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:气象爱好者协会|投票|谁懂!气象科普被ai玩明白了",
       "title": "气象爱好者协会 | 投票 | 谁懂!气象科普被AI玩明白了",
       "report_url": "https://mp.weixin.qq.com/s?__biz=MjM5MDQyODI5NA==&mid=2652183221&idx=1&sn=01cc9609e3821ed02d0ae5226f5c3847&chksm=bc6813d20d323bbbe83ab850e4a84a42368035690b816424a5ae6d82b0367129de543cf0c9a3&scene=27",
@@ -1022,6 +1038,22 @@
       "score": 47.0,
       "deadline": null,
       "published_at": "2026-10-16",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:商业气象综合解决方案提供商「九方科技」完成5000万元a轮融资投...",
+      "title": "商业气象综合解决方案提供商「九方科技」完成5000万元A轮融资_投...",
+      "report_url": "https://news.pedaily.cn/202107/474410.shtml",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 47.0,
+      "deadline": null,
+      "published_at": null,
       "is_new": true,
       "report_count": 1
     },
@@ -1282,6 +1314,22 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:多国气象水文专家齐聚上海共谋气候科学信息助力气候融资|上海市新...",
+      "title": "多国气象水文专家齐聚上海 共谋气候科学信息助力气候融资|上海市_新...",
+      "report_url": "https://finance.sina.com.cn/jjxw/2024-10-21/doc-inctiptv9142123.shtml",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 35.0,
+      "deadline": null,
+      "published_at": "2024-10-21",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "competition:科技赋能特色农业精准气象护航振兴",
       "title": "科技赋能特色农业 精准气象护航振兴",
       "report_url": "https://mp.weixin.qq.com/s?__biz=Mzg2MTA3MzkwMA==&mid=2247624108&idx=5&sn=4fc34162b576a28969c7af7a6d0c0472&chksm=cfe8eb3f2869d797dca747d4a1caf6b69981df82f3e85a22ccc810464b67abe38520ff453518&scene=27",
@@ -1503,7 +1551,7 @@
       "deadline": "2026-11-01",
       "published_at": null,
       "is_new": false,
-      "report_count": 2
+      "report_count": 3
     },
     {
       "event_key": "tender:ai气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发36氪",
@@ -1666,6 +1714,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
+    },
+    {
       "event_key": "tender:4.2国家能力、机构与官僚体系(statecapacity,institutio",
       "title": "4.2 国家能力、机构与官僚体系 (State Capacity, Institutions, and Bureaucracy)",
       "report_url": "https://mp.weixin.qq.com/s/QRnBDxNtBy46eqbIb3B17g",
@@ -1710,6 +1774,22 @@
       "score": 86.0,
       "deadline": null,
       "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "competition:气象科技管理信息系统",
+      "title": "气象科技管理信息系统",
+      "report_url": "http://cmakjgl.cmatc.cn/newsview.aspx?id=2645051",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": "2026-10-30",
       "is_new": false,
       "report_count": 1
     },
@@ -1795,8 +1875,8 @@
     },
     {
       "event_key": "investment:ai天气预报更准了，windborne如何把它变成生意？赢政天下",
-      "title": "斯坦福辍学生用400个气球监测地球，AI天气预报精度碾压欧洲官方机构",
-      "report_url": "https://zhuanlan.zhihu.com/p/2045211378835878607",
+      "title": "AI天气预报更准了，WindBorne如何把它变成生意？ | 赢政天下",
+      "report_url": "https://www.winzheng.com/article/windborne-ai-weather-funding",
       "official_url": null,
       "category": "investment",
       "category_label": "投融资",
@@ -1893,22 +1973,6 @@
       "event_key": "investment:气象融资的最新相关消息",
       "title": "气象 融资的最新相关消息",
       "report_url": "http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e8%9e%8d%e8%b5%84&src=onebox",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 80.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
-      "event_key": "investment:象辑科技",
-      "title": "商业气象服务商“象辑科技”完成1.16亿元B轮融资",
-      "report_url": "https://www.iyiou.com/news/2018011264303",
       "official_url": null,
       "category": "investment",
       "category_label": "投融资",
@@ -2052,7 +2116,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-SFC2YKwMFXeN_n2IO6cU8qu6z398qNvlqXa8Fplpd9aiZyCshRZRXhBVX0oXXCwMkbifnpOJkq1HqPOqkw4HVZfUAsXsG4mRr_i8_xZdWMZboWkTpFFs_KhpAEZyA3QhBSb59Uj3Fq7WBCji7G0r23xvXnhlKKtKSNzqongXmfngZaprWVhBalUpVejpaBzznYx9Eqb-_p3aHYUfipEYECn9lOoZLP2Q..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=163AD11C9BF31986F8F1A8613B5A5C48F87169E56AEDB7FC",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0QTu_g7hGQhkXLbGi13tOHCAevfnpyRClqXa8Fplpd9F8VRohoWNxVMfKT_BtGD_grP9aL5EyWM9DfA6lTkq1N3H_x5GxAYbNXzyRpVc20YhXw9NyISkqHde4f4FdQNEtN_NQWsEhHcLUB9Wxy4Qjj2y2fNpQEPcDsRsrKTdY_rKwVAiezXB037z7UPsf74ooO7zCUexG3P1MRRs0gMkvRQ_LeJW-Rhtg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=1C9D427EEDBD4CDCADABF308B1A03C0CAD8A3D4F6AEE75BD",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -2144,22 +2208,6 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "grant:揭榜挂帅",
-      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
-      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 73.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
     },
     {
       "event_key": "other:coherent需求能见度高，但股价已反映ai预期？",
@@ -3410,22 +3458,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:通知公告",
-      "title": "通知公告",
-      "report_url": "https://kjj.wuhan.gov.cn/wmfw/tzgg/tzgg_18371/202610/t20261015_2861548.html",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 50.0,
-      "deadline": "2026-11-06",
-      "published_at": "2026-10-15",
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "tender:中国气象局政府采购中心",
       "title": "中国气象局政府采购中心-气象局|招标|采购|询价|中标|采招一体化平台",
       "report_url": "https://zgqx.bidnews.cn/",
@@ -3434,6 +3466,22 @@
       "category_label": "招标采购",
       "status": "tender_result",
       "status_label": "已中标",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "investment:象辑科技",
+      "title": "商业气象服务商“象辑科技”完成1.16亿元B轮融资",
+      "report_url": "https://www.iyiou.com/p/64303",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
       "platform": "web",
       "score": 50.0,
       "deadline": null,
@@ -3586,6 +3634,22 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:九方科技",
+      "title": "商业气象解决方案提供商“九方科技”完成5000万元A轮融资",
+      "report_url": "https://chuangke.aliyun.com/info/1018081.html",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 45.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "grant:检索结果信息公告栏",
       "title": "检索结果-信息公告栏",
       "report_url": "https://bulletin.nuist.edu.cn/ssjgy.jsp?totalpage=365&PAGENUM=19&urltype=tree.TreeTempUrl&wbtreeid=1047&showkeycode=",
@@ -3678,22 +3742,6 @@
       "score": 41.0,
       "deadline": null,
       "published_at": "2026-04-01",
-      "is_new": false,
-      "report_count": 1
-    },
-    {
-      "event_key": "grant:气象申报通知360图片",
-      "title": "气象 申报 通知_360图片",
-      "report_url": "https://image.so.com/i?src=imageonebox&q=%E6%B0%94%E8%B1%A1%20%E7%94%B3%E6%8A%A5%20%E9%80%9A%E7%9F%A5&obx_type=360pic_new_normal1",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 41.0,
-      "deadline": "2026-11-06",
-      "published_at": null,
       "is_new": false,
       "report_count": 1
     },
@@ -4194,5 +4242,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 224
+  "ended_count": 228
 }

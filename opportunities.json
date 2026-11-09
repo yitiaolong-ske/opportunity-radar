@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T20:42:24.025832",
+  "generated": "2026-11-09T20:48:08.951271",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -46,6 +46,22 @@
       "score": 94.0,
       "deadline": null,
       "published_at": "2026-10-11",
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:专家解读|曹军骥：转动数据飞轮挖掘场景价值国家数据局",
+      "title": "专家解读 | 曹军骥：转动数据飞轮 挖掘场景价值-国家数据局",
+      "report_url": "https://www.nda.gov.cn/sjj/zwgk/zjjd/1106/20261106152652343709965_pc.html",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 90.0,
+      "deadline": null,
+      "published_at": null,
       "is_new": true,
       "report_count": 1
     },
@@ -866,6 +882,22 @@
       "report_count": 1
     },
     {
+      "event_key": "tender:智慧通企业创新管理服务网",
+      "title": "智慧通企业创新管理服务网",
+      "report_url": "http://www.czzht.com/index.php?c=content&a=show&id=61464",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_other",
+      "status_label": "招标动态",
+      "platform": "web",
+      "score": 56.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
       "event_key": "investment:专家学者共商金融气象发展五大议题探索行业新路径",
       "title": "专家学者共商金融气象发展 五大议题探索行业新路径",
       "report_url": "http://www.qxkp.net/shfw/jr/202602/t20260213_7608878.html",
@@ -1230,22 +1262,6 @@
       "score": 42.0,
       "deadline": null,
       "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "grant:气象×金融!气温指数应用场景方案征集活动中国气象局政府门户网站",
-      "title": "气象×金融!气温指数应用场景方案征集活动-中国气象局政府门户网站",
-      "report_url": "https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xtpxw/202606/t20260615_7858695.html",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 42.0,
-      "deadline": null,
-      "published_at": "2026-06-15",
       "is_new": true,
       "report_count": 1
     },
@@ -1762,22 +1778,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:揭榜挂帅",
-      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
-      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 86.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "tender:4.2国家能力、机构与官僚体系(statecapacity,institutio",
       "title": "4.2 国家能力、机构与官僚体系 (State Capacity, Institutions, and Bureaucracy)",
       "report_url": "https://mp.weixin.qq.com/s/QRnBDxNtBy46eqbIb3B17g",
@@ -2148,7 +2148,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7TGgy0mOK3rdBb0UeGaT52IUPbqq6dyR1qXa8Fplpd9i7yiTt5-D25dQOBTgpGakLh9fyqGGLsgEwJZieMwJDXtf5CQBSFAlyvYVWZiq9Du6Sg4DWSyK2VTHWaEk6N8C_vOK7UVo7Jjfvd07A6YPJoKFuOB0e6GeFnLIAGTJeVeYerMREkNrBpSXieu1V3dvf3yuOBY-kxh1AYp29BrdIQCYioxHkzTmA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=39EFB42FE5B245D5A4A5FB749E07013BA404BA0B6AF1BECD",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7TGgy0mOK3rm-ITDW5Zy8CIUPbqq6dyR1qXa8Fplpd9i7yiTt5-D25dQOBTgpGakLh9fyqGGLsgEwJZieMwJDXtf5CQBSFAlyvYVWZiq9Du6Sg4DWSyK2VTHWaEk6N8C6aJvizMJ7a-l6EOQIGWWvcflljJk5XrTlOcowGHKxHlD3lqddThjQwZCUTW0HWWB1u0hXvpGb6h-9lAA-3zv7g89kyxDwoXvg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=39F21018C29362F38385DD54C183417B83B4ADE96AF1BF16",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -2210,22 +2210,6 @@
       "report_count": 1
     },
     {
-      "event_key": "other:五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道上海国际人才网",
-      "title": "五大赛道齐亮相！第四届世界科学智能大赛启动报名，首设人文科学赛道_上海国际人才网",
-      "report_url": "https://www.sh-italent.com/Article/202604/202604030005.shtml",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 75.0,
-      "deadline": "2026-10-18",
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "grant:佛山市发展和改革局关于征集2026年人工智能应用场景的通知佛山市人民政府门户网站",
       "title": "佛山市发展和改革局关于征集2026年人工智能应用场景的通知  佛山市人民政府门户网站",
       "report_url": "https://www.foshan.gov.cn/zwgk/gggs/content/post_7299969.html",
@@ -2240,6 +2224,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 73.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "other:coherent需求能见度高，但股价已反映ai预期？",
@@ -2542,6 +2542,22 @@
       "score": 70.0,
       "deadline": null,
       "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:气象×金融!气温指数应用场景方案征集活动中国气象局政府门户网站",
+      "title": "粤港澳大湾区、长三角气温指数应用场景方案征集活动评审结果揭晓_气象",
+      "report_url": "https://www.sohu.com/a/1097591729_121107000",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": "2026-11-05",
       "is_new": false,
       "report_count": 1
     },
@@ -3608,8 +3624,8 @@
       "official_url": null,
       "category": "other",
       "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "bilibili",
       "score": 47.0,
       "deadline": null,
@@ -4322,5 +4338,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 233
+  "ended_count": 235
 }

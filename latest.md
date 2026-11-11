@@ -32,7 +32,7 @@
 - 中国气象学会（时间待核实·76｜⚠入口待找）
   报道 https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267
 - 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
-  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjBAAl9EUC7KmQ2zZPWyI3FVqXa8Fplpd96c5vjb5UbPhfmcTknU0IFCpckeplFUaGg7j5vtHosfRnP9eF1KpP8oxk9alAekOs446uUrsvW_koB77neMGjdpvs1OlVYlVBkTxUblZXBgr1RGPQ8fFEUB0bpHAUuMkF1a10GDONxn0MBwLjQ6CadpQ0tnbq0p6LLLaKHUA4Y5OFW6cwuUnkdA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=519A24A4A51A95C81B1A7B1C659C808C1CD2A5476AF47297
+  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjgIDpUKq6VNOQ2zZPWyI3FVqXa8Fplpd96c5vjb5UbPhfmcTknU0IFCpckeplFUaGg7j5vtHosfRnP9eF1KpP8oxk9alAekOs446uUrsvW_koB77neMGjdqM4eW0m9Np2kC4vsXvg7ylrGHzQMhYIMj_zoeReNNHOYO6EzJ2jgvFm9bSMvK-n40pyeu4D250e-DFPY7oABgY5eBgmN3LoYQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=519EEE78A41C97CD1E1B7D1E9C2730BD1EE339F66AF47329
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 进行中 - 广西壮族自治区人民政府门户网站（时间待核实·66｜⚠入口待找）
@@ -83,12 +83,8 @@
   报道 http://std.xjtu.edu.cn/info/1008/42866.htm
 - 🆕2026国家重点研发计划查询网-在线查询国家重点研发计划批准结果（时间待核实·56｜入口 https://www.funresearch.cn/register/home）
   报道 https://www.funresearch.cn/nkrd/index
-- 🆕智慧通企业创新管理服务网（时间待核实·56｜⚠入口待找）
-  报道 http://www.czzht.com/index.php?c=content&a=show&id=61464
 - 🆕通知公告_西藏自治区科学技术厅（时间待核实·51｜⚠入口待找）
   报道 https://sti.xizang.gov.cn/xxgk/fdzdgk/tzgg/index_1.html
-- 🆕三明市科学技术局关于做好2026年度气象行业联合资助项目 ...（时间待核实·50｜入口 https://www.funresearch.cn/register/home）
-  报道 https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh
 - 🆕...气象学会关于2026年联合学术年会征稿通知_通知公告_福建省气象局（报名中·47｜⚠入口待找）
   报道 http://fj.cma.gov.cn/xwzx/tzgg/202610/t20261016_8096565.html
 - 🆕气象服务守护美丽山水（深度观察） - 河北频道（报名中·45｜⚠入口待找）
@@ -135,6 +131,8 @@
   报道 https://kjc.fjnu.edu.cn/ed/1c/c216a453916/page.htm
 - 关于征求国家重点研发计划“气象灾害监测预报与应对科技 ...（时间待核实·56｜⚠入口待找）
   报道 https://www.tiangong.edu.cn/2026/1016/c8679a118337/pagem.htm
+- 智慧通企业创新管理服务网（时间待核实·56｜⚠入口待找）
+  报道 http://www.czzht.com/index.php?c=content&a=show&id=61464
 - 关于征集气象科技服务需求与合作意向的通知 - 江西省蓝天科创有限公司（时间待核实·52｜⚠入口待找）
   报道 https://www.zouyuji.asia/article/21
 - ...2026年马鞍山市气象领域科技计划项目的通知_马鞍山市科学技术局（时间待核实·51｜⚠入口待找）
@@ -143,6 +141,8 @@
   报道 https://scitech.hainanu.edu.cn/info/1069/14673.htm
 - 关于组织开展2026年度省自然科学基金联合基金项目申报 ...（时间待核实·50｜⚠入口待找）
   报道 http://kjt.jiangxi.gov.cn/jxskxjst/col/col27029/content/content_2085292279476854784.html
+- 三明市科学技术局关于做好2026年度气象行业联合资助项目 ...（时间待核实·50｜入口 https://www.funresearch.cn/register/home）
+  报道 https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh
 - 信件列表_西藏自治区气象局（报名中·49｜截止2026-11-15｜⚠入口待找）
   报道 http://xz.cma.gov.cn/gzhd_141/xjgs
 - 气象 申报 通知的最新相关消息（时间待核实·41｜⚠入口待找）
@@ -398,7 +398,7 @@
 - 专访国合会特邀顾问李晓江：气候适应融资需财政等政策参与 _ 东方财富网（融资情报·35｜⚠入口待找）
   报道 https://finance.eastmoney.com/a/202609303887852075.html
 
-## 其他（83）
+## 其他（84）
 - 🆕GitHub - XiaoyuZHK/TianChi_resource: 天池比赛历届部分资料及top方案 · GitHub（时间待核实·95｜⚠入口待找）
   报道 https://github.com/XiaoyuZHK/TianChi_resource
 - 🆕AI4Climate 气候考题面前，全球青年这样交卷 - 潮新闻（时间待核实·82｜⚠入口待找）
@@ -415,6 +415,8 @@
   报道 https://news.pedaily.cn/202608/567438.shtml
 - 🆕HPC China 2026现场：鲲鹏高性能计算全球挑战赛S3赛季 ...（时间待核实·55｜⚠入口待找）
   报道 https://www.nsccsz.cn/nsccsz2024/zxdt2024/202610/155c4d27-fc96-4d58-aa25-e8dfeaf03e6a.shtml
+- 🆕【2026年工作动态】粤港澳大湾区、长三角气温指数应用场景方...（时间待核实·55｜⚠入口待找）
+  报道 http://mp.weixin.qq.com/s?src=11&timestamp=1794405070&ver=7082&signature=O6rjuWosHaPTlpHO0re5priSmXvp6H0O-AHtJK*ID78g1KoOXueunKPItZsxhhNyq-CoI2FKQC-LqXXCAl5Ynlqm-ZQ44e6QLwhiWWWhtCKIist5O4yVglMVVc*UDf9V&new=1
 - 🆕气象爱好者协会 | 投票 | 谁懂!气象科普被AI玩明白了（时间待核实·53｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s?__biz=MjM5MDQyODI5NA==&mid=2652183221&idx=1&sn=01cc9609e3821ed02d0ae5226f5c3847&chksm=bc6813d20d323bbbe83ab850e4a84a42368035690b816424a5ae6d82b0367129de543cf0c9a3&scene=27
 - 🆕媒体报道 | 中国气象局：正积极推进地球系统数据国际交换中心建设，进一步提升数据安全防护能力-国家数据局（时间待核实·50｜⚠入口待找）

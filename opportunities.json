@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T21:54:08.143630",
+  "generated": "2026-11-11T21:59:57.192474",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -834,22 +834,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:智慧通企业创新管理服务网",
-      "title": "智慧通企业创新管理服务网",
-      "report_url": "http://www.czzht.com/index.php?c=content&a=show&id=61464",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 56.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "investment:专家学者共商金融气象发展五大议题探索行业新路径",
       "title": "专家学者共商金融气象发展 五大议题探索行业新路径",
       "report_url": "http://www.qxkp.net/shfw/jr/202602/t20260213_7608878.html",
@@ -955,6 +939,22 @@
       "status": "investment",
       "status_label": "融资情报",
       "platform": "web",
+      "score": 55.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:【2026年工作动态】粤港澳大湾区、长三角气温指数应用场景方...",
+      "title": "【2026年工作动态】粤港澳大湾区、长三角气温指数应用场景方...",
+      "report_url": "http://mp.weixin.qq.com/s?src=11&timestamp=1794405070&ver=7082&signature=O6rjuWosHaPTlpHO0re5priSmXvp6H0O-AHtJK*ID78g1KoOXueunKPItZsxhhNyq-CoI2FKQC-LqXXCAl5Ynlqm-ZQ44e6QLwhiWWWhtCKIist5O4yVglMVVc*UDf9V&new=1",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "weixin",
       "score": 55.0,
       "deadline": null,
       "published_at": null,
@@ -1102,22 +1102,6 @@
       "score": 50.0,
       "deadline": null,
       "published_at": "2026-02-26",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "grant:三明市科学技术局关于做好2026年度气象行业联合资助项目...",
-      "title": "三明市科学技术局关于做好2026年度气象行业联合资助项目 ...",
-      "report_url": "https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh",
-      "official_url": "https://www.funresearch.cn/register/home",
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 50.0,
-      "deadline": null,
-      "published_at": null,
       "is_new": true,
       "report_count": 1
     },
@@ -2180,7 +2164,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjBAAl9EUC7KmQ2zZPWyI3FVqXa8Fplpd96c5vjb5UbPhfmcTknU0IFCpckeplFUaGg7j5vtHosfRnP9eF1KpP8oxk9alAekOs446uUrsvW_koB77neMGjdpvs1OlVYlVBkTxUblZXBgr1RGPQ8fFEUB0bpHAUuMkF1a10GDONxn0MBwLjQ6CadpQ0tnbq0p6LLLaKHUA4Y5OFW6cwuUnkdA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=519A24A4A51A95C81B1A7B1C659C808C1CD2A5476AF47297",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjgIDpUKq6VNOQ2zZPWyI3FVqXa8Fplpd96c5vjb5UbPhfmcTknU0IFCpckeplFUaGg7j5vtHosfRnP9eF1KpP8oxk9alAekOs446uUrsvW_koB77neMGjdqM4eW0m9Np2kC4vsXvg7ylrGHzQMhYIMj_zoeReNNHOYO6EzJ2jgvFm9bSMvK-n40pyeu4D250e-DFPY7oABgY5eBgmN3LoYQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=519EEE78A41C97CD1E1B7D1E9C2730BD1EE339F66AF47329",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -3314,6 +3298,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:智慧通企业创新管理服务网",
+      "title": "智慧通企业创新管理服务网",
+      "report_url": "http://www.czzht.com/index.php?c=content&a=show&id=61464",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 56.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "tender:中国气象局气象探测中心",
       "title": "中国气象局气象探测中心2025年大气成分备件采购项目中标公告",
       "report_url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202509/t20250917_25367661.htm",
@@ -3662,6 +3662,22 @@
       "score": 50.0,
       "deadline": null,
       "published_at": "2026-04-21",
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:三明市科学技术局关于做好2026年度气象行业联合资助项目...",
+      "title": "三明市科学技术局关于做好2026年度气象行业联合资助项目 ...",
+      "report_url": "https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh",
+      "official_url": "https://www.funresearch.cn/register/home",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": null,
       "is_new": false,
       "report_count": 1
     },

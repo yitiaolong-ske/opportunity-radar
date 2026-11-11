@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T19:29:18.359748",
+  "generated": "2026-11-11T08:47:59.587308",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -76,22 +76,6 @@
       "status_label": "时间待核实",
       "platform": "web",
       "score": 85.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "tender:天序智能获数千万元prea+轮融资，厚雪资本独家投资大风号凤凰网",
-      "title": "天序智能获数千万元Pre-A+轮融资，厚雪资本独家投资_大风号_凤凰网",
-      "report_url": "https://feng.ifeng.com/c/8xBryQ090UT",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
-      "platform": "web",
-      "score": 84.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -546,9 +530,9 @@
       "report_count": 1
     },
     {
-      "event_key": "tender:辽宁省人工影响天气水资源保障项目",
-      "title": "辽宁省人工影响天气水资源保障项目（人影能力建设）云降水探测设备招标公告",
-      "report_url": "https://www.tongxinzhaobiao.com/news-d1c544eb4907d68e874ce6b48bf201c7",
+      "event_key": "tender:高速公路能见度传感器安装高度和间距规范（推荐thvsn10）山东天合环境科技",
+      "title": "高速公路能见度传感器安装高度和间距规范（推荐 TH-VSN10）-山东天合环境科技",
+      "report_url": "https://www.thyqz.com/hy/2125.html",
       "official_url": null,
       "category": "tender",
       "category_label": "招标采购",
@@ -763,22 +747,6 @@
       "status": "unknown",
       "status_label": "时间待核实",
       "platform": "weixin",
-      "score": 57.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
-      "event_key": "investment:江苏常州85后，做气象ai：融资数千万",
-      "title": "江苏常州85后，做气象AI：融资数千万",
-      "report_url": "https://m.sohu.com/a/1090713380_649045?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
       "score": 57.0,
       "deadline": null,
       "published_at": null,
@@ -1634,6 +1602,22 @@
       "report_count": 3
     },
     {
+      "event_key": "investment:熵机",
+      "title": "我国首个金融气象AI模型“熵机”发布 - 新华网客户端",
+      "report_url": "https://app.xinhuanet.com/news/article.html?articleId=be91d2c6cde82e4fd00b4daa84ddc683",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 95.0,
+      "deadline": null,
+      "published_at": "2026-01-12",
+      "is_new": false,
+      "report_count": 2
+    },
+    {
       "event_key": "tender:ai气象大模型公司获厚雪数千万投资，已建成自有卫星星座丨36氪首发36氪",
       "title": "未来天玑|AI气象大模型公司获厚雪数千万投资，已建成自有卫星星座",
       "report_url": "https://www.futurephecda.com/news/124262",
@@ -1746,6 +1730,22 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:ai天气预报更准了，windborne如何把它变成生意？赢政天下",
+      "title": "AI天气预报更准了，WindBorne如何把它变成生意？ | 赢政天下",
+      "report_url": "https://www.winzheng.com/article/windborne-ai-weather-funding",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 90.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 3
+    },
+    {
       "event_key": "tender:江苏常州85后，做气象ai：融资数千万搜狐网",
       "title": "江苏常州85后，做气象AI：融资数千万_搜狐网",
       "report_url": "https://m.sohu.com/a/1090713380_649045?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
@@ -1792,22 +1792,6 @@
       "published_at": "2026-08-05",
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "grant:揭榜挂帅",
-      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
-      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 86.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
     },
     {
       "event_key": "tender:4.2国家能力、机构与官僚体系(statecapacity,institutio",
@@ -1874,6 +1858,22 @@
       "report_count": 1
     },
     {
+      "event_key": "investment:江苏常州85后，做气象ai：融资数千万",
+      "title": "江苏常州85后，做气象AI：融资数千万",
+      "report_url": "https://www.pencilnews.cn/p/47233.html",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 85.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "investment:洞察天机",
       "title": "AI气象大模型的下半场：当天气开始进入现金流-钛媒体官方网站",
       "report_url": "https://www.tmtpost.com/7871105.html",
@@ -1888,6 +1888,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 2
+    },
+    {
+      "event_key": "tender:天序智能获数千万元prea+轮融资，厚雪资本独家投资大风号凤凰网",
+      "title": "天序智能获数千万元Pre-A+轮融资，厚雪资本独家投资_大风号_凤凰网",
+      "report_url": "https://feng.ifeng.com/c/8xBryQ090UT",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 84.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
     },
     {
       "event_key": "other:楷登电子：能见度提升且ai上行空间初现，维持超配评级，目标价400.00美元",
@@ -1936,22 +1952,6 @@
       "published_at": null,
       "is_new": false,
       "report_count": 5
-    },
-    {
-      "event_key": "investment:ai天气预报更准了，windborne如何把它变成生意？赢政天下",
-      "title": "AI天气预报更准了，WindBorne如何把它变成生意？ | 赢政天下",
-      "report_url": "https://www.winzheng.com/article/windborne-ai-weather-funding",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 82.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 3
     },
     {
       "event_key": "tender:交通气象观测站",
@@ -2180,7 +2180,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2F4LfobEf15u3vwmqnsJIw6QP9Ya3y7M1qXa8Fplpd9v3p_VxlWpDwOffh-GY2NJQLnsnzm8aX-WDZbpQ8ZaJQf_B5NYlqdABOen6VwVe38vnaYYGJ6uOZ_s1zWtJwR70vo2uRHZ6dPccexqp3uES_gdOoP6InlPYYOWDPvISU-MiosvZ760wBaV17Y6J-YaglvGpP_yrFPJsOXpElClF5QL0Hr9Gyd3Q..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=44F19ADCF6927BE89A9FC670D9BC51B29AD7A9D06AF2FDED",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2F4LfobEf15MOAtsudxQiKK1tBQEuNa5lqXa8Fplpd91RJBx5rC-UzTE_ICI6eSEWmRw3DqMUQ6meSPuD1eDSqq8y28KpGP-Klls5_Ul5cZs3gm2HdUKNGlSkcp3R_8p8RTl92rwkQGGheyBzQOQujaNq9h4vXNc6mag6Nz1iaNC7-7WjPSEk_kkKk2PZ-wlV3WrOuybqkziL7fFVWrbW5hlgeRt7bSzA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=4B5E97BA8DDD2CBDCCCB9238485AF19DCD93277C6AF3BAD5",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -2256,6 +2256,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 73.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "other:coherent需求能见度高，但股价已反映ai预期？",
@@ -2805,6 +2821,22 @@
       "event_key": "tender:度量衡",
       "title": "新疆：守好观测数据“度量衡” 筑牢气象计量“压舱石”",
       "report_url": "https://www.ezjw.com/projectinfo-detail-334025535.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 65.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "tender:辽宁省人工影响天气水资源保障项目",
+      "title": "辽宁省人工影响天气水资源保障项目（人影能力建设）云降水探测设备招标公告",
+      "report_url": "https://www.tongxinzhaobiao.com/news-d1c544eb4907d68e874ce6b48bf201c7",
       "official_url": null,
       "category": "tender",
       "category_label": "招标采购",
@@ -3374,22 +3406,6 @@
       "score": 52.0,
       "deadline": null,
       "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
-      "event_key": "investment:熵机",
-      "title": "我国首个金融气象AI模型“熵机”发布",
-      "report_url": "https://www.stdaily.com/web/gdxw/2026-01/12/content_460534.html",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "investment",
-      "status_label": "融资情报",
-      "platform": "web",
-      "score": 52.0,
-      "deadline": null,
-      "published_at": "2026-01-12",
       "is_new": false,
       "report_count": 1
     },

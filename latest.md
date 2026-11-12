@@ -1,4 +1,4 @@
-# 机会雷达（2026-11-11）
+# 机会雷达（2026-11-12）
 
 ## 竞赛赛事（27）
 - 🆕41分钟报名破万！2026北京海淀马拉松（海马）在中关村壹号鸣枪开赛（报名中·94｜⚠入口待找）
@@ -31,7 +31,7 @@
   报道 http://cmakjgl.cmatc.cn/newsview.aspx?id=2645051
 - 中国气象学会（时间待核实·76｜⚠入口待找）
   报道 https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267
-- 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
+- 要上天!英国气象局联手阿里云举办气象AI大赛（时间待核实·75｜⚠入口待找）
   报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjgIDpUKq6VNOQ2zZPWyI3FVqXa8Fplpd96c5vjb5UbPhfmcTknU0IFCpckeplFUaGg7j5vtHosfRnP9eF1KpP8oxk9alAekOs446uUrsvW_koB77neMGjdqM4eW0m9Np2kC4vsXvg7ylrGHzQMhYIMj_zoeReNNHOYO6EzJ2jgvFm9bSMvK-n40pyeu4D250e-DFPY7oABgY5eBgmN3LoYQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=519EEE78A41C97CD1E1B7D1E9C2730BD1EE339F66AF47329
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
@@ -56,7 +56,7 @@
 - 关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛”（ACTION 2026）的通知-信息公告栏（时间待核实·35｜入口 https://www.heywhale.com/home/competition/697ad5a9e782130e4c66f3cc）
   报道 https://bulletin.nuist.edu.cn/info/1016/56216.htm
 
-## 申报征集（52）
+## 申报征集（51）
 - 🆕2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...（时间待核实·97｜⚠入口待找）
   报道 https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm
 - 🆕第37届中国气象学会年会在甘肃兰州开幕（报名中·73｜⚠入口待找）
@@ -95,8 +95,6 @@
   报道 http://js.cma.gov.cn/dsjwz/njs/njszfxxgk/sjfdzdgknr/sjtzgg/202610/t20261022_8103995.html
 - 🆕南京市气象局 南京市科学技术局关于组织 开展2026年度南京市气象科技协同 创新项目申报工作的通知（时间待核实·41｜⚠入口待找）
   报道 http://js.cma.gov.cn/dsjwz/njs/njszfxxgk/sjfdzdgknr/sjtzgg/202610/t20261022_8103995.html
-- 🆕湖北省气象局-征集调查（报名中·37｜截止2026-11-11｜入口 http://hb.cma.gov.cn/personalCenter/?siteid=121#/register）
-  报道 http://hb.cma.gov.cn/hdjl/zjdc
 - 🆕气象 场景 征集_360图片（时间待核实·37｜⚠入口待找）
   报道 https://image.so.com/i?src=imageonebox&q=%E6%B0%94%E8%B1%A1%20%E5%9C%BA%E6%99%AF%20%E5%BE%81%E9%9B%86&obx_type=360pic_new_normal1
 - 🆕奖项申报 | CNS-CST Outstanding Neuroscientist Award申请通知（时间待核实·7｜⚠入口待找）
@@ -425,6 +423,8 @@
   报道 https://www.hevttc.edu.cn/233-1234.pdf
 - 🆕第三届苏州青少年园林模型挑战赛报名开启 - 苏州市人民政府（时间待核实·50｜⚠入口待找）
   报道 https://www.suzhou.gov.cn/szsrmzf/szyw/202604/a7e3b837394d4c70abd7141228e0ea2b.shtml
+- 🆕AI一分钟算完10天天气，为什么比超级计算机还准？（报名中·40｜⚠入口待找）
+  报道 https://www.bilibili.com/video/BV1524P6rE9h
 - 🆕科技赋能特色农业 精准气象护航振兴（时间待核实·18｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s?__biz=Mzg2MTA3MzkwMA==&mid=2247624108&idx=5&sn=4fc34162b576a28969c7af7a6d0c0472&chksm=cfe8eb3f2869d797dca747d4a1caf6b69981df82f3e85a22ccc810464b67abe38520ff453518&scene=27
 - 🆕两名12岁小孩姐携手在深圳开公司!因登雪山经历立志研发高山气象站...（时间待核实·18｜⚠入口待找）
@@ -513,8 +513,6 @@
   报道 https://bulletin.nuist.edu.cn/ssjgy.jsp?totalpage=361&PAGENUM=11&urltype=tree.TreeTempUrl&wbtreeid=1047&showkeycode=
 - 新观点——“芯人类”大学生集成电路创新论坛观点纪实（时间待核实·50｜⚠入口待找）
   报道 https://univ.ciciec.com/nd.jsp?id=158
-- [DCS] 恶劣气象 航降挑战！4.24，即本周五将举行传统娱乐活动着舰大赛第三届 娱乐性质 观光无需报名欢迎各位参加！！！（时间待核实·50｜⚠入口待找）
-  报道 https://www.bilibili.com/video/BV1VwdQBuEsv
 - 气象小主播剪辑案例（作品保护已静音）#气象小主播 #测今日气象护明日家园 #气象小主播演讲 #气象小主播大赛（时间待核实·47｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1UebV6tE3x
 - 2026“外研社·国才杯”短视频大赛|数说中国|数说柳州:小城缩影,大国气象A Small City Reflects Big China（时间待核实·47｜⚠入口待找）

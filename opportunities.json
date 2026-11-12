@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T21:59:57.192474",
+  "generated": "2026-11-12T14:23:37.645062",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -1298,18 +1298,18 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:湖北省气象局征集调查",
-      "title": "湖北省气象局-征集调查",
-      "report_url": "http://hb.cma.gov.cn/hdjl/zjdc",
-      "official_url": "http://hb.cma.gov.cn/personalCenter/?siteid=121#/register",
-      "category": "grant",
-      "category_label": "申报征集",
+      "event_key": "other:ai一分钟算完10天天气，为什么比超级计算机还准？",
+      "title": "AI一分钟算完10天天气，为什么比超级计算机还准？",
+      "report_url": "https://www.bilibili.com/video/BV1524P6rE9h",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
       "status": "ongoing",
       "status_label": "报名中",
-      "platform": "web",
-      "score": 37.0,
-      "deadline": "2026-11-11",
-      "published_at": null,
+      "platform": "bilibili",
+      "score": 39.6,
+      "deadline": null,
+      "published_at": "2026-11-03",
       "is_new": true,
       "report_count": 1
     },
@@ -2168,8 +2168,8 @@
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
-      "status": "ongoing",
-      "status_label": "报名中",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "weixin",
       "score": 75.0,
       "deadline": null,
@@ -3650,22 +3650,6 @@
       "report_count": 1
     },
     {
-      "event_key": "other:[dcs]恶劣气象航降挑战！4.24，即本周五将举行传统娱乐活动着舰大赛第三届娱",
-      "title": "[DCS] 恶劣气象 航降挑战！4.24，即本周五将举行传统娱乐活动着舰大赛第三届 娱乐性质 观光无需报名欢迎各位参加！！！",
-      "report_url": "https://www.bilibili.com/video/BV1VwdQBuEsv",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "bilibili",
-      "score": 50.0,
-      "deadline": null,
-      "published_at": "2026-04-21",
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "grant:三明市科学技术局关于做好2026年度气象行业联合资助项目...",
       "title": "三明市科学技术局关于做好2026年度气象行业联合资助项目 ...",
       "report_url": "https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh",
@@ -4466,5 +4450,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 240
+  "ended_count": 242
 }

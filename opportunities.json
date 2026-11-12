@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T14:23:37.645062",
+  "generated": "2026-11-12T21:17:29.552390",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -78,6 +78,22 @@
       "score": 82.0,
       "deadline": null,
       "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:英飞凌科技：尽管存在部署担忧，数据中心供电能见度改善，重申买入评级，目标价92.",
+      "title": "英飞凌科技：尽管存在部署担忧，数据中心供电能见度改善，重申买入评级，目标价92.00欧元",
+      "report_url": "https://www.bilibili.com/video/BV1BZWU6cEQV",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 82.0,
+      "deadline": null,
+      "published_at": "2026-11-12",
       "is_new": true,
       "report_count": 1
     },
@@ -364,6 +380,22 @@
       "status_label": "时间待核实",
       "platform": "web",
       "score": 69.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:ai+众创气象服务",
+      "title": "预见未来｜“AI+众创气象服务”创新赛道智能应用类亮点解读",
+      "report_url": "https://www.sohu.com/a/1100056427_121123844",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 66.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -1298,22 +1330,6 @@
       "report_count": 1
     },
     {
-      "event_key": "other:ai一分钟算完10天天气，为什么比超级计算机还准？",
-      "title": "AI一分钟算完10天天气，为什么比超级计算机还准？",
-      "report_url": "https://www.bilibili.com/video/BV1524P6rE9h",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 39.6,
-      "deadline": null,
-      "published_at": "2026-11-03",
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "grant:气象场景征集360图片",
       "title": "气象 场景 征集_360图片",
       "report_url": "https://image.so.com/i?src=imageonebox&q=%E6%B0%94%E8%B1%A1%20%E5%9C%BA%E6%99%AF%20%E5%BE%81%E9%9B%86&obx_type=360pic_new_normal1",
@@ -1794,6 +1810,38 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
+    },
+    {
+      "event_key": "competition:数据要素×",
+      "title": "文字实录 | 国家数据局举办2026年“数据要素×”新闻发布会（第一场）-国家数据局",
+      "report_url": "https://www.nda.gov.cn/sjj/swdt/xwfb/0611/20260611200405792154005_pc.html",
+      "official_url": "https://www.datafountain.cn/competitions/1098",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 86.0,
+      "deadline": null,
+      "published_at": "2026-04-27",
+      "is_new": false,
+      "report_count": 4
+    },
+    {
       "event_key": "tender:4.2国家能力、机构与官僚体系(statecapacity,institutio",
       "title": "4.2 国家能力、机构与官僚体系 (State Capacity, Institutions, and Bureaucracy)",
       "report_url": "https://mp.weixin.qq.com/s/QRnBDxNtBy46eqbIb3B17g",
@@ -2164,12 +2212,12 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjgIDpUKq6VNOQ2zZPWyI3FVqXa8Fplpd96c5vjb5UbPhfmcTknU0IFCpckeplFUaGg7j5vtHosfRnP9eF1KpP8oxk9alAekOs446uUrsvW_koB77neMGjdqM4eW0m9Np2kC4vsXvg7ylrGHzQMhYIMj_zoeReNNHOYO6EzJ2jgvFm9bSMvK-n40pyeu4D250e-DFPY7oABgY5eBgmN3LoYQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=519EEE78A41C97CD1E1B7D1E9C2730BD1EE339F66AF47329",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAj32sF6F4zEeTMizueSJS9tlqXa8Fplpd9IASa6kXROIl8N1fdzIOwUoFJIiskcUGD5vAM0NVXLR6BF0SMhJHhXqcnN3s-pk3j74IpdIShXc8CV6KrcWhjIO-0jfNvu9aSUsNHds_bMFnc6Amsn2LlyihS8v76VHhttgCVvTYLR_leR90tnVI2bQTg94h_m7ju4Votpp2QpIYGX_iHL9MadA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=5D8E0B35C9AD44D7A6A3C6B2A3FBEBADA6E85BA16AF5BA85",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
+      "status": "ongoing",
+      "status_label": "报名中",
       "platform": "weixin",
       "score": 75.0,
       "deadline": null,
@@ -2240,22 +2288,6 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
-    },
-    {
-      "event_key": "grant:揭榜挂帅",
-      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
-      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 73.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
     },
     {
       "event_key": "other:coherent需求能见度高，但股价已反映ai预期？",
@@ -3106,22 +3138,6 @@
       "report_count": 2
     },
     {
-      "event_key": "other:阿干户外:美人鱼挑战赛第21天新位置新气象！",
-      "title": "阿干户外:美人鱼挑战赛第21天 新位置新气象！",
-      "report_url": "https://www.bilibili.com/video/BV1USpD6nEav",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "bilibili",
-      "score": 57.0,
-      "deadline": null,
-      "published_at": "2026-10-12",
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "other:武汉九大名高挑战赛化学错题第1题气象选择综合！",
       "title": "武汉九大名高挑战赛·化学错题·第1题·气象选择综合！",
       "report_url": "https://www.bilibili.com/video/BV1etnn6TEnZ",
@@ -3298,22 +3314,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:智慧通企业创新管理服务网",
-      "title": "智慧通企业创新管理服务网",
-      "report_url": "http://www.czzht.com/index.php?c=content&a=show&id=61464",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 56.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1
-    },
-    {
       "event_key": "tender:中国气象局气象探测中心",
       "title": "中国气象局气象探测中心2025年大气成分备件采购项目中标公告",
       "report_url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202509/t20250917_25367661.htm",
@@ -3422,6 +3422,22 @@
       "score": 52.0,
       "deadline": null,
       "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "other:阿干户外:美人鱼挑战赛第21天新位置新气象！",
+      "title": "阿干户外:美人鱼挑战赛第21天 新位置新气象！",
+      "report_url": "https://www.bilibili.com/video/BV1USpD6nEav",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 51.0,
+      "deadline": null,
+      "published_at": "2026-10-12",
       "is_new": false,
       "report_count": 1
     },
@@ -4032,6 +4048,22 @@
       "published_at": "2026-10-27",
       "is_new": false,
       "report_count": 2
+    },
+    {
+      "event_key": "other:ai一分钟算完10天天气，为什么比超级计算机还准？",
+      "title": "AI一分钟算完10天天气，为什么比超级计算机还准？",
+      "report_url": "https://www.bilibili.com/video/BV1524P6rE9h",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "bilibili",
+      "score": 39.6,
+      "deadline": null,
+      "published_at": "2026-11-03",
+      "is_new": false,
+      "report_count": 1
     },
     {
       "event_key": "other:气象感知设备+数据互通平台智测云联环境监测解决方案",

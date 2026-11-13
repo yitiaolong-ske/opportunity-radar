@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T21:17:29.552390",
+  "generated": "2026-11-13T08:53:13.112632",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -386,22 +386,6 @@
       "report_count": 1
     },
     {
-      "event_key": "other:ai+众创气象服务",
-      "title": "预见未来｜“AI+众创气象服务”创新赛道智能应用类亮点解读",
-      "report_url": "https://www.sohu.com/a/1100056427_121123844",
-      "official_url": null,
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 66.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1
-    },
-    {
       "event_key": "investment:20亿美元豪赌与林俊旸的下半场36氪",
       "title": "20亿美元豪赌与林俊旸的下半场-36氪",
       "report_url": "https://m.36kr.com/p/3863983975044354",
@@ -530,16 +514,16 @@
       "report_count": 1
     },
     {
-      "event_key": "tender:高速公路能见度传感器安装高度和间距规范（推荐thvsn10）山东天合环境科技",
-      "title": "高速公路能见度传感器安装高度和间距规范（推荐 TH-VSN10）-山东天合环境科技",
-      "report_url": "https://www.thyqz.com/hy/2125.html",
+      "event_key": "other:小小气象学家",
+      "title": "世界气象日主题活动来袭,“小小气象学家”快来报名!_上观新闻",
+      "report_url": "https://www.jfdaily.com/sgh/detail?id=1724483",
       "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "web",
-      "score": 65.0,
+      "score": 64.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -1810,38 +1794,6 @@
       "report_count": 1
     },
     {
-      "event_key": "grant:揭榜挂帅",
-      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
-      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 86.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
-    },
-    {
-      "event_key": "competition:数据要素×",
-      "title": "文字实录 | 国家数据局举办2026年“数据要素×”新闻发布会（第一场）-国家数据局",
-      "report_url": "https://www.nda.gov.cn/sjj/swdt/xwfb/0611/20260611200405792154005_pc.html",
-      "official_url": "https://www.datafountain.cn/competitions/1098",
-      "category": "other",
-      "category_label": "其他",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 86.0,
-      "deadline": null,
-      "published_at": "2026-04-27",
-      "is_new": false,
-      "report_count": 4
-    },
-    {
       "event_key": "tender:4.2国家能力、机构与官僚体系(statecapacity,institutio",
       "title": "4.2 国家能力、机构与官僚体系 (State Capacity, Institutions, and Bureaucracy)",
       "report_url": "https://mp.weixin.qq.com/s/QRnBDxNtBy46eqbIb3B17g",
@@ -2114,6 +2066,22 @@
       "report_count": 1
     },
     {
+      "event_key": "competition:数据要素×",
+      "title": "气象服务赛道 - 2026年“数据要素×”大赛北京分赛暨北京数智创新大赛",
+      "report_url": "https://dexc.data.beijing.gov.cn/dsst/sjys/Mete1",
+      "official_url": "https://www.datafountain.cn/competitions/1098",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 78.0,
+      "deadline": null,
+      "published_at": "2026-04-27",
+      "is_new": false,
+      "report_count": 4
+    },
+    {
       "event_key": "tender:保定市气象局气象灾害监测与预警中心",
       "title": "保定市气象局气象灾害监测与预警中心建设项目设备采购（气象灾害智能监测平台）中标结果公告",
       "report_url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202602/t20260228_26202574.htm",
@@ -2212,7 +2180,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAj32sF6F4zEeTMizueSJS9tlqXa8Fplpd9IASa6kXROIl8N1fdzIOwUoFJIiskcUGD5vAM0NVXLR6BF0SMhJHhXqcnN3s-pk3j74IpdIShXc8CV6KrcWhjIO-0jfNvu9aSUsNHds_bMFnc6Amsn2LlyihS8v76VHhttgCVvTYLR_leR90tnVI2bQTg94h_m7ju4Votpp2QpIYGX_iHL9MadA..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=5D8E0B35C9AD44D7A6A3C6B2A3FBEBADA6E85BA16AF5BA85",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_rCU17ysYShpzVMepuU2PQqGKrH4-F6GVqXa8Fplpd9AAHstSMUM5O3Owdd14dJtbshjLl-jGZURVNTC3ALR2QcsoR6REHyeMgc3fFPOq2xjhgOOxWuiNBmF6QuoqQC5EByPYymhKieWTsbwqKBDdcIanoaUo6aZoidVWPVWiMgbDQPfTiM3uPBUmI5zE-qMsGmiZUkAsZAQ8Yumd5RK4pf_71bqkOtiw..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=63ABB47BEBBB4ADAABACCBB7673467ABAB533A616AF65EA4",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -2274,6 +2242,22 @@
       "report_count": 1
     },
     {
+      "event_key": "other:ai+众创气象服务",
+      "title": "智绘气象·预见未来｜“AI+众创气象服务”创新赛道智能应用类亮点解读_东盟_场景",
+      "report_url": "https://www.sohu.com/a/1100056427_121123844",
+      "official_url": null,
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 75.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "grant:佛山市发展和改革局关于征集2026年人工智能应用场景的通知佛山市人民政府门户网站",
       "title": "佛山市发展和改革局关于征集2026年人工智能应用场景的通知  佛山市人民政府门户网站",
       "report_url": "https://www.foshan.gov.cn/zwgk/gggs/content/post_7299969.html",
@@ -2288,6 +2272,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "grant:揭榜挂帅",
+      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
+      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
+      "official_url": "https://tianchi.aliyun.com/competition/entrance/531923/introduction",
+      "category": "other",
+      "category_label": "其他",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 73.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "other:coherent需求能见度高，但股价已反映ai预期？",
@@ -2642,22 +2642,6 @@
       "report_count": 1
     },
     {
-      "event_key": "tender:公路气象站设备选型采购指南：能见度仪/路面状态/气象六要素...",
-      "title": "公路气象站设备选型采购指南：能见度仪/路面状态/气象六要素/通信供电-山东风途物联网科技有限公司",
-      "report_url": "http://www.fengtuwlw.com/Article-1082680.html",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
-      "platform": "web",
-      "score": 69.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2
-    },
-    {
       "event_key": "other:校园气象科普教育网",
       "title": "校园气象科普教育网",
       "report_url": "https://xyqx.cms1924.org/WebPage/WebPage2_4_20_1057.aspx",
@@ -2882,6 +2866,22 @@
       "report_count": 1
     },
     {
+      "event_key": "tender:高速公路能见度传感器安装高度和间距规范（推荐thvsn10）山东天合环境科技",
+      "title": "高速公路能见度传感器安装高度和间距规范（推荐 TH-VSN10）-山东天合环境科技",
+      "report_url": "https://www.thyqz.com/hy/2125.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 65.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
       "event_key": "other:竞赛单元",
       "title": "竞赛单元",
       "report_url": "https://ccf.org.cn/Computility2026/news_d_2112",
@@ -2960,6 +2960,22 @@
       "published_at": null,
       "is_new": false,
       "report_count": 1
+    },
+    {
+      "event_key": "tender:公路气象站设备选型采购指南：能见度仪/路面状态/气象六要素...",
+      "title": "能见度传感器（TH-N20）源头厂家采购 - 小型气象站",
+      "report_url": "https://www.thyqz.com/jswz/2116.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 61.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2
     },
     {
       "event_key": "tender:交通运输能见度监测预警系统",
@@ -4125,6 +4141,22 @@
       "platform": "web",
       "score": 37.0,
       "deadline": "2026-12-11",
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:重庆市气象局",
+      "title": "重庆市气象局",
+      "report_url": "http://cq.cma.gov.cn/sqxj/ggtz/index.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 37.0,
+      "deadline": null,
       "published_at": null,
       "is_new": false,
       "report_count": 1

@@ -1,4 +1,4 @@
-# 机会雷达（2026-11-14）
+# 机会雷达（2026-11-15）
 
 ## 竞赛赛事（26）
 - 🆕41分钟报名破万！2026北京海淀马拉松（海马）在中关村壹号鸣枪开赛（报名中·94｜⚠入口待找）
@@ -31,7 +31,7 @@
   报道 http://cmakjgl.cmatc.cn/newsview.aspx?id=2645051
 - 中国气象学会（时间待核实·76｜⚠入口待找）
   报道 https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267
-- 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
+- 要上天!英国气象局联手阿里云举办气象AI大赛（时间待核实·75｜⚠入口待找）
   报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8FlW0g1pD1PxN6_TowEQo2kvI0K1tV_slqXa8Fplpd9ADpu5eAFlcdszSEKaMGBYiGWae8SSn5flA_w4BviuXQLjNxLFiYjpyLDuKFOqtguLwBFPNxthFrKr5016EgbR8RAuNIRMxXWPYXXbQ3g67mfwNmH-N9nMintQBcC1O9-6Z6CTkTgY6baPs_zin2ltIo-YQfUZZj4VEz7fB-Pa5hj3x9Nw6p-Fg..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=725D8424D169EEB46861085DA526814F6865CA836AF84470
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T19:30:15.989434",
+  "generated": "2026-11-15T17:10:56.334304",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -2248,8 +2248,8 @@
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
-      "status": "ongoing",
-      "status_label": "报名中",
+      "status": "unknown",
+      "status_label": "时间待核实",
       "platform": "weixin",
       "score": 75.0,
       "deadline": null,

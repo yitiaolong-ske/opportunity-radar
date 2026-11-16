@@ -34,7 +34,7 @@
 - 中国气象学会（时间待核实·76｜⚠入口待找）
   报道 https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267
 - 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
-  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2yAWDmgV329m7mt2qbgiUJ0v8e-sR9qRVqXa8Fplpd9dMfMmDyE25I8mFscSsupyCAC1NJJniJjuZY_pPzHdl90yQNMF-kYP7AIYXYYuOD0RHXDJJbuVkUAigkCNoYVoutbAKX0SMJGpc_qOSen6NU8Ymi5qR9zEfXnpJ-Qk9PU_aLEj_ZauzatQVze4bhVovowiaxfbN5PPaPCpKQnJYwYJSSFPgfogQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=81B257A15404F5651513754F0F2717C41581CFE36AFA524B
+  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzvBszNeu-u644M_AKIqsgbirKa_0sohWFqXa8Fplpd9DNs8dxvVmXx1_w3wpm2Rt4rWLfwpq15Pq7qO6c6Hi_9id147eE3eu_-PCUNse0EXsB5gJuHnYlRusn4lsMMejY3xa07li3M7C0479O_dEZNV35p1XOBLHWozIBShP8mFO22EXQOfEdL1CYVxiuabB9xf7BWVB0Cl7BjFT8vg85NflztgI7RZ1g..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=8605999BB8E91989F8FE999A04028C21F99682B46AFAE770
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 进行中 - 广西壮族自治区人民政府门户网站（时间待核实·66｜⚠入口待找）
@@ -56,7 +56,7 @@
 - 关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛”（ACTION 2026）的通知-信息公告栏（时间待核实·35｜入口 https://www.heywhale.com/home/competition/697ad5a9e782130e4c66f3cc）
   报道 https://bulletin.nuist.edu.cn/info/1016/56216.htm
 
-## 申报征集（50）
+## 申报征集（52）
 - 🆕2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...（时间待核实·97｜⚠入口待找）
   报道 https://difang.gmw.cn/gx/2026-06/24/content_38846710.htm
 - 🆕第37届中国气象学会年会在甘肃兰州开幕（报名中·73｜⚠入口待找）
@@ -83,6 +83,8 @@
   报道 http://std.xjtu.edu.cn/info/1008/42866.htm
 - 🆕2026国家重点研发计划查询网-在线查询国家重点研发计划批准结果（时间待核实·56｜入口 https://www.funresearch.cn/register/home）
   报道 https://www.funresearch.cn/nkrd/index
+- 🆕粤港澳大湾区及长三角启动气象指数(系列)应用场景方案征集活动（时间待核实·54｜⚠入口待找）
+  报道 https://ai.so.com/search/sodd940b89e6614d56363aa41189bc4345?search=%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8F%8A%E9%95%BF%E4%B8%89%E8%A7%92%E5%90%AF%E5%8A%A8%E6%B0%94%E8%B1%A1%E6%8C%87%E6%95%B0%EF%BC%88%E7%B3%BB%E5%88%97%EF%BC%89%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E6%96%B9%E6%A1%88%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8&src=so_result_natural_news&srcg=so_result_natural_news
 - 🆕通知公告_西藏自治区科学技术厅（时间待核实·51｜⚠入口待找）
   报道 https://sti.xizang.gov.cn/xxgk/fdzdgk/tzgg/index_1.html
 - 🆕...气象学会关于2026年联合学术年会征稿通知_通知公告_福建省气象局（报名中·47｜⚠入口待找）
@@ -133,6 +135,8 @@
   报道 https://kjj.mas.gov.cn/xwdt/tzgg/sbtz/2006440901.html
 - 关于2026年海南省自然科学基金联合项目申报通知-科学技术发展院（科技处、乡村振兴办公室）（时间待核实·50｜⚠入口待找）
   报道 https://scitech.hainanu.edu.cn/info/1069/14673.htm
+- 关于申报2026年度重庆市自然科学基金创新发展联合基金(市教委、气象)项目的通知（报名中·50｜截止2026-11-16｜⚠入口待找）
+  报道 https://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261027_16301307.html
 - 三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作的通知 _
 		其它 _
 		三明市人民政府门户网站（报名中·50｜⚠入口待找）

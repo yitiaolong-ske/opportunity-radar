@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T08:47:17.821166",
+  "generated": "2026-11-16T19:30:27.537441",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -1004,6 +1004,22 @@
       "status_label": "融资情报",
       "platform": "web",
       "score": 55.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1
+    },
+    {
+      "event_key": "grant:粤港澳大湾区及长三角启动气象指数(系列)应用场景方案征集活动",
+      "title": "粤港澳大湾区及长三角启动气象指数(系列)应用场景方案征集活动",
+      "report_url": "https://ai.so.com/search/sodd940b89e6614d56363aa41189bc4345?search=%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8F%8A%E9%95%BF%E4%B8%89%E8%A7%92%E5%90%AF%E5%8A%A8%E6%B0%94%E8%B1%A1%E6%8C%87%E6%95%B0%EF%BC%88%E7%B3%BB%E5%88%97%EF%BC%89%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E6%96%B9%E6%A1%88%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8&src=so_result_natural_news&srcg=so_result_natural_news",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 54.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
@@ -2244,7 +2260,7 @@
     {
       "event_key": "other:要上天!英国气象局联手阿里云举办气象ai大赛",
       "title": "要上天!英国气象局联手阿里云举办气象AI大赛",
-      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2yAWDmgV329m7mt2qbgiUJ0v8e-sR9qRVqXa8Fplpd9dMfMmDyE25I8mFscSsupyCAC1NJJniJjuZY_pPzHdl90yQNMF-kYP7AIYXYYuOD0RHXDJJbuVkUAigkCNoYVoutbAKX0SMJGpc_qOSen6NU8Ymi5qR9zEfXnpJ-Qk9PU_aLEj_ZauzatQVze4bhVovowiaxfbN5PPaPCpKQnJYwYJSSFPgfogQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=81B257A15404F5651513754F0F2717C41581CFE36AFA524B",
+      "report_url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzvBszNeu-u644M_AKIqsgbirKa_0sohWFqXa8Fplpd9DNs8dxvVmXx1_w3wpm2Rt4rWLfwpq15Pq7qO6c6Hi_9id147eE3eu_-PCUNse0EXsB5gJuHnYlRusn4lsMMejY3xa07li3M7C0479O_dEZNV35p1XOBLHWozIBShP8mFO22EXQOfEdL1CYVxiuabB9xf7BWVB0Cl7BjFT8vg85NflztgI7RZ1g..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=8605999BB8E91989F8FE999A04028C21F99682B46AFAE770",
       "official_url": null,
       "category": "competition",
       "category_label": "竞赛赛事",
@@ -2319,7 +2335,7 @@
       "deadline": null,
       "published_at": null,
       "is_new": false,
-      "report_count": 1
+      "report_count": 2
     },
     {
       "event_key": "grant:佛山市发展和改革局关于征集2026年人工智能应用场景的通知佛山市人民政府门户网站",
@@ -3570,6 +3586,22 @@
       "report_count": 1
     },
     {
+      "event_key": "grant:关于联合组织申报2025年度江苏海洋气象开放研究基金项目的...",
+      "title": "关于申报2026年度重庆市自然科学基金创新发展联合基金(市教委、气象)项目的通知",
+      "report_url": "https://kjj.cq.gov.cn/zwxx_176/tzgg/202610/t20261027_16301307.html",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": "2026-11-16",
+      "published_at": "2026-10-27",
+      "is_new": false,
+      "report_count": 2
+    },
+    {
       "event_key": "grant:三明市科学技术局关于做好2024年度气象行业联合资助项目申报工作的...",
       "title": "三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作的通知 _\n\t\t其它 _\n\t\t三明市人民政府门户网站",
       "report_url": "https://www.sm.gov.cn/zw/gsgg/qt_5599/202611/t20261109_2334954.htm",
@@ -4578,5 +4610,5 @@
       "report_count": 1
     }
   ],
-  "ended_count": 250
+  "ended_count": 249
 }

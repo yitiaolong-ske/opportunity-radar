@@ -36,7 +36,7 @@
 - 中国气象学会（时间待核实·76｜⚠入口待找）
   报道 https://www.cms1924.org/xuehui-station/kpggDetail.html?id=7267
 - 要上天!英国气象局联手阿里云举办气象AI大赛（报名中·75｜⚠入口待找）
-  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxTSeI6shcwqYjgrFFBimZ720CusUO7sHlqXa8Fplpd9IGn9sSPIyVS70u1EyGI25R8yoK-zBHPKeeKcSuHnkjxy8yd5I2ccPsBSwUfhtTmSg4FzOB66Hoh_uRstDTPwFIhRue7_KgGr18oizzpgpkZvIBlxPAmEUkmOHIH8P9GrixdqeOn-5YPyS29kPlKPITKWGunq-nFo-WrnKeaZImHy08OLTBhW0A..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=8FF8511416719808797C190374710CE27A32C43E6AFC6A4D
+  报道 https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxTSeI6shcwq9kg5N1Bd9CP20CusUO7sHlqXa8Fplpd9IGn9sSPIyVS70u1EyGI25R8yoK-zBHPKeeKcSuHnkjxy8yd5I2ccPsBSwUfhtTmSg4FzOB66Hoh_uRstDTPwFLjFzoLz0lUK7ajzNFV-_ujxrlf4JblQnC91Xxz3HL-wXUUjzA8b5jyJPYX3Fg9cYU648Ab2y5ypUZK6QyU7eAL2CsG6-xMgzQ..&type=2&query=%E6%B0%94%E8%B1%A1 %E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E5%A4%A7%E8%B5%9B&token=8FFF16EF096D87176663051F7932B116665378496AFC6B4D
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 进行中 - 广西壮族自治区人民政府门户网站（时间待核实·66｜⚠入口待找）
@@ -302,7 +302,7 @@
 - 湛江市气象局（招标中·35｜⚠入口待找）
   报道 http://gd.cma.gov.cn/zjsqxj/zwgk_2986/gggs_2995/202506/t20250624_7164556_mo.html
 
-## 投融资（51）
+## 投融资（52）
 - 🆕文字实录 | 国家数据局举办“数据价值化 我们在行动”系列新闻发布会（第五场）-国家数据局（融资情报·81｜⚠入口待找）
   报道 https://www.nda.gov.cn/sjj/swdt/xwfb/0825/20260825204140175751047_pc.html
 - 🆕南方财经网 - 南方财经全媒体集团（融资情报·80｜⚠入口待找）
@@ -319,6 +319,8 @@
   报道 https://news.sina.com.cn/zx/gj/2025-09-17/doc-infquwam4912127.shtml
 - 🆕气象仪器项目融资渠道探索.docx - 人人文库（融资情报·65｜⚠入口待找）
   报道 https://www.renrendoc.com/paper/392354774.html
+- 🆕九方科技是什么公司？一文读懂多家同名企业的业务与背景（融资情报·65｜⚠入口待找）
+  报道 https://kuku.baidu.com/landing/tscp_doc/75ade8c6d7669bbb08ef4d76a7c68f0b
 - 🆕相风科技完成数千万元天使轮融资|金融|投资方_网易订阅（融资情报·62｜⚠入口待找）
   报道 https://www.163.com/dy/article/K80CD9510550B1DU.html
 - 🆕央行公示福建第7批金融科技创新应用，关注涉农（融资情报·60｜⚠入口待找）
@@ -337,8 +339,6 @@
   报道 https://cj.sina.cn/articles/view/3546332963/d360bf2301901jfgc
 - 🆕赴九天，探气象！从0到1！天津这家企业怎么做到的？ - 凤凰网（融资情报·55｜⚠入口待找）
   报道 https://feng.ifeng.com/c/8xugZlY7ily
-- 🆕2026年中国商业气象服务行业市场深度分析及投资战略咨询报告|经营_网易订阅（融资情报·51｜⚠入口待找）
-  报道 https://www.163.com/dy/article/KK44EQOV05387IEF.html
 - 🆕商业气象综合解决方案提供商「九方科技」完成5000万元A轮融资_投...（融资情报·47｜⚠入口待找）
   报道 https://news.pedaily.cn/202107/474410.shtml
 - 🆕北京市密云区科学技术委员会关于印发 ...（融资情报·45｜⚠入口待找）
@@ -397,6 +397,8 @@
   报道 https://www.huxiu.com/article/4877315.html
 - 重庆市气象局部署推进金融气象服务体系建设（融资情报·57｜⚠入口待找）
   报道 http://cq.cma.gov.cn/sqxj/xwdt/sjdt/202604/t20260419_7740630.html
+- 2026年中国商业气象服务行业市场深度分析及投资战略咨询报告|经营_网易订阅（融资情报·51｜⚠入口待找）
+  报道 https://www.163.com/dy/article/KK44EQOV05387IEF.html
 - 商业气象服务商“象辑科技”完成1.16亿元B轮融资（融资情报·50｜⚠入口待找）
   报道 https://www.iyiou.com/p/64303
 - 商业气象解决方案提供商“九方科技”完成5000万元A轮融资（融资情报·45｜⚠入口待找）
@@ -406,13 +408,15 @@
 - 专访国合会特邀顾问李晓江：气候适应融资需财政等政策参与 _ 东方财富网（融资情报·35｜⚠入口待找）
   报道 https://finance.eastmoney.com/a/202609303887852075.html
 
-## 其他（90）
+## 其他（91）
 - 🆕GitHub - XiaoyuZHK/TianChi_resource: 天池比赛历届部分资料及top方案 · GitHub（时间待核实·95｜⚠入口待找）
   报道 https://github.com/XiaoyuZHK/TianChi_resource
 - 🆕AI4Climate 气候考题面前，全球青年这样交卷 - 潮新闻（时间待核实·82｜⚠入口待找）
   报道 https://tidenews.com.cn/news.html?id=3598610
 - 🆕兰州大学在中国国际大学生创新大赛（2026）甘肃省分赛中再获佳绩-兰州大学新闻网（时间待核实·80｜⚠入口待找）
   报道 https://news.lzu.edu.cn/info/1055/1178105.htm
+- 🆕AI预测，可以让我们更好地应对极端天气吗？ | 对话地球（时间待核实·73｜⚠入口待找）
+  报道 https://dialogue.earth/zh/3/60153612
 - 🆕PCB砍单还是延后？AI服务器订单真相与CCL价格顶部（报名中·70｜⚠入口待找）
   报道 https://www.bilibili.com/video/BV1mesr6tEaN
 - 🆕硅谷101 - Podcast - Apple Podcasts（时间待核实·65｜⚠入口待找）

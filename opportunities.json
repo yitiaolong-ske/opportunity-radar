@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T06:25:40.731377",
+  "generated": "2026-11-18T06:32:27.501008",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -19,21 +19,21 @@
       "audience": "general"
     },
     {
-      "event_key": "competition:科创杯",
-      "title": "2026 | 清华“科创杯”创业大赛专题",
-      "report_url": "http://www.mbaedu.cn/special/2026/0409qhkcb",
-      "official_url": "https://aistudio.baidu.com/competition/detail/1329",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
+      "event_key": "tender:气象仪器招标采购标标达商机网",
+      "title": "气象仪器招标采购_标标达商机网",
+      "report_url": "https://www.bbda.com/bidList/k50968",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_result",
+      "status_label": "已中标",
       "platform": "web",
-      "score": 76.0,
+      "score": 82.0,
       "deadline": null,
       "published_at": null,
       "is_new": true,
       "report_count": 1,
-      "audience": "general"
+      "audience": "business"
     },
     {
       "event_key": "tender:河北海事局船舶交通管理系统",
@@ -44,6 +44,23 @@
       "category_label": "招标采购",
       "status": "tender_result",
       "status_label": "已中标",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1,
+      "audience": "business"
+    },
+    {
+      "event_key": "tender:江苏省气象信息中心",
+      "title": "江苏省气象信息中心气象站采购招标公告 - 仪器信息网",
+      "report_url": "https://www.instrument.com.cn/event/bid/t164186.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
       "platform": "web",
       "score": 70.0,
       "deadline": null,
@@ -206,40 +223,6 @@
       "audience": "general"
     },
     {
-      "event_key": "tender:江苏常州85后，做气象ai：融资数千万搜狐网",
-      "title": "江苏常州85后，做气象AI：融资数千万_搜狐网",
-      "report_url": "https://m.sohu.com/a/1090713380_649045?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "official_url": null,
-      "category": "investment",
-      "category_label": "投融资",
-      "status": "tender_other",
-      "status_label": "招标动态",
-      "platform": "web",
-      "score": 90.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2,
-      "audience": "business"
-    },
-    {
-      "event_key": "tender:交通气象观测站",
-      "title": "集成式交通气象监测仪、移动式观测设备采购项目招标-仪表网",
-      "report_url": "https://www.ybzhan.cn/purchase-tend/detail/29277.html",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
-      "platform": "web",
-      "score": 82.0,
-      "deadline": "2026-11-23",
-      "published_at": "2026-10-29",
-      "is_new": false,
-      "report_count": 1,
-      "audience": "business"
-    },
-    {
       "event_key": "investment:商业气象服务提供商象辑科技完成c+轮融资创业亚设网",
       "title": "商业气象服务提供商象辑科技完成C+轮融资 _创业_亚设网",
       "report_url": "https://www.ashea.com.cn/chuangye/2021/0618/316931.html",
@@ -342,6 +325,23 @@
       "audience": "business"
     },
     {
+      "event_key": "tender:交通气象观测站",
+      "title": "采购集成式交通气象监测仪器及微智气象观测站_标标达招标网官网_标标达商机网",
+      "report_url": "https://bbda.com/bidDetail/595864686fb329d3704dd71e87fcf6a9c648236c3a8a624044992fceded261b9.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_result",
+      "status_label": "已中标",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": "2026-11-23",
+      "published_at": "2026-10-29",
+      "is_new": false,
+      "report_count": 1,
+      "audience": "business"
+    },
+    {
       "event_key": "grant:关于征集2027年度西安市气象科技领域研究课题建议的通知科研项目申报泛研网",
       "title": "关于征集2027年度西安市气象科技领域研究课题建议的通知 - 科研项目申报 - 泛研网",
       "report_url": "https://www.funresearch.cn/grant/MTE3ZGViMjctNjViNy00MmIxLWFhMTctMjY1NDg0NTI0MGIw",
@@ -374,23 +374,6 @@
       "is_new": false,
       "report_count": 1,
       "audience": "business"
-    },
-    {
-      "event_key": "grant:气象×金融!气温指数应用场景方案征集活动中国气象局政府门户网站",
-      "title": "粤港澳大湾区、长三角气温指数应用场景方案征集活动评审结果揭晓_气象",
-      "report_url": "https://www.sohu.com/a/1097591729_121107000",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "ongoing",
-      "status_label": "报名中",
-      "platform": "web",
-      "score": 70.0,
-      "deadline": null,
-      "published_at": "2026-11-05",
-      "is_new": false,
-      "report_count": 1,
-      "audience": "general"
     },
     {
       "event_key": "tender:项目名称:丰县乡镇空气质量网格化监测及省...",
@@ -459,6 +442,23 @@
       "is_new": false,
       "report_count": 2,
       "audience": "research"
+    },
+    {
+      "event_key": "tender:江苏常州85后，做气象ai：融资数千万搜狐网",
+      "title": "AI 气象公司 WindBorne Systems 完成 3700 万美元 B 轮融资",
+      "report_url": "https://www.techflowpost.com/newsletter/130823",
+      "official_url": null,
+      "category": "investment",
+      "category_label": "投融资",
+      "status": "investment",
+      "status_label": "融资情报",
+      "platform": "web",
+      "score": 57.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 2,
+      "audience": "business"
     },
     {
       "event_key": "tender:宿迁市生态环境监测监控服务中心",
@@ -614,23 +614,6 @@
       "audience": "research"
     },
     {
-      "event_key": "grant:气象申报通知的最新相关消息",
-      "title": "气象 申报 通知的最新相关消息",
-      "report_url": "http://news.so.com/ns?q=%e6%b0%94%e8%b1%a1%20%e7%94%b3%e6%8a%a5%20%e9%80%9a%e7%9f%a5&src=onebox",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 41.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 1,
-      "audience": "research"
-    },
-    {
       "event_key": "grant:中国气象局科技司关于开展气象科普资源征集暨2026年全国气象科普创作观摩活动的通",
       "title": "中国气象局科技司关于开展气象科普资源征集暨2026年全国气象科普创作观摩活动的通知",
       "report_url": "https://www.cma.gov.cn/zfxxgk/gknr/wjgk/qtwj/202608/t20260812_7981746.html",
@@ -682,5 +665,5 @@
       "audience": "student"
     }
   ],
-  "ended_count": 88
+  "ended_count": 81
 }

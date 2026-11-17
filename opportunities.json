@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T06:37:16.783631",
+  "generated": "2026-11-18T06:42:57.445057",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -665,5 +665,5 @@
       "audience": "student"
     }
   ],
-  "ended_count": 81
+  "ended_count": 82
 }

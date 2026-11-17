@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T06:32:27.501008",
+  "generated": "2026-11-18T06:37:16.783631",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -19,23 +19,6 @@
       "audience": "general"
     },
     {
-      "event_key": "tender:气象仪器招标采购标标达商机网",
-      "title": "气象仪器招标采购_标标达商机网",
-      "report_url": "https://www.bbda.com/bidList/k50968",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_result",
-      "status_label": "已中标",
-      "platform": "web",
-      "score": 82.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1,
-      "audience": "business"
-    },
-    {
       "event_key": "tender:河北海事局船舶交通管理系统",
       "title": "河北海事局船舶交通管理系统改扩建工程中标公告",
       "report_url": "https://www.china-tender.com.cn/jghw/101367.jhtml",
@@ -44,23 +27,6 @@
       "category_label": "招标采购",
       "status": "tender_result",
       "status_label": "已中标",
-      "platform": "web",
-      "score": 70.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1,
-      "audience": "business"
-    },
-    {
-      "event_key": "tender:江苏省气象信息中心",
-      "title": "江苏省气象信息中心气象站采购招标公告 - 仪器信息网",
-      "report_url": "https://www.instrument.com.cn/event/bid/t164186.html",
-      "official_url": null,
-      "category": "tender",
-      "category_label": "招标采购",
-      "status": "tender_open",
-      "status_label": "招标中",
       "platform": "web",
       "score": 70.0,
       "deadline": null,
@@ -223,6 +189,23 @@
       "audience": "general"
     },
     {
+      "event_key": "tender:气象仪器招标采购标标达商机网",
+      "title": "气象仪器招标采购_标标达商机网",
+      "report_url": "https://www.bbda.com/bidList/k50968",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_result",
+      "status_label": "已中标",
+      "platform": "web",
+      "score": 82.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1,
+      "audience": "business"
+    },
+    {
       "event_key": "investment:商业气象服务提供商象辑科技完成c+轮融资创业亚设网",
       "title": "商业气象服务提供商象辑科技完成C+轮融资 _创业_亚设网",
       "report_url": "https://www.ashea.com.cn/chuangye/2021/0618/316931.html",
@@ -371,6 +354,23 @@
       "score": 70.0,
       "deadline": null,
       "published_at": "2026-04-02",
+      "is_new": false,
+      "report_count": 1,
+      "audience": "business"
+    },
+    {
+      "event_key": "tender:江苏省气象信息中心",
+      "title": "江苏省气象信息中心气象站采购招标公告 - 仪器信息网",
+      "report_url": "https://www.instrument.com.cn/event/bid/t164186.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
       "is_new": false,
       "report_count": 1,
       "audience": "business"
@@ -547,8 +547,8 @@
     },
     {
       "event_key": "grant:三明市科学技术局关于做好2024年度气象行业联合资助项目申报工作的...",
-      "title": "三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作的通知 - 科研项目申报 - 泛研网",
-      "report_url": "https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh",
+      "title": "三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作的通知 _\n\t\t其它 _\n\t\t三明市人民政府门户网站",
+      "report_url": "https://www.sm.gov.cn/zw/gsgg/qt_5599/202611/t20261109_2334954.htm",
       "official_url": "https://www.funresearch.cn/register/home",
       "category": "grant",
       "category_label": "申报征集",

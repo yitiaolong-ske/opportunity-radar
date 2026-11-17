@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T06:42:57.445057",
+  "generated": "2026-11-18T06:48:46.348295",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -34,6 +34,23 @@
       "is_new": true,
       "report_count": 1,
       "audience": "business"
+    },
+    {
+      "event_key": "grant:浙江神仙天气照片征集活动启动,鼓励公众分享拍摄作品",
+      "title": "浙江 神仙天气 照片征集活动启动,鼓励公众分享拍摄作品",
+      "report_url": "https://ai.so.com/search/soa6851d13cce6df390e72fe49c9ec825a?search=%E6%B5%99%E6%B1%9F%22%E7%A5%9E%E4%BB%99%E5%A4%A9%E6%B0%94%22%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%BC%93%E5%8A%B1%E5%85%AC%E4%BC%97%E5%88%86%E4%BA%AB%E6%8B%8D%E6%91%84%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 69.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1,
+      "audience": "general"
     },
     {
       "event_key": "competition:讲天气",

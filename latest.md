@@ -18,7 +18,9 @@
 - 关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛”（ACTION 2026）的通知-信息公告栏（时间待核实·35｜入口 https://www.heywhale.com/home/competition/697ad5a9e782130e4c66f3cc）
   报道 https://bulletin.nuist.edu.cn/info/1016/56216.htm
 
-## 申报征集（9）
+## 申报征集（10）
+- 🆕浙江 神仙天气 照片征集活动启动,鼓励公众分享拍摄作品（时间待核实·69｜⚠入口待找）
+  报道 https://ai.so.com/search/soa6851d13cce6df390e72fe49c9ec825a?search=%E6%B5%99%E6%B1%9F%22%E7%A5%9E%E4%BB%99%E5%A4%A9%E6%B0%94%22%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%BC%93%E5%8A%B1%E5%85%AC%E4%BC%97%E5%88%86%E4%BA%AB%E6%8B%8D%E6%91%84%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news
 - 🆕重庆市气象局关于公开征集重庆市气象专业标准化技术委员会委员的通知（报名中·57｜⚠入口待找）
   报道 https://cq.cma.gov.cn/sqxj/ggtz/202610/t20261008_8080402.html
 - 关于征集2027年度西安市气象科技领域研究课题建议的通知 - 科研项目申报 - 泛研网（时间待核实·70｜入口 https://www.funresearch.cn/register/home）

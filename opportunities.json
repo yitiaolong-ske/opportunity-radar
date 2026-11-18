@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T08:48:04.484609",
+  "generated": "2026-11-18T19:30:14.285946",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -36,23 +36,6 @@
       "audience": "business"
     },
     {
-      "event_key": "grant:浙江神仙天气照片征集活动启动,鼓励公众分享拍摄作品",
-      "title": "浙江 神仙天气 照片征集活动启动,鼓励公众分享拍摄作品",
-      "report_url": "https://ai.so.com/search/soa6851d13cce6df390e72fe49c9ec825a?search=%E6%B5%99%E6%B1%9F%22%E7%A5%9E%E4%BB%99%E5%A4%A9%E6%B0%94%22%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%BC%93%E5%8A%B1%E5%85%AC%E4%BC%97%E5%88%86%E4%BA%AB%E6%8B%8D%E6%91%84%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 69.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1,
-      "audience": "general"
-    },
-    {
       "event_key": "competition:讲天气",
       "title": "@全省科普达人:2026气象讲解大赛开锣,等你上台“讲天气”",
       "report_url": "https://mp.weixin.qq.com/s?__biz=MjM5ODIzMjQwMg==&mid=2650630889&idx=1&sn=d86671e18e2ae61f465fb9277d95f2ea&chksm=bf46154d6a30ff6483a10dbe190d203aeeb44dc3256bc8e6e7ddb27aa99efa96e2611ca02441&scene=27",
@@ -87,6 +70,40 @@
       "audience": "business"
     },
     {
+      "event_key": "grant:关于组织申报四川省科技厅四川省气象局2027年四川省气象科技联合专项项目的通知西",
+      "title": "关于组织申报四川省科技厅 四川省气象局2027年四川省气象科技联合专项项目的通知-西南交通科学技术发展研究院",
+      "report_url": "https://sro.swjtu.edu.cn/info/1123/33855.htm",
+      "official_url": "https://sro.swjtu.edu.cn/info/1123/33855.htm",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 62.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1,
+      "audience": "research"
+    },
+    {
+      "event_key": "grant:气象科普征文活动启动,面向公众征集气象知识相关作品",
+      "title": "气象科普征文活动启动,面向公众征集气象知识相关作品",
+      "report_url": "https://ai.so.com/search/soc83ea7f446c21318092a56600acea83f?search=%E6%B0%94%E8%B1%A1%E7%A7%91%E6%99%AE%E5%BE%81%E6%96%87%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%9D%A2%E5%90%91%E5%85%AC%E4%BC%97%E5%BE%81%E9%9B%86%E6%B0%94%E8%B1%A1%E7%9F%A5%E8%AF%86%E7%9B%B8%E5%85%B3%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 61.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1,
+      "audience": "general"
+    },
+    {
       "event_key": "grant:重庆市气象局关于公开征集重庆市气象专业标准化技术委员会委员的通知",
       "title": "重庆市气象局关于公开征集重庆市气象专业标准化技术委员会委员的通知",
       "report_url": "https://cq.cma.gov.cn/sqxj/ggtz/202610/t20261008_8080402.html",
@@ -99,6 +116,23 @@
       "score": 57.0,
       "deadline": null,
       "published_at": "2026-10-08",
+      "is_new": true,
+      "report_count": 1,
+      "audience": "general"
+    },
+    {
+      "event_key": "competition:首届厦门气象景观摄影大赛",
+      "title": "首届厦门气象景观摄影大赛优秀作品展播(第二期)",
+      "report_url": "https://ai.so.com/search/so8b299cdb944ec4bb15ce19b3545d7fca?search=%E9%A6%96%E5%B1%8A%E5%8E%A6%E9%97%A8%E6%B0%94%E8%B1%A1%E6%99%AF%E8%A7%82%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81%E5%B1%95%E6%92%AD%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%9C%9F%EF%BC%89&src=so_result_natural_news&srcg=so_result_natural_news",
+      "official_url": null,
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 53.0,
+      "deadline": null,
+      "published_at": null,
       "is_new": true,
       "report_count": 1,
       "audience": "general"
@@ -138,6 +172,23 @@
       "audience": "general"
     },
     {
+      "event_key": "grant:三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作...",
+      "title": "三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作 ...",
+      "report_url": "https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh",
+      "official_url": "https://www.funresearch.cn/register/home",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1,
+      "audience": "research"
+    },
+    {
       "event_key": "investment:商业气象综合解决方案提供商「九方科技」完成5000万元a轮融资投...",
       "title": "商业气象综合解决方案提供商「九方科技」完成5000万元A轮融资_投...",
       "report_url": "https://news.pedaily.cn/202107/474410.shtml",
@@ -170,6 +221,23 @@
       "is_new": true,
       "report_count": 1,
       "audience": "business"
+    },
+    {
+      "event_key": "grant:四川省科学技术厅四川省气象局关于发布2027年四川省气象科技联合专项项目申报指南",
+      "title": "四川省科学技术厅 四川省气象局 关于发布2027年四川省气象科技联合专项项目申报指南的通知-四川省气象局",
+      "report_url": "http://sc.cma.gov.cn/xxgk/tzgg/202611/t20261117_8145669.html",
+      "official_url": "http://sc.cma.gov.cn/xxgk/tzgg/202611/t20261117_8145669.html",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 41.0,
+      "deadline": null,
+      "published_at": "2026-11-17",
+      "is_new": true,
+      "report_count": 1,
+      "audience": "research"
     },
     {
       "event_key": "competition:海内外顶尖机构联合举办neurips2026竞赛，全球招募aiforphysic",
@@ -206,6 +274,23 @@
       "audience": "business"
     },
     {
+      "event_key": "grant:关于公布2025年合肥市新场景解决方案遴选认定结果的通知斯百德项目申报",
+      "title": "关于公布2025年合肥市新场景解决方案遴选认定结果的通知 - 斯百德项目申报",
+      "report_url": "https://www.ichuanghui.org/10002.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_other",
+      "status_label": "招标动态",
+      "platform": "web",
+      "score": 80.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1,
+      "audience": "research"
+    },
+    {
       "event_key": "investment:商业气象服务提供商象辑科技完成c+轮融资创业亚设网",
       "title": "商业气象服务提供商象辑科技完成C+轮融资 _创业_亚设网",
       "report_url": "https://www.ashea.com.cn/chuangye/2021/0618/316931.html",
@@ -240,6 +325,23 @@
       "audience": "business"
     },
     {
+      "event_key": "competition:兰州大学选拔赛",
+      "title": "“蒙知·浪潮杯”气象智能体开发挑战赛启动-内蒙古自治区气象局",
+      "report_url": "http://nm.cma.gov.cn/xwzx/gzdt/202611/t20261113_8141128.html",
+      "official_url": "https://atmos.lzu.edu.cn/html/dqxy/lddqxy/shouye/tongzhigg/2114525360023527426.html",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "ongoing",
+      "status_label": "报名中",
+      "platform": "web",
+      "score": 78.0,
+      "deadline": null,
+      "published_at": "2026-11-13",
+      "is_new": false,
+      "report_count": 3,
+      "audience": "general"
+    },
+    {
       "event_key": "other:结果揭晓!ecmwf人工智能气象竞赛最新赛段收官",
       "title": "求数据集（AI Earth”人工智能创新挑战赛——AI助力精准气象和海洋预测竞赛）_天池技术圈-阿里云天池",
       "report_url": "https://tianchi.aliyun.com/forum/issue/1042449",
@@ -255,23 +357,6 @@
       "is_new": false,
       "report_count": 2,
       "audience": "general"
-    },
-    {
-      "event_key": "grant:揭榜挂帅",
-      "title": "北京市科学技术委员会、中关村科技园区管理委员会、北京市气象局关于发布2026年度AI+气象“揭榜挂帅”专项榜单的通知_政策文件_北京市科学技术委员会、中关村科技园区管理委员会",
-      "report_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "official_url": "https://kw.beijing.gov.cn/zwgk/zcwj/202608/t20260817_4826343.html",
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 73.0,
-      "deadline": null,
-      "published_at": "2026-08-17",
-      "is_new": false,
-      "report_count": 2,
-      "audience": "research"
     },
     {
       "event_key": "tender:中国气象局上海气象装备保障中心",
@@ -311,7 +396,7 @@
       "event_key": "competition:第十七届服创大赛",
       "title": "大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）",
       "report_url": "https://www.fwwb.org.cn/news/show/599",
-      "official_url": null,
+      "official_url": "https://aistudio.baidu.com/competition/detail/1125",
       "category": "competition",
       "category_label": "竞赛赛事",
       "status": "unknown",
@@ -374,6 +459,23 @@
       "is_new": false,
       "report_count": 1,
       "audience": "business"
+    },
+    {
+      "event_key": "grant:浙江神仙天气照片征集活动启动,鼓励公众分享拍摄作品",
+      "title": "浙江 神仙天气 照片征集活动启动,鼓励公众分享拍摄作品",
+      "report_url": "https://ai.so.com/search/soa6851d13cce6df390e72fe49c9ec825a?search=%E6%B5%99%E6%B1%9F%22%E7%A5%9E%E4%BB%99%E5%A4%A9%E6%B0%94%22%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%BC%93%E5%8A%B1%E5%85%AC%E4%BC%97%E5%88%86%E4%BA%AB%E6%8B%8D%E6%91%84%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 69.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1,
+      "audience": "general"
     },
     {
       "event_key": "tender:项目名称:丰县乡镇空气质量网格化监测及省...",

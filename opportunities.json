@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T08:55:37.843447",
+  "generated": "2026-11-19T19:32:45.091925",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -119,40 +119,6 @@
       "is_new": true,
       "report_count": 1,
       "audience": "business"
-    },
-    {
-      "event_key": "competition:羊城工匠杯",
-      "title": "广州市气象局 广州市总工会关于印发2026年“羊城工匠杯”广州市气象行业职业技能竞赛(综合气象探测)实施方案的通知",
-      "report_url": "http://gd.cma.gov.cn/gzsqxj/zwgk_2386/gggs_2395/202608/t20260814_7986754.html",
-      "official_url": "http://gd.cma.gov.cn/gzsqxj/zwgk_2386/gggs_2395/202608/t20260814_7986754.html",
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 50.0,
-      "deadline": null,
-      "published_at": "2026-08-14",
-      "is_new": true,
-      "report_count": 1,
-      "audience": "general"
-    },
-    {
-      "event_key": "grant:三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作...",
-      "title": "三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作 ...",
-      "report_url": "https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh",
-      "official_url": "https://www.funresearch.cn/register/home",
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 50.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1,
-      "audience": "research"
     },
     {
       "event_key": "investment:商业气象综合解决方案提供商「九方科技」完成5000万元a轮融资投...",
@@ -529,23 +495,6 @@
       "audience": "general"
     },
     {
-      "event_key": "grant:量子技术气象应用",
-      "title": "关于发布2026年度国家自然科学基金气象联合基金“量子技术气象应用”领域申请指南的通告",
-      "report_url": "https://www.nsfc.gov.cn/p1/3381/2824/139876.html",
-      "official_url": "https://www.nsfc.gov.cn/p1/3381/2824/139876.html",
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 57.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": false,
-      "report_count": 2,
-      "audience": "research"
-    },
-    {
       "event_key": "tender:江苏常州85后，做气象ai：融资数千万搜狐网",
       "title": "AI 气象公司 WindBorne Systems 完成 3700 万美元 B 轮融资",
       "report_url": "https://www.techflowpost.com/newsletter/130823",
@@ -648,6 +597,40 @@
       "audience": "business"
     },
     {
+      "event_key": "competition:羊城工匠杯",
+      "title": "广州市气象局 广州市总工会关于印发2026年“羊城工匠杯”广州市气象行业职业技能竞赛(综合气象探测)实施方案的通知",
+      "report_url": "http://gd.cma.gov.cn/gzsqxj/zwgk_2386/gggs_2395/202608/t20260814_7986754.html",
+      "official_url": "http://gd.cma.gov.cn/gzsqxj/zwgk_2386/gggs_2395/202608/t20260814_7986754.html",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": "2026-08-14",
+      "is_new": false,
+      "report_count": 1,
+      "audience": "general"
+    },
+    {
+      "event_key": "grant:三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作...",
+      "title": "三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作的通知 - 科研项目申报 - 泛研网",
+      "report_url": "https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh",
+      "official_url": "https://www.funresearch.cn/register/home",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 50.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1,
+      "audience": "research"
+    },
+    {
       "event_key": "tender:北京市气象局(本级)2026年1至12月政府采购意向",
       "title": "北京市气象局(本级)2026年1至12月政府采购意向",
       "report_url": "http://www.ccgp-beijing.gov.cn/yxgk/sjcgyx/2026/4/2050d7e8bccd45d1ba22ab2e6414bf2a.htm",
@@ -733,5 +716,5 @@
       "audience": "student"
     }
   ],
-  "ended_count": 79
+  "ended_count": 84
 }

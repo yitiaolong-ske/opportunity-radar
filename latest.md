@@ -7,8 +7,6 @@
   报道 https://mp.weixin.qq.com/s?__biz=MjM5ODIzMjQwMg==&mid=2650630889&idx=1&sn=d86671e18e2ae61f465fb9277d95f2ea&chksm=bf46154d6a30ff6483a10dbe190d203aeeb44dc3256bc8e6e7ddb27aa99efa96e2611ca02441&scene=27
 - 🆕首届厦门气象景观摄影大赛优秀作品展播(第二期)（时间待核实·53｜⚠入口待找）
   报道 https://ai.so.com/search/so8b299cdb944ec4bb15ce19b3545d7fca?search=%E9%A6%96%E5%B1%8A%E5%8E%A6%E9%97%A8%E6%B0%94%E8%B1%A1%E6%99%AF%E8%A7%82%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81%E5%B1%95%E6%92%AD%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%9C%9F%EF%BC%89&src=so_result_natural_news&srcg=so_result_natural_news
-- 🆕广州市气象局 广州市总工会关于印发2026年“羊城工匠杯”广州市气象行业职业技能竞赛(综合气象探测)实施方案的通知（时间待核实·50｜入口 http://gd.cma.gov.cn/gzsqxj/zwgk_2386/gggs_2395/202608/t20260814_7986754.html）
-  报道 http://gd.cma.gov.cn/gzsqxj/zwgk_2386/gggs_2395/202608/t20260814_7986754.html
 - 🆕海内外顶尖机构联合举办 NeurIPS 2026 竞赛，全球招募 AI for Physical Systems 顶尖团队!（时间待核实·15｜⚠入口待找）
   报道 https://mp.weixin.qq.com/s?src=11&timestamp=1784772311&ver=6859&signature=Ay11Jq%2A-m8HfTDG6XiZJIUkR8pcXzbJKn1fd8HEixt1TWGcwDnDsJedQyplYjWKLXqiTaa2ldoLzTeFB6o-HvPjra6UkKe%2A-jS25zg3l0Q4VmA-emony1rtYT5Mdsffe&new=1
 - “蒙知·浪潮杯”气象智能体开发挑战赛启动-内蒙古自治区气象局（报名中·78｜入口 https://atmos.lzu.edu.cn/html/dqxy/lddqxy/shouye/tongzhigg/2114525360023527426.html）
@@ -19,14 +17,14 @@
   报道 https://www.fwwb.org.cn/news/show/599
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
   报道 https://www.douyin.com/video/7662564938002599187
+- 广州市气象局 广州市总工会关于印发2026年“羊城工匠杯”广州市气象行业职业技能竞赛(综合气象探测)实施方案的通知（时间待核实·50｜入口 http://gd.cma.gov.cn/gzsqxj/zwgk_2386/gggs_2395/202608/t20260814_7986754.html）
+  报道 http://gd.cma.gov.cn/gzsqxj/zwgk_2386/gggs_2395/202608/t20260814_7986754.html
 - 关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛”（ACTION 2026）的通知-信息公告栏（时间待核实·35｜入口 https://bulletin.nuist.edu.cn/info/1016/56216.htm）
   报道 https://bulletin.nuist.edu.cn/info/1016/56216.htm
 
-## 申报征集（13）
+## 申报征集（12）
 - 🆕重庆市气象局关于公开征集重庆市气象专业标准化技术委员会委员的通知（报名中·57｜入口 https://cq.cma.gov.cn/sqxj/ggtz/202610/t20261008_8080402.html）
   报道 https://cq.cma.gov.cn/sqxj/ggtz/202610/t20261008_8080402.html
-- 🆕三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作 ...（时间待核实·50｜入口 https://www.funresearch.cn/register/home）
-  报道 https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh
 - 🆕四川省科学技术厅 四川省气象局 关于发布2027年四川省气象科技联合专项项目申报指南的通知-四川省气象局（报名中·41｜入口 http://sc.cma.gov.cn/xxgk/tzgg/202611/t20261117_8145669.html）
   报道 http://sc.cma.gov.cn/xxgk/tzgg/202611/t20261117_8145669.html
 - 关于征集2027年度西安市气象科技领域研究课题建议的通知 - 科研项目申报 - 泛研网（时间待核实·70｜⚠入口待找）
@@ -37,12 +35,12 @@
   报道 https://sro.swjtu.edu.cn/info/1123/33855.htm
 - 气象科普征文活动启动,面向公众征集气象知识相关作品（时间待核实·61｜⚠入口待找）
   报道 https://ai.so.com/search/soc83ea7f446c21318092a56600acea83f?search=%E6%B0%94%E8%B1%A1%E7%A7%91%E6%99%AE%E5%BE%81%E6%96%87%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%9D%A2%E5%90%91%E5%85%AC%E4%BC%97%E5%BE%81%E9%9B%86%E6%B0%94%E8%B1%A1%E7%9F%A5%E8%AF%86%E7%9B%B8%E5%85%B3%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news
-- 关于发布2026年度国家自然科学基金气象联合基金“量子技术气象应用”领域申请指南的通告（时间待核实·57｜入口 https://www.nsfc.gov.cn/p1/3381/2824/139876.html）
-  报道 https://www.nsfc.gov.cn/p1/3381/2824/139876.html
 - 粤港澳大湾区及长三角启动气象指数(系列)应用场景方案征集活动（时间待核实·54｜⚠入口待找）
   报道 https://ai.so.com/search/sodd940b89e6614d56363aa41189bc4345?search=%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8F%8A%E9%95%BF%E4%B8%89%E8%A7%92%E5%90%AF%E5%8A%A8%E6%B0%94%E8%B1%A1%E6%8C%87%E6%95%B0%EF%BC%88%E7%B3%BB%E5%88%97%EF%BC%89%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E6%96%B9%E6%A1%88%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8&src=so_result_natural_news&srcg=so_result_natural_news
 - 关于征集气象科技服务需求与合作意向的通知 - 江西省蓝天科创有限公司（时间待核实·52｜⚠入口待找）
   报道 https://www.zouyuji.asia/article/21
+- 三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作的通知 - 科研项目申报 - 泛研网（时间待核实·50｜入口 https://www.funresearch.cn/register/home）
+  报道 https://www.funresearch.cn/grant/NTQxNjg3MGItMjFlMS00YTVjLWEzNWYtNGI4MjE5ZWJmMGNh
 - 南京市气象局 南京市科学技术局关于组织 开展2026年度南京市气象科技协同 创新项目申报工作的通知（时间待核实·41｜入口 http://js.cma.gov.cn/dsjwz/njs/njszfxxgk/sjfdzdgknr/sjtzgg/202610/t20261022_8103995.html）
   报道 http://js.cma.gov.cn/dsjwz/njs/njszfxxgk/sjfdzdgknr/sjtzgg/202610/t20261022_8103995.html
 - 中国气象局科技司关于开展气象科普资源征集暨2026年全国气象科普创作观摩活动的通知（时间待核实·37｜入口 https://www.cma.gov.cn/zfxxgk/gknr/wjgk/qtwj/202608/t20260812_7981746.html）

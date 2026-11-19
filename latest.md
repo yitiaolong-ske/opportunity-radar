@@ -1,4 +1,4 @@
-# 机会雷达（2026-11-18）
+# 机会雷达（2026-11-19）
 
 ## 竞赛赛事（10）
 - 🆕2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...（时间待核实·97｜⚠入口待找）
@@ -23,10 +23,6 @@
   报道 https://bulletin.nuist.edu.cn/info/1016/56216.htm
 
 ## 申报征集（13）
-- 🆕关于组织申报四川省科技厅 四川省气象局2027年四川省气象科技联合专项项目的通知-西南交通科学技术发展研究院（时间待核实·62｜入口 https://sro.swjtu.edu.cn/info/1123/33855.htm）
-  报道 https://sro.swjtu.edu.cn/info/1123/33855.htm
-- 🆕气象科普征文活动启动,面向公众征集气象知识相关作品（时间待核实·61｜⚠入口待找）
-  报道 https://ai.so.com/search/soc83ea7f446c21318092a56600acea83f?search=%E6%B0%94%E8%B1%A1%E7%A7%91%E6%99%AE%E5%BE%81%E6%96%87%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%9D%A2%E5%90%91%E5%85%AC%E4%BC%97%E5%BE%81%E9%9B%86%E6%B0%94%E8%B1%A1%E7%9F%A5%E8%AF%86%E7%9B%B8%E5%85%B3%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news
 - 🆕重庆市气象局关于公开征集重庆市气象专业标准化技术委员会委员的通知（报名中·57｜入口 https://cq.cma.gov.cn/sqxj/ggtz/202610/t20261008_8080402.html）
   报道 https://cq.cma.gov.cn/sqxj/ggtz/202610/t20261008_8080402.html
 - 🆕三明市科学技术局关于做好2026年度气象行业联合资助项目申报工作 ...（时间待核实·50｜入口 https://www.funresearch.cn/register/home）
@@ -37,6 +33,10 @@
   报道 https://www.funresearch.cn/grant/MTE3ZGViMjctNjViNy00MmIxLWFhMTctMjY1NDg0NTI0MGIw
 - 浙江 神仙天气 照片征集活动启动,鼓励公众分享拍摄作品（时间待核实·69｜⚠入口待找）
   报道 https://ai.so.com/search/soa6851d13cce6df390e72fe49c9ec825a?search=%E6%B5%99%E6%B1%9F%22%E7%A5%9E%E4%BB%99%E5%A4%A9%E6%B0%94%22%E7%85%A7%E7%89%87%E5%BE%81%E9%9B%86%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%BC%93%E5%8A%B1%E5%85%AC%E4%BC%97%E5%88%86%E4%BA%AB%E6%8B%8D%E6%91%84%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news
+- 关于组织申报四川省科技厅 四川省气象局2027年四川省气象科技联合专项项目的通知-西南交通科学技术发展研究院（时间待核实·62｜入口 https://sro.swjtu.edu.cn/info/1123/33855.htm）
+  报道 https://sro.swjtu.edu.cn/info/1123/33855.htm
+- 气象科普征文活动启动,面向公众征集气象知识相关作品（时间待核实·61｜⚠入口待找）
+  报道 https://ai.so.com/search/soc83ea7f446c21318092a56600acea83f?search=%E6%B0%94%E8%B1%A1%E7%A7%91%E6%99%AE%E5%BE%81%E6%96%87%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%9D%A2%E5%90%91%E5%85%AC%E4%BC%97%E5%BE%81%E9%9B%86%E6%B0%94%E8%B1%A1%E7%9F%A5%E8%AF%86%E7%9B%B8%E5%85%B3%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news
 - 关于发布2026年度国家自然科学基金气象联合基金“量子技术气象应用”领域申请指南的通告（时间待核实·57｜入口 https://www.nsfc.gov.cn/p1/3381/2824/139876.html）
   报道 https://www.nsfc.gov.cn/p1/3381/2824/139876.html
 - 粤港澳大湾区及长三角启动气象指数(系列)应用场景方案征集活动（时间待核实·54｜⚠入口待找）

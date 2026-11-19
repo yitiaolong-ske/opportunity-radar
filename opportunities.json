@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T19:30:14.285946",
+  "generated": "2026-11-19T08:55:37.843447",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -68,40 +68,6 @@
       "is_new": true,
       "report_count": 2,
       "audience": "business"
-    },
-    {
-      "event_key": "grant:关于组织申报四川省科技厅四川省气象局2027年四川省气象科技联合专项项目的通知西",
-      "title": "关于组织申报四川省科技厅 四川省气象局2027年四川省气象科技联合专项项目的通知-西南交通科学技术发展研究院",
-      "report_url": "https://sro.swjtu.edu.cn/info/1123/33855.htm",
-      "official_url": "https://sro.swjtu.edu.cn/info/1123/33855.htm",
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 62.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1,
-      "audience": "research"
-    },
-    {
-      "event_key": "grant:气象科普征文活动启动,面向公众征集气象知识相关作品",
-      "title": "气象科普征文活动启动,面向公众征集气象知识相关作品",
-      "report_url": "https://ai.so.com/search/soc83ea7f446c21318092a56600acea83f?search=%E6%B0%94%E8%B1%A1%E7%A7%91%E6%99%AE%E5%BE%81%E6%96%87%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%9D%A2%E5%90%91%E5%85%AC%E4%BC%97%E5%BE%81%E9%9B%86%E6%B0%94%E8%B1%A1%E7%9F%A5%E8%AF%86%E7%9B%B8%E5%85%B3%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news",
-      "official_url": null,
-      "category": "grant",
-      "category_label": "申报征集",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 61.0,
-      "deadline": null,
-      "published_at": null,
-      "is_new": true,
-      "report_count": 1,
-      "audience": "general"
     },
     {
       "event_key": "grant:重庆市气象局关于公开征集重庆市气象专业标准化技术委员会委员的通知",
@@ -512,6 +478,23 @@
       "audience": "business"
     },
     {
+      "event_key": "grant:关于组织申报四川省科技厅四川省气象局2027年四川省气象科技联合专项项目的通知西",
+      "title": "关于组织申报四川省科技厅 四川省气象局2027年四川省气象科技联合专项项目的通知-西南交通科学技术发展研究院",
+      "report_url": "https://sro.swjtu.edu.cn/info/1123/33855.htm",
+      "official_url": "https://sro.swjtu.edu.cn/info/1123/33855.htm",
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 62.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1,
+      "audience": "research"
+    },
+    {
       "event_key": "tender:山西省公路交通基础设施数字化转型",
       "title": "金华市气象服务中心能见度仪采购项目采购公告_通知公告_ 浙江气象局外网门户",
       "report_url": "http://zj.cma.gov.cn/dsqx/jhsqxj/zwxx_8931/tzgg_8932/202603/t20260310_7642626.html",
@@ -527,6 +510,23 @@
       "is_new": false,
       "report_count": 1,
       "audience": "business"
+    },
+    {
+      "event_key": "grant:气象科普征文活动启动,面向公众征集气象知识相关作品",
+      "title": "气象科普征文活动启动,面向公众征集气象知识相关作品",
+      "report_url": "https://ai.so.com/search/soc83ea7f446c21318092a56600acea83f?search=%E6%B0%94%E8%B1%A1%E7%A7%91%E6%99%AE%E5%BE%81%E6%96%87%E6%B4%BB%E5%8A%A8%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%9D%A2%E5%90%91%E5%85%AC%E4%BC%97%E5%BE%81%E9%9B%86%E6%B0%94%E8%B1%A1%E7%9F%A5%E8%AF%86%E7%9B%B8%E5%85%B3%E4%BD%9C%E5%93%81&src=so_result_natural_news&srcg=so_result_natural_news",
+      "official_url": null,
+      "category": "grant",
+      "category_label": "申报征集",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 61.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1,
+      "audience": "general"
     },
     {
       "event_key": "grant:量子技术气象应用",

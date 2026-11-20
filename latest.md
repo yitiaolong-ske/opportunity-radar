@@ -1,4 +1,4 @@
-# 机会雷达（2026-11-19）
+# 机会雷达（2026-11-20）
 
 ## 竞赛赛事（10）
 - 🆕2026 年AI 赋能千行百业超级联赛“人工智能+ 气象” 创新应用 ...（时间待核实·97｜⚠入口待找）
@@ -11,8 +11,6 @@
   报道 https://mp.weixin.qq.com/s?src=11&timestamp=1784772311&ver=6859&signature=Ay11Jq%2A-m8HfTDG6XiZJIUkR8pcXzbJKn1fd8HEixt1TWGcwDnDsJedQyplYjWKLXqiTaa2ldoLzTeFB6o-HvPjra6UkKe%2A-jS25zg3l0Q4VmA-emony1rtYT5Mdsffe&new=1
 - “蒙知·浪潮杯”气象智能体开发挑战赛启动-内蒙古自治区气象局（报名中·78｜入口 https://atmos.lzu.edu.cn/html/dqxy/lddqxy/shouye/tongzhigg/2114525360023527426.html）
   报道 http://nm.cma.gov.cn/xwzx/gzdt/202611/t20261113_8141128.html
-- 求数据集（AI Earth”人工智能创新挑战赛——AI助力精准气象和海洋预测竞赛）_天池技术圈-阿里云天池（时间待核实·75｜⚠入口待找）
-  报道 https://tianchi.aliyun.com/forum/issue/1042449
 - 大学生服务外包创新创业大赛--第十七届服创大赛A类赛题企业数据及资料（2026年4月8日更新）（时间待核实·70｜入口 https://aistudio.baidu.com/competition/detail/1125）
   报道 https://www.fwwb.org.cn/news/show/599
 - 2026深圳“气象小主播”大赛启动啦！！快关注@SZMG谈天说地 公众号推文了解大赛详情！（来源：SZMG谈天说地）#气象小主播 #深圳天气 #青春深圳（时间待核实·56｜⚠入口待找）
@@ -21,6 +19,8 @@
   报道 http://gd.cma.gov.cn/gzsqxj/zwgk_2386/gggs_2395/202608/t20260814_7986754.html
 - 关于组织学生报名“2026亚洲青年学生气候变化与健康创新大赛”（ACTION 2026）的通知-信息公告栏（时间待核实·35｜入口 https://bulletin.nuist.edu.cn/info/1016/56216.htm）
   报道 https://bulletin.nuist.edu.cn/info/1016/56216.htm
+- 第十五届全国气象行业职业 技能竞赛(选拔赛)（时间待核实·35｜入口 https://rsj.ganzhou.gov.cn/c101389/202609/6bc8f21006a94703a6734b97ea9ed72b.shtml）
+  报道 http://kejian2.cmatc.cma.cn/2020/jingsai/needKnow.html
 
 ## 申报征集（12）
 - 🆕重庆市气象局关于公开征集重庆市气象专业标准化技术委员会委员的通知（报名中·57｜入口 https://cq.cma.gov.cn/sqxj/ggtz/202610/t20261008_8080402.html）
@@ -48,13 +48,21 @@
 - 宁晋县人民政府 - 关于征集第一批公共数据资源授权运营应用场景的公告（报名中·37｜入口 https://www.ningjin.gov.cn/single/24/89459.html）
   报道 https://www.ningjin.gov.cn/single/24/89459.html
 
-## 招标采购（13）
+## 招标采购（17）
+- 🆕洛阳市公共资源交易中心--[暗标][政府采购·货物]新安县气象局新安国家基本气象站基础设施建设项目设备采购项目-公开招标公告（招标中·76｜⚠入口待找）
+  报道 https://lyggzyjy.ly.gov.cn/jyxx/003002/003002002/20260908/6f3c788c-885f-47a0-ae65-9b7dbbc4de3d.html
 - 🆕河北海事局船舶交通管理系统改扩建工程中标公告（已中标·70｜⚠入口待找）
   报道 https://www.china-tender.com.cn/jghw/101367.jhtml
+- 🆕气象仪器招标采购（已中标·70｜⚠入口待找）
+  报道 https://wap.qianlima.com/gjxx/400052/index.html
+- 🆕云南省墨江哈尼族自治县气象局墨江县极端灾害性天气监测预报预警能力提升建设项目--自动气象观测设备及备品备件采购项目公开招标公告（招标中·70｜⚠入口待找）
+  报道 https://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260812_27120702.htm
 - 🆕湖北邮电规划设计有限公司关于承揽面向长江航道的气象监测系统的 ...（招标中·65｜⚠入口待找）
   报道 https://www.tongxinzhaobiao.com/news-2983e0633c6c12c654b33563a2bcc930
 - 🆕完善东北地区空管气象探测设施工程配套设施及设备安装工程中标公告（已中标·50｜⚠入口待找）
   报道 https://www.ccgp.gov.cn/cggg/zygg/zbgg/202512/t20251226_25997773.htm
+- 🆕能见度仪价格受哪些因素影响，采购避坑指南（招标中·46｜⚠入口待找）
+  报道 http://www.bokeny.com/Article-1119740.html
 - 🆕防爆气象仪采购必看：2026年2大主流品牌型号对比（招标中·41｜⚠入口待找）
   报道 https://www.thqxjc.com/jishu/1332.html
 - 关于公布2025年合肥市新场景解决方案遴选认定结果的通知 - 斯百德项目申报（招标动态·80｜⚠入口待找）

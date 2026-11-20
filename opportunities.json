@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T19:32:45.091925",
+  "generated": "2026-11-20T15:27:10.287840",
   "active": [
     {
       "event_key": "grant:人工智能+气象",
@@ -19,6 +19,23 @@
       "audience": "general"
     },
     {
+      "event_key": "tender:洛阳市公共资源交易中心",
+      "title": "洛阳市公共资源交易中心--[暗标][政府采购·货物]新安县气象局新安国家基本气象站基础设施建设项目设备采购项目-公开招标公告",
+      "report_url": "https://lyggzyjy.ly.gov.cn/jyxx/003002/003002002/20260908/6f3c788c-885f-47a0-ae65-9b7dbbc4de3d.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 76.0,
+      "deadline": null,
+      "published_at": "2026-09-08",
+      "is_new": true,
+      "report_count": 1,
+      "audience": "business"
+    },
+    {
       "event_key": "tender:河北海事局船舶交通管理系统",
       "title": "河北海事局船舶交通管理系统改扩建工程中标公告",
       "report_url": "https://www.china-tender.com.cn/jghw/101367.jhtml",
@@ -33,6 +50,40 @@
       "published_at": null,
       "is_new": true,
       "report_count": 1,
+      "audience": "business"
+    },
+    {
+      "event_key": "tender:气象仪器招标采购",
+      "title": "气象仪器招标采购",
+      "report_url": "https://wap.qianlima.com/gjxx/400052/index.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_result",
+      "status_label": "已中标",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 2,
+      "audience": "business"
+    },
+    {
+      "event_key": "tender:及备品备件采购项目",
+      "title": "云南省墨江哈尼族自治县气象局墨江县极端灾害性天气监测预报预警能力提升建设项目--自动气象观测设备及备品备件采购项目公开招标公告",
+      "report_url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260812_27120702.htm",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 70.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 2,
       "audience": "business"
     },
     {
@@ -136,6 +187,23 @@
       "is_new": true,
       "report_count": 2,
       "audience": "business"
+    },
+    {
+      "event_key": "tender:能见度仪价格受哪些因素影响，采购避坑指南",
+      "title": "能见度仪价格受哪些因素影响，采购避坑指南",
+      "report_url": "http://www.bokeny.com/Article-1119740.html",
+      "official_url": null,
+      "category": "tender",
+      "category_label": "招标采购",
+      "status": "tender_open",
+      "status_label": "招标中",
+      "platform": "web",
+      "score": 46.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": true,
+      "report_count": 1,
+      "audience": "research"
     },
     {
       "event_key": "tender:防爆气象仪采购必看：2026年2大主流品牌型号对比",
@@ -271,23 +339,6 @@
       "published_at": "2026-11-13",
       "is_new": false,
       "report_count": 3,
-      "audience": "general"
-    },
-    {
-      "event_key": "other:结果揭晓!ecmwf人工智能气象竞赛最新赛段收官",
-      "title": "求数据集（AI Earth”人工智能创新挑战赛——AI助力精准气象和海洋预测竞赛）_天池技术圈-阿里云天池",
-      "report_url": "https://tianchi.aliyun.com/forum/issue/1042449",
-      "official_url": null,
-      "category": "competition",
-      "category_label": "竞赛赛事",
-      "status": "unknown",
-      "status_label": "时间待核实",
-      "platform": "web",
-      "score": 75.0,
-      "deadline": null,
-      "published_at": "2026-08-01",
-      "is_new": false,
-      "report_count": 2,
       "audience": "general"
     },
     {
@@ -714,6 +765,23 @@
       "is_new": false,
       "report_count": 1,
       "audience": "student"
+    },
+    {
+      "event_key": "competition:第十五届全国气象行业职业技能竞赛(选拔赛)",
+      "title": "第十五届全国气象行业职业 技能竞赛(选拔赛)",
+      "report_url": "http://kejian2.cmatc.cma.cn/2020/jingsai/needKnow.html",
+      "official_url": "https://rsj.ganzhou.gov.cn/c101389/202609/6bc8f21006a94703a6734b97ea9ed72b.shtml",
+      "category": "competition",
+      "category_label": "竞赛赛事",
+      "status": "unknown",
+      "status_label": "时间待核实",
+      "platform": "web",
+      "score": 35.0,
+      "deadline": null,
+      "published_at": null,
+      "is_new": false,
+      "report_count": 1,
+      "audience": "general"
     }
   ],
   "ended_count": 84
